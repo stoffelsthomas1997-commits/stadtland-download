@@ -1,13 +1,13 @@
 {
-  "downloadSize": 102465544,
-  "installerSize": 566272,
+  "version": "0.77.20261014",
+  "title": "STADTLAND jetzt mit Launcher",
   "notes": [
+    "Einmal installieren: Der Launcher hält STADTLAND automatisch aktuell.",
+    "Dateiprüfung, Reparatur und Offline-Start einer vorhandenen Installation.",
     "Autoscooter und Schießstand: 0 bis 5 NPC-Gegner auf Leicht, Normal oder Schwer.",
-    "Gemeinsam mit Freunden oder im Solo-Training spielen.",
-    "Verbessertes Reflexvisier und Partybeleuchtung.",
-    "Neu: STADTLAND-Launcher mit automatischen Updates und Reparaturfunktion."
+    "Bestehende Städte und Benutzerprofile bleiben erhalten."
   ],
-  "title": "NPC-Gegner und automatische Updates",
-  "version": "0.76.20261014",
-  "platform": "Windows 10 / 11, 64 Bit"
+  "platform": "Windows 10 / 11, 64 Bit",
+  "downloadSize": 102465968,
+  "installerSize": 566272
 }
