@@ -1,13 +1,14 @@
 {
-  "version": "0.77.20261014",
-  "title": "STADTLAND jetzt mit Launcher",
   "notes": [
-    "Einmal installieren: Der Launcher hält STADTLAND automatisch aktuell.",
-    "Dateiprüfung, Reparatur und Offline-Start einer vorhandenen Installation.",
-    "Autoscooter und Schießstand: 0 bis 5 NPC-Gegner auf Leicht, Normal oder Schwer.",
-    "Bestehende Städte und Benutzerprofile bleiben erhalten."
+    "Neue Installationen starten im Vollbild; gespeicherte Anzeigeeinstellungen bleiben erhalten.",
+    "Bürgermeisterwahlen alle zwei Spieljahre, mit synchroner Wahlszene und Siegercharakter im Koop.",
+    "Installationsordner frei wählbar; spätere Updates bleiben im gewählten Ordner.",
+    "Helle, besser lesbare Missionen, Fähigkeiten und Freischaltungen.",
+    "Vorhandene Städte, Benutzerprofile und frühere Wahlergebnisse bleiben erhalten. Alle Koop-Spieler bitte auf dieselbe Version aktualisieren."
   ],
+  "version": "0.78.20261014",
+  "installerSize": 573440,
+  "downloadSize": 102469431,
   "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 102465968,
-  "installerSize": 566272
+  "title": "STADTLAND 0.78 – Vollbild, Koop-Wahl und Missionen"
 }
