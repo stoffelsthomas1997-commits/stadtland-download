@@ -1,14 +1,14 @@
 {
-  "notes": [
-    "Neue Installationen starten im Vollbild; gespeicherte Anzeigeeinstellungen bleiben erhalten.",
-    "Bürgermeisterwahlen alle zwei Spieljahre, mit synchroner Wahlszene und Siegercharakter im Koop.",
-    "Installationsordner frei wählbar; spätere Updates bleiben im gewählten Ordner.",
-    "Helle, besser lesbare Missionen, Fähigkeiten und Freischaltungen.",
-    "Vorhandene Städte, Benutzerprofile und frühere Wahlergebnisse bleiben erhalten. Alle Koop-Spieler bitte auf dieselbe Version aktualisieren."
-  ],
-  "version": "0.78.20261014",
-  "installerSize": 573440,
-  "downloadSize": 102469431,
   "platform": "Windows 10 / 11, 64 Bit",
-  "title": "STADTLAND 0.78 – Vollbild, Koop-Wahl und Missionen"
+  "notes": [
+    "Freundschaftsanfragen als kompaktes Overlay: einmal annehmen und automatisch auf beiden PCs befreundet.",
+    "Koop-Einladungen direkt annehmen oder ablehnen; bestätigter Wechsel aus einer laufenden Stadt.",
+    "F8 bedient das Overlay auch im Fahrmodus und am Schießstand; lokale Steuerung kehrt danach zurück.",
+    "Gespeicherte Anfragen und unterbrochene Bestätigungen nach Wiederverbindung abgleichen.",
+    "Serverstatus und Verbindungstest im Spieler-Launcher."
+  ],
+  "installerSize": 573440,
+  "version": "0.80.20261015",
+  "title": "Freundschaftsanfragen & Einladungen",
+  "downloadSize": 111024161
 }
