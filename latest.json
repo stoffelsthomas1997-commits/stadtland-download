@@ -1,14 +1,15 @@
 {
-  "platform": "Windows 10 / 11, 64 Bit",
-  "notes": [
-    "Freundschaftsanfragen als kompaktes Overlay: einmal annehmen und automatisch auf beiden PCs befreundet.",
-    "Koop-Einladungen direkt annehmen oder ablehnen; bestätigter Wechsel aus einer laufenden Stadt.",
-    "F8 bedient das Overlay auch im Fahrmodus und am Schießstand; lokale Steuerung kehrt danach zurück.",
-    "Gespeicherte Anfragen und unterbrochene Bestätigungen nach Wiederverbindung abgleichen.",
-    "Serverstatus und Verbindungstest im Spieler-Launcher."
-  ],
   "installerSize": 573440,
-  "version": "0.80.20261015",
-  "title": "Freundschaftsanfragen & Einladungen",
-  "downloadSize": 111024161
+  "platform": "Windows 10 / 11, 64 Bit",
+  "title": "Autoscooter-Power-ups",
+  "notes": [
+    "Zufällige Power-ups: Riesen-Scooter, Mini-Scooter, Eisenpanzer, Regenbogen-K.O. und Doppel-MG.",
+    "Längere Laufzeiten: Riese und Mini 12 s, Eisen 10 s, Regenbogen-K.O. 7 s und Doppel-MG 11 s.",
+    "Fließende Größenwechsel, Metallhaut, Regenbogen-Lackierung, leuchtende Pickups und importierte Waffen mit Mündungsblitzen.",
+    "F oder Linksklick feuert die Doppel-MGs; Panzerung, Schutzzeiten, Treffer und Respawns bestimmt der Host.",
+    "NPC-Gegner sammeln Power-ups und verwenden Waffen ebenfalls. Stadt und nicht teilnehmende Mitspieler laufen weiter.",
+    "Feste Effektplätze und Strahlentreffer sparen einzelne Projektil-Physik; alle Koop-Spieler benötigen Version 0.81."
+  ],
+  "downloadSize": 111301502,
+  "version": "0.81.20261015"
 }
