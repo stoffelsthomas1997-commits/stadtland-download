@@ -1,15 +1,14 @@
 {
-  "notes": [
-    "Gewähltes Logo im Spielstil und Bürgermeister-Icon: Civic Hijack hat jetzt ein einheitliches Gesicht.",
-    "Neue Gestaltung im Hauptmenü, in Launcher, Installer, Patch-Zentrale und auf der Downloadseite.",
-    "Windows-Icon in neun Auflösungen für Desktop, Startmenü und Taskleiste.",
-    "Statische, gemeinsam verwendete Bilddateien ohne zusätzliche Berechnungen in der Stadtsimulation.",
-    "Das neue Motiv ist auch für die Discord-Spielanzeige eingerichtet. Die Darstellung in der echten Discord-Desktop-App konnte hier noch nicht geprüft werden.",
-    "Alle bisherigen Updates enthalten. Spielstände, Profile und Koop bleiben kompatibel."
-  ],
-  "title": "Civic Hijack – Unser neues Gesicht",
   "platform": "Windows 10 / 11, 64 Bit",
+  "downloadSize": 134547514,
   "installerSize": 583680,
-  "version": "0.89.20261016",
-  "downloadSize": 114643471
+  "notes": [
+    "Erstes Grafik-Muster: plastische Fensterrahmen, Fensterbänke, Eingangsdächer und weichere Kanten für Wohnhäuser und Wohntürme.",
+    "Abgestimmte Fassaden, Straßenbäume, Grünflächen und dezenter Ferndunst.",
+    "Berge und Wälder am Kartenrand verschneien jetzt gemeinsam mit der Stadt; sanfter Jahreszeitenwechsel ohne Neuaufbau der Landschaft.",
+    "Vorgefertigte einfache Gebäudemodelle für die Ferne. Wände und Fensterglas teilen sich einen undurchsichtigen Zeichenaufruf.",
+    "Stadtregeln, Spielstände und Koop-Protokoll unverändert."
+  ],
+  "version": "0.90.20261016",
+  "title": "Civic Hijack – Grafik-Musterquartier"
 }
