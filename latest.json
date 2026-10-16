@@ -1,16 +1,16 @@
 {
-  "installerSize": 579584,
   "notes": [
-    "Gedecktere, natürlichere Laubfarben und undurchsichtige Baumstämme. Vollständige Stamm- und Astgeometrie in der Nähe; reduzierte Details in der Ferne.",
-    "Unpassende kleine Ultimate-Nature-Baumvarianten entfernt. Neue und vorhandene Naturflächen nutzen die einheitliche Baum-Auswahl.",
-    "Laubbäume verlieren im Winter langsam ihre Blätter; Nadelbäume bleiben begrünt und tragen Schnee.",
-    "Schnee auf Dächern, Straßen, Gehwegen und Ästen. Winterlicher Schnee bleibt auch bei klarem Wetter erhalten.",
-    "Bestehender langsamer Jahreszeitenübergang bleibt erhalten. Gemeinsame Shader und instanzierte Bäume ohne zusätzliche Schneeobjekte.",
-    "Enthält den verbesserten Zugverkehr, die neue Karussellmusik und die Launcher-Korrekturen aus Version 0.84.",
-    "Alle Koop-Spieler bitte auf dieselbe Version aktualisieren. Spielstände bleiben erhalten."
+    "STADTLAND heißt jetzt Civic Hijack: neuer Name in Spiel, Menüs, Kirmesschildern, Launcher, Installer und auf der Downloadseite.",
+    "Bestehende Spielstände, Profile, Koop-Daten und Updateadressen bleiben kompatibel. Eigene alte Launcher-Verknüpfungen werden umbenannt.",
+    "Enthält die Grafikverbesserungen aus 0.86: kräftigere Gebäudefarben, dezente Fassaden, blickabhängiger Glasschimmer und warme abwechslungsreiche Nachtfenster.",
+    "Ruhigere Wasseroberflächen, wärmeres Abendlicht, kühlere Nachtatmosphäre und besser unterscheidbare Winterflächen.",
+    "Gemeinsame Materialien und eine kleine wiederverwendete Textur. Im Vergleich der Teststadt unverändert 264 Zeichenaufrufe.",
+    "Discord-Aktivitätsanzeige vorbereitet; wird nach Einrichtung der öffentlichen Application-ID aktiviert. Noch kein Windows-Herausgeberzertifikat: Download- und SmartScreen-Warnungen sind weiterhin möglich.",
+    "Einmaliges vollständiges Update für den Namenswechsel; spätere Differenzupdates bleiben möglich. Alle Korrekturen aus 0.85 enthalten."
   ],
-  "title": "Natürlichere Bäume und schneebedeckte Winter",
-  "version": "0.85.20261016",
-  "downloadSize": 112615931,
-  "platform": "Windows 10 / 11, 64 Bit"
+  "installerSize": 283648,
+  "title": "Civic Hijack – neuer Name, schöneres Stadtbild",
+  "version": "0.87.20261016",
+  "platform": "Windows 10 / 11, 64 Bit",
+  "downloadSize": 112331919
 }
