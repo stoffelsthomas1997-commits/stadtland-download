@@ -1,14 +1,10 @@
 {
   "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 134547514,
+  "downloadSize": 134940356,
   "installerSize": 583680,
+  "version": "0.91.20261016",
+  "title": "STADTLAND 0.91.20261016",
   "notes": [
-    "Erstes Grafik-Muster: plastische Fensterrahmen, Fensterbänke, Eingangsdächer und weichere Kanten für Wohnhäuser und Wohntürme.",
-    "Abgestimmte Fassaden, Straßenbäume, Grünflächen und dezenter Ferndunst.",
-    "Berge und Wälder am Kartenrand verschneien jetzt gemeinsam mit der Stadt; sanfter Jahreszeitenwechsel ohne Neuaufbau der Landschaft.",
-    "Vorgefertigte einfache Gebäudemodelle für die Ferne. Wände und Fensterglas teilen sich einen undurchsichtigen Zeichenaufruf.",
-    "Stadtregeln, Spielstände und Koop-Protokoll unverändert."
-  ],
-  "version": "0.90.20261016",
-  "title": "Civic Hijack – Grafik-Musterquartier"
+    "Verbesserungen und Fehlerbehebungen."
+  ]
 }
