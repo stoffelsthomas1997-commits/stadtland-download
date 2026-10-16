@@ -1,15 +1,20 @@
 {
   "installerSize": 573440,
   "platform": "Windows 10 / 11, 64 Bit",
-  "title": "Autoscooter-Power-ups",
+  "downloadSize": 111362261,
   "notes": [
-    "Zufällige Power-ups: Riesen-Scooter, Mini-Scooter, Eisenpanzer, Regenbogen-K.O. und Doppel-MG.",
-    "Längere Laufzeiten: Riese und Mini 12 s, Eisen 10 s, Regenbogen-K.O. 7 s und Doppel-MG 11 s.",
-    "Fließende Größenwechsel, Metallhaut, Regenbogen-Lackierung, leuchtende Pickups und importierte Waffen mit Mündungsblitzen.",
-    "F oder Linksklick feuert die Doppel-MGs; Panzerung, Schutzzeiten, Treffer und Respawns bestimmt der Host.",
-    "NPC-Gegner sammeln Power-ups und verwenden Waffen ebenfalls. Stadt und nicht teilnehmende Mitspieler laufen weiter.",
-    "Feste Effektplätze und Strahlentreffer sparen einzelne Projektil-Physik; alle Koop-Spieler benötigen Version 0.81."
+    "Kompakte 66 × 66 Meter Party-Arena bei unveränderter Karussellgröße, runde Plattformen, Neonränder und sparsame bewegte Farblicht-Effekte.",
+    "Freigegebener Jahrmarkt-Mix wie beim Autoscooter; reine Sitzduelle ohne Zielscheiben oder Selbst-Abschuss.",
+    "Neues baubares Chaos-Karussell: auf drehenden, geneigten und schwingenden Sitzen gegeneinander schießen.",
+    "Linksklick schießt, R lädt nach. Drei Treffer katapultieren Gegner aus dem Sitz; automatische sichere Rückkehr.",
+    "Feste Egoansicht mit Fadenkreuz und sichtbarer Waffe. W/S schwingt den Sitz, Maus zielt, Linksklick schießt.",
+    "Drei neue Cartoon-Wusch-/Boing-Sounds beim Herausschleudern, nach Entfernung gedämpft und über Effektlautstärke regelbar.",
+    "Gemeinsame Lobby, 30 Sekunden bis 5 Minuten, bis zu sechs Teilnehmer; 0–5 NPC-Gegner in drei Schwierigkeitsstufen.",
+    "Host entscheidet Treffer und Punkte. Ergebnisse, Training und Bürgermeisterwertung nutzen die bestehende Speicherung.",
+    "ESC für das lokale Menü. Stadt und übrige Mitspieler laufen weiter.",
+    "Feste Effektplätze und berechnete Flugbahnen ohne einzelne Projektil-Physikkörper. Nachladen am Schießstand korrigiert.",
+    "Alle Koop-Spieler benötigen Version 0.82. Bestehende Städte bleiben kompatibel."
   ],
-  "downloadSize": 111301502,
-  "version": "0.81.20261015"
+  "version": "0.82.20261015",
+  "title": "Karussell-Chaos"
 }
