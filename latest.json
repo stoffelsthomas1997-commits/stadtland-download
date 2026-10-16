@@ -1,20 +1,14 @@
 {
-  "installerSize": 573440,
+  "installerSize": 579584,
+  "downloadSize": 111361829,
   "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 111362261,
   "notes": [
-    "Kompakte 66 × 66 Meter Party-Arena bei unveränderter Karussellgröße, runde Plattformen, Neonränder und sparsame bewegte Farblicht-Effekte.",
-    "Freigegebener Jahrmarkt-Mix wie beim Autoscooter; reine Sitzduelle ohne Zielscheiben oder Selbst-Abschuss.",
-    "Neues baubares Chaos-Karussell: auf drehenden, geneigten und schwingenden Sitzen gegeneinander schießen.",
-    "Linksklick schießt, R lädt nach. Drei Treffer katapultieren Gegner aus dem Sitz; automatische sichere Rückkehr.",
-    "Feste Egoansicht mit Fadenkreuz und sichtbarer Waffe. W/S schwingt den Sitz, Maus zielt, Linksklick schießt.",
-    "Drei neue Cartoon-Wusch-/Boing-Sounds beim Herausschleudern, nach Entfernung gedämpft und über Effektlautstärke regelbar.",
-    "Gemeinsame Lobby, 30 Sekunden bis 5 Minuten, bis zu sechs Teilnehmer; 0–5 NPC-Gegner in drei Schwierigkeitsstufen.",
-    "Host entscheidet Treffer und Punkte. Ergebnisse, Training und Bürgermeisterwertung nutzen die bestehende Speicherung.",
-    "ESC für das lokale Menü. Stadt und übrige Mitspieler laufen weiter.",
-    "Feste Effektplätze und berechnete Flugbahnen ohne einzelne Projektil-Physikkörper. Nachladen am Schießstand korrigiert.",
-    "Alle Koop-Spieler benötigen Version 0.82. Bestehende Städte bleiben kompatibel."
+    "Karussell: Maus links zielt links, Maus rechts zielt rechts.",
+    "Abgerundete Dialoge und Popup-Menüs ohne schwarze Ecken.",
+    "Differenzupdates werden anhand signierter Dateiinhalte geprüft; unterschiedliche ZIP-Kompression löst keine falsche Fehlermeldung mehr aus.",
+    "Einmaliges vollständiges Übergangsupdate für ältere Launcher; danach wieder kleine Differenzupdates möglich.",
+    "Spielstände bleiben erhalten."
   ],
-  "version": "0.82.20261015",
-  "title": "Karussell-Chaos"
+  "title": "Launcher, Menüs und Karussell korrigiert",
+  "version": "0.83.20261016"
 }
