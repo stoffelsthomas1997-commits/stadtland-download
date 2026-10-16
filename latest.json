@@ -1,15 +1,16 @@
 {
+  "installerSize": 579584,
   "notes": [
-    "Züge fahren nach Halten in Fahrtrichtung weiter. Keine spontane Rückwärtsfahrt auf der Gegenspur; Rückwege benötigen passende Gleisverbindungen.",
-    "Zugpositionen und Drehgestelle werden wiederverwendet statt mehrfach identisch berechnet; räumliche Gleissuche und begrenzte Routencaches.",
-    "Eigene neue Kirmesmusik mit Orgel-/Elektro-Rhythmus im Karussell, getrennt von der Autoscootermusik.",
-    "Enthält die Menü-, Karussell-Maus- und Launcher-Korrekturen aus der vorbereiteten 0.83.",
-    "Einmaliges vollständiges Update für ältere Launcher; danach wieder kleine Differenzupdates möglich.",
+    "Gedecktere, natürlichere Laubfarben und undurchsichtige Baumstämme. Vollständige Stamm- und Astgeometrie in der Nähe; reduzierte Details in der Ferne.",
+    "Unpassende kleine Ultimate-Nature-Baumvarianten entfernt. Neue und vorhandene Naturflächen nutzen die einheitliche Baum-Auswahl.",
+    "Laubbäume verlieren im Winter langsam ihre Blätter; Nadelbäume bleiben begrünt und tragen Schnee.",
+    "Schnee auf Dächern, Straßen, Gehwegen und Ästen. Winterlicher Schnee bleibt auch bei klarem Wetter erhalten.",
+    "Bestehender langsamer Jahreszeitenübergang bleibt erhalten. Gemeinsame Shader und instanzierte Bäume ohne zusätzliche Schneeobjekte.",
+    "Enthält den verbesserten Zugverkehr, die neue Karussellmusik und die Launcher-Korrekturen aus Version 0.84.",
     "Alle Koop-Spieler bitte auf dieselbe Version aktualisieren. Spielstände bleiben erhalten."
   ],
-  "downloadSize": 112245707,
-  "platform": "Windows 10 / 11, 64 Bit",
-  "title": "Zugverkehr und neue Karussellmusik",
-  "version": "0.84.20261016",
-  "installerSize": 579584
+  "title": "Natürlichere Bäume und schneebedeckte Winter",
+  "version": "0.85.20261016",
+  "downloadSize": 112615931,
+  "platform": "Windows 10 / 11, 64 Bit"
 }
