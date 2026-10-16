@@ -1,16 +1,15 @@
 {
-  "notes": [
-    "STADTLAND heißt jetzt Civic Hijack: neuer Name in Spiel, Menüs, Kirmesschildern, Launcher, Installer und auf der Downloadseite.",
-    "Bestehende Spielstände, Profile, Koop-Daten und Updateadressen bleiben kompatibel. Eigene alte Launcher-Verknüpfungen werden umbenannt.",
-    "Enthält die Grafikverbesserungen aus 0.86: kräftigere Gebäudefarben, dezente Fassaden, blickabhängiger Glasschimmer und warme abwechslungsreiche Nachtfenster.",
-    "Ruhigere Wasseroberflächen, wärmeres Abendlicht, kühlere Nachtatmosphäre und besser unterscheidbare Winterflächen.",
-    "Gemeinsame Materialien und eine kleine wiederverwendete Textur. Im Vergleich der Teststadt unverändert 264 Zeichenaufrufe.",
-    "Discord-Aktivitätsanzeige vorbereitet; wird nach Einrichtung der öffentlichen Application-ID aktiviert. Noch kein Windows-Herausgeberzertifikat: Download- und SmartScreen-Warnungen sind weiterhin möglich.",
-    "Einmaliges vollständiges Update für den Namenswechsel; spätere Differenzupdates bleiben möglich. Alle Korrekturen aus 0.85 enthalten."
-  ],
+  "title": "Civic Hijack – Discord-Spielanzeige",
+  "downloadSize": 112331638,
   "installerSize": 283648,
-  "title": "Civic Hijack – neuer Name, schöneres Stadtbild",
-  "version": "0.87.20261016",
-  "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 112331919
+  "notes": [
+    "Discord-Spielanzeige jetzt eingerichtet: Civic Hijack mit Städtebau & Kirmes und vergangener Spielzeit.",
+    "Discord-Desktop-App öffnen und das Spiel über den aktualisierten Launcher starten. Kein Bot, Token oder separates Discord-Konto für das Spiel erforderlich.",
+    "Kleiner lokaler Hilfsprozess ohne zusätzliche Arbeit in der Stadtsimulation. Endet mit dem Spiel; ohne Discord bleibt der Spielstart normal möglich.",
+    "Verbindungen werden auch nach einer zu langsam beantworteten Discord-Anmeldung mit wachsendem Abstand erneut versucht.",
+    "Keine Übertragung von Stadt-, Freundes- oder Kontogeheimnissen. Sichtbarer Live-Test steht bis zur verfügbaren Discord-Desktop-App aus; lokales IPC-Protokoll getestet.",
+    "Alle bisherigen Grafikverbesserungen und die Umbenennung aus 0.87 enthalten. Spielstände, Profile und Koop-Protokoll bleiben unverändert."
+  ],
+  "version": "0.88.20261016",
+  "platform": "Windows 10 / 11, 64 Bit"
 }
