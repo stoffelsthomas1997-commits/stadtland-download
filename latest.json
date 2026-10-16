@@ -1,14 +1,15 @@
 {
-  "installerSize": 579584,
-  "downloadSize": 111361829,
-  "platform": "Windows 10 / 11, 64 Bit",
   "notes": [
-    "Karussell: Maus links zielt links, Maus rechts zielt rechts.",
-    "Abgerundete Dialoge und Popup-Menüs ohne schwarze Ecken.",
-    "Differenzupdates werden anhand signierter Dateiinhalte geprüft; unterschiedliche ZIP-Kompression löst keine falsche Fehlermeldung mehr aus.",
-    "Einmaliges vollständiges Übergangsupdate für ältere Launcher; danach wieder kleine Differenzupdates möglich.",
-    "Spielstände bleiben erhalten."
+    "Züge fahren nach Halten in Fahrtrichtung weiter. Keine spontane Rückwärtsfahrt auf der Gegenspur; Rückwege benötigen passende Gleisverbindungen.",
+    "Zugpositionen und Drehgestelle werden wiederverwendet statt mehrfach identisch berechnet; räumliche Gleissuche und begrenzte Routencaches.",
+    "Eigene neue Kirmesmusik mit Orgel-/Elektro-Rhythmus im Karussell, getrennt von der Autoscootermusik.",
+    "Enthält die Menü-, Karussell-Maus- und Launcher-Korrekturen aus der vorbereiteten 0.83.",
+    "Einmaliges vollständiges Update für ältere Launcher; danach wieder kleine Differenzupdates möglich.",
+    "Alle Koop-Spieler bitte auf dieselbe Version aktualisieren. Spielstände bleiben erhalten."
   ],
-  "title": "Launcher, Menüs und Karussell korrigiert",
-  "version": "0.83.20261016"
+  "downloadSize": 112245707,
+  "platform": "Windows 10 / 11, 64 Bit",
+  "title": "Zugverkehr und neue Karussellmusik",
+  "version": "0.84.20261016",
+  "installerSize": 579584
 }
