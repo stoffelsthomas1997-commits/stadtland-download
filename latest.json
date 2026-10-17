@@ -1,10 +1,12 @@
 {
-  "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 134940356,
+  "version": "0.95.20261017",
   "installerSize": 583680,
-  "version": "0.91.20261016",
-  "title": "STADTLAND 0.91.20261016",
+  "downloadSize": 135295092,
   "notes": [
-    "Verbesserungen und Fehlerbehebungen."
-  ]
+    "Fester Abrissknopf mit Hammer-Symbol in der unteren Bauleiste: ein Klick aktiviert das vorhandene Werkzeug für Gebäude, Straßen und Gleisabschnitte.",
+    "Aktive Auswahl wird hervorgehoben. Extras zeigt den Naturpinsel; für Abriss muss kein Untermenü mehr geöffnet werden.",
+    "Enthält alle Performance-Verbesserungen aus 0.94. Spielstände bleiben kompatibel; kein Serverupdate nötig."
+  ],
+  "title": "Civic Hijack – Abriss direkt in der Bauleiste",
+  "platform": "Windows 10 / 11, 64 Bit"
 }
