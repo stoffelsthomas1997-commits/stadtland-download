@@ -1,12 +1,17 @@
 {
-  "version": "0.95.20261017",
+  "platform": "Windows 10 / 11, 64 Bit",
+  "title": "Civic Hijack – Verkehr, Koop-Autos & manuelle Wahlen",
   "installerSize": 583680,
-  "downloadSize": 135295092,
+  "downloadSize": 135312683,
+  "version": "0.96.20261018",
   "notes": [
-    "Fester Abrissknopf mit Hammer-Symbol in der unteren Bauleiste: ein Klick aktiviert das vorhandene Werkzeug für Gebäude, Straßen und Gleisabschnitte.",
-    "Aktive Auswahl wird hervorgehoben. Extras zeigt den Naturpinsel; für Abriss muss kein Untermenü mehr geöffnet werden.",
-    "Enthält alle Performance-Verbesserungen aus 0.94. Spielstände bleiben kompatibel; kein Serverupdate nötig."
-  ],
-  "title": "Civic Hijack – Abriss direkt in der Bauleiste",
-  "platform": "Windows 10 / 11, 64 Bit"
+    "Verkehr repariert: Autos und Fahrräder können an normalen Straßenenden über abgerundete Wendebögen auf die Gegenseite fahren. Sackgassen verhindern damit nicht mehr sämtliche Pendelfahrten. Autobahnen und Einbahnauffahrten bleiben getrennt.",
+    "Eine vorübergehende Fußgänger-Ersatzroute löscht die bevorzugte Verkehrsmittelwahl nicht mehr dauerhaft. Fehler mit ausschließlich laufenden Bewohnern im betroffenen Spielstand behoben.",
+    "NPC-Gehanimation: Wegstrecke bleibt bei Hintergrundsimulation und Routenübergängen erhalten; verhindert Sprünge bei der Animationsphase.",
+    "Stadterkunden im Koop: andere Fahrer mit Fahrzeug, Namensschild, gelenkten Rädern und geglätteter Bewegung sichtbar. Aussteigen und Verbindungsabbrüche entfernen die Autos. Kleine begrenzte Positionspakete, keine zusätzliche NPC- oder Fahrzeugphysik.",
+    "Motorgeräusche beim eigenen Fahren mit Leerlauf, Beschleunigung und passenden Aufnahmen für PKW, Bus, LKW, Sportwagen und Motorräder. Effekte-Regler und Aussteigen schalten den Ton ab; fremde Fahrzeuge nutzen die vorhandene begrenzte, entfernungsabhängige Tonmischung.",
+    "Strom- und Wasserkreise erscheinen automatisch beim Bau des passenden Versorgungsgebäudes, einschließlich Vorschau-Reichweite, und verschwinden nach Werkzeugwechsel. Bewusst aktivierte Übersichten bleiben erhalten.",
+    "Bürgermeisterwahl ausschließlich manuell mit Strg + M, im Koop nur vom Host. Kein automatischer Wahlzyklus mehr. Wahlergebnis wird weiterhin gespeichert und bei allen Mitspielern synchronisiert.",
+    "Spielstände bleiben kompatibel. Kein Relay-Serverupdate nötig."
+  ]
 }
