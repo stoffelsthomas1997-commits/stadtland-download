@@ -1,17 +1,16 @@
 {
-  "notes": [
-    "Stadterkundung: rund 30 Prozent kleinerer Wendekreis. Autos lenken bei langsamem und schnellem Fahren direkter; Lenkrichtung und Rückwärtsfahren bleiben erhalten.",
-    "Neue größere Anlagen: Stadtkraftwerk und zentrales Wasserwerk mit eigenem 18 × 18 m Grundstück, detaillierter statischer Geometrie und Anschlüssen für unterirdische Leitungen. Bestehende kleine Werke bleiben erhalten.",
-    "Strom- und Wasserleitungen ziehen oder mit Start-/Endklicks verbinden. Leitungen liegen 2 m unterirdisch. Abzweige und gleichartige Kreuzungen verbinden sich automatisch. Nur mit einem fertigen Werk verbundene Abschnitte liefern Versorgung im schmalen 12-m-Korridor. Getrennte Abrisswerkzeuge für Strom und Wasser.",
-    "Ein- und zweispurige Kreisverkehre: Mittelpunkt frei oder auf vorhandener Stadtstraße setzen, Maus halten und Radius aufziehen. Vorhandene ebenerdige Straßen werden passend angeschlossen; Straßen im Inneren werden ersetzt. Gebäude, Bahnhöfe, Haltestellen, Autobahnen und Gleisabstände werden geschützt.",
-    "Kreisverkehr fährt ausschließlich in einer Richtung. Einfahrten beachten den kreisenden Verkehr. Mehrspurige Ringe unterstützen alternative Fahrspuren und gebogene Spurwechsel. Keine Ampeln im Kreisverkehr. Fahrtrichtungspfeile und Vorfahrtsmarkierungen.",
-    "Autos können auch an normalen Straßenkreuzungen wenden. Auf mehrspurigen Zufahrten nutzen sie dafür die innere Spur. Autobahnen und Einbahnstrecken bekommen keine falschen Gegenfahrten.",
-    "Versorgung, Netze und Kreisverkehre werden mit der Stadt gespeichert und über den vorhandenen Koop synchronisiert. Gemeinsames Weiterbauen bleibt möglich. Bestehende Spielstände werden ohne Leitungen sicher geladen.",
-    "Performance: Leitungsverbindungen werden nur bei Änderungen neu berechnet. Räumliche Versorgungssuche, zwischengespeicherte Geometrie und gebündelte Materialien. Keine zusätzlichen dauerhaften Fahrzeug-Physikobjekte. Untergrunddarstellung erscheint nur beim passenden Werkzeug."
-  ],
-  "installerSize": 583680,
-  "version": "0.97.20261018",
-  "title": "Civic Hijack – Versorgungsnetze & Kreisverkehre",
+  "downloadSize": 135366814,
+  "title": "Civic Hijack – Lebenszyklen & Bestattungen",
+  "version": "0.98.20261019",
   "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 135346693
+  "installerSize": 583680,
+  "notes": [
+    "Einwohner erleben nun den Ruhestand ab 65. Altersbedingte Todesfälle verteilen sich individuell zwischen 82 und 100 persönlichen Lebensjahren. Keine monatliche Sterbelotterie und keine Altersberechnung pro Bild.",
+    "Todesfälle entfernen die echten Haushaltsmitglieder und geben Wohnraum sowie Arbeitsplätze frei. Geburten haben vor Zuzug Vorrang; größere Wohnhäuser können mehrere Familien bekommen. Der Zuzug ersetzt Todesfälle zusätzlich zum üblichen Wachstum, sofern freie versorgte Wohnungen vorhanden sind. Wohnkapazitäten bleiben gültig.",
+    "Neu am Straßenrand baubar: Friedhof mit kleiner Kirche, Glockenturm, Wegen, Bänken und Grabgärten sowie ein modernes Krematorium mit Abschiedshalle, begrüntem Dach, Solaranlage und Fahrzeuggarage. Beide Modelle verwenden statische gebündelte Geometrie.",
+    "Bestattungswagen holen Verstorbene am Wohnhaus ab und kehren zur eigenen Einrichtung zurück. Kein Blaulicht und keine Sirenen. Abholungen werden je Haus gebündelt; maximal acht aktive Fahrzeuge stadtweit. Ohne erreichbaren, mit Strom und Wasser versorgten Betrieb bleibt der Auftrag gespeichert.",
+    "Chronik und Bevölkerungsübersicht zeigen Rentner, Todesfälle insgesamt und den letzten Monatsbericht mit Geburten, Todesfällen und Zuzügen. Die lebenslangen Summen bleiben trotz begrenzter Chroniklänge erhalten. Senioren nutzen gemeinsame graue Haarfarben ohne zusätzliche individuelle Materialien.",
+    "Spielstände und Koop übertragen die neuen Haushaltsdaten, Chronik und Abholaufträge. Aktive Abholfahrten lassen sich wieder laden. Beim Abriss einer Einrichtung gehen offene Aufträge nicht verloren. Alte Spielstände mit vormals unsterblichen Bewohnern werden ohne sofortige Todeswelle übernommen.",
+    "Abriss: Mausbewegungen für die Vorschau werden auf höchstens 30 Aktualisierungen pro Sekunde zusammengefasst. Unveränderte Grundstücks- und Infrastruktur-Indizes werden wiederverwendet. Schulwegzuordnung projiziert unveränderte Wohnhäuser nicht erneut aufs Straßennetz. Faire Arbeitsplatzverteilung überspringt leere Haushaltsslots. Darstellung und Verkehrskonfiguration werden bei lokalen Änderungen auf getrennte Frames verteilt."
+  ]
 }
