@@ -1,16 +1,14 @@
 {
-  "downloadSize": 135366814,
-  "title": "Civic Hijack – Lebenszyklen & Bestattungen",
-  "version": "0.98.20261019",
+  "title": "Civic Hijack – Performance: Koop & Kirmes",
   "platform": "Windows 10 / 11, 64 Bit",
-  "installerSize": 583680,
+  "downloadSize": 135370338,
   "notes": [
-    "Einwohner erleben nun den Ruhestand ab 65. Altersbedingte Todesfälle verteilen sich individuell zwischen 82 und 100 persönlichen Lebensjahren. Keine monatliche Sterbelotterie und keine Altersberechnung pro Bild.",
-    "Todesfälle entfernen die echten Haushaltsmitglieder und geben Wohnraum sowie Arbeitsplätze frei. Geburten haben vor Zuzug Vorrang; größere Wohnhäuser können mehrere Familien bekommen. Der Zuzug ersetzt Todesfälle zusätzlich zum üblichen Wachstum, sofern freie versorgte Wohnungen vorhanden sind. Wohnkapazitäten bleiben gültig.",
-    "Neu am Straßenrand baubar: Friedhof mit kleiner Kirche, Glockenturm, Wegen, Bänken und Grabgärten sowie ein modernes Krematorium mit Abschiedshalle, begrüntem Dach, Solaranlage und Fahrzeuggarage. Beide Modelle verwenden statische gebündelte Geometrie.",
-    "Bestattungswagen holen Verstorbene am Wohnhaus ab und kehren zur eigenen Einrichtung zurück. Kein Blaulicht und keine Sirenen. Abholungen werden je Haus gebündelt; maximal acht aktive Fahrzeuge stadtweit. Ohne erreichbaren, mit Strom und Wasser versorgten Betrieb bleibt der Auftrag gespeichert.",
-    "Chronik und Bevölkerungsübersicht zeigen Rentner, Todesfälle insgesamt und den letzten Monatsbericht mit Geburten, Todesfällen und Zuzügen. Die lebenslangen Summen bleiben trotz begrenzter Chroniklänge erhalten. Senioren nutzen gemeinsame graue Haarfarben ohne zusätzliche individuelle Materialien.",
-    "Spielstände und Koop übertragen die neuen Haushaltsdaten, Chronik und Abholaufträge. Aktive Abholfahrten lassen sich wieder laden. Beim Abriss einer Einrichtung gehen offene Aufträge nicht verloren. Alte Spielstände mit vormals unsterblichen Bewohnern werden ohne sofortige Todeswelle übernommen.",
-    "Abriss: Mausbewegungen für die Vorschau werden auf höchstens 30 Aktualisierungen pro Sekunde zusammengefasst. Unveränderte Grundstücks- und Infrastruktur-Indizes werden wiederverwendet. Schulwegzuordnung projiziert unveränderte Wohnhäuser nicht erneut aufs Straßennetz. Faire Arbeitsplatzverteilung überspringt leere Haushaltsslots. Darstellung und Verkehrskonfiguration werden bei lokalen Änderungen auf getrennte Frames verteilt."
-  ]
+    "Freundesliste und Online-Koop verarbeiten DNS, Verbindungsaufbau, TLS und Socket-Abfragen jetzt in eigenen Hintergrund-Threads. Diese Arbeit hält den Bildaufbau und die Spiellogik nicht mehr an. Nachrichten werden geordnet über begrenzte Warteschlangen weitergereicht; Szenen, Spielregeln und Punkte bleiben auf dem Hauptthread.",
+    "Wenn Spieler ein Minispiel betreten, zählen ihre verlassenen Stadtkameras nicht mehr als Nahbereich für die aufwendige Verkehrssimulation. Außerhalb beobachteter Bereiche bleiben Fahrten, Ankünfte und Wirtschaft aktiv. Andere Koop-Spieler können weiterbauen und erhalten weiterhin sichtbaren Verkehr.",
+    "Große Stadt- und Naturzustände werden während laufender Minispielrunden nur an die weiterbauenden Spieler übertragen. Zur Rückkehr erhält der Minispiel-Spieler einen vollständigen aktuellen Zustand einschließlich zwischenzeitlicher Familienänderungen und Bauarbeiten. Minispiel-Steuerung, Kollisionen, Punkte und Ergebnisse laufen weiterhin autoritativ und synchronisiert.",
+    "Freundes-Nachrichten werden pro Bild begrenzt verarbeitet. Wiederverbindungen und Verbindungsabbrüche schließen ihre Hintergrund-Threads sauber. Modelle, Texturen, Beleuchtung und die eingestellte Bevölkerungsquote bleiben erhalten.",
+    "Lokaler Vergleich: Die getestete Stadtansicht mit 2.356 Einwohnern erreichte etwa 60 statt 32 FPS. Bei 17.920 Einwohnern sank die CPU-Zeit der Stadtsimulation während einer gemeinsamen Minispielrunde um rund 74 Prozent. Ergebnisse hängen von PC, Stadt und Netzwerk ab; Monatsabschlüsse und große Umbauten können weiterhin einzelne Lastspitzen verursachen."
+  ],
+  "version": "0.99.20261020",
+  "installerSize": 583680
 }
