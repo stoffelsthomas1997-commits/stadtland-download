@@ -1,16 +1,16 @@
 {
-  "title": "Civic Hijack – City Rush: Straßenrennen im Koop",
-  "downloadSize": 135612751,
-  "installerSize": 583680,
-  "platform": "Windows 10 / 11, 64 Bit",
-  "version": "0.102.20261020",
-  "notes": [
-    "Autohändler „Hijack Motors“ im unteren Baumenü unter Bauen. Am Straßenrand platzieren, fertigstellen und mit Strom/Wasser versorgen. Über das Gebäudefenster öffnet sich City Rush. Ein automatisch gefundener, gerichteter Straßenrundkurs ab 220 Metern ist Voraussetzung; eine Sackgasse zählt nicht als Rundkurs.",
-    "City Rush für 2–6 Koop-Spieler, dazu eine ausdrücklich als solche bezeichnete Solo-Testfahrt. Der Lobby-Leiter stellt 1, 2, 3, 5 oder 10 Runden ein und öffnet die Sportwagenauswahl. Drei vorhandene Sportwagen mit neuem Arcade-Handling: Vektor GT, Sonnenjäger RS und Nachtschatten R. Nach 60 Sekunden oder sobald alle bereit sind folgt der gemeinsame 3-2-1-Start.",
-    "Freies Lenken, Beschleunigen, Bremsen, Rückwärtsfahren und Handbremsdrift. W/S Gas/Bremse, A/D Lenken, Leertaste Drift, C Cockpit/Verfolgerkamera, R zur Strecke zurück (+5 Sekunden), Esc Rennmenü. Anzeigen für Platz, Runden, Zeit, Tempo und Richtung sowie Pfeile an den Straßen. Geordnete Prüfpunkte verhindern Abkürzungsrunden und Rückwärtswertung.",
-    "Der Host berechnet Autos, Kollisionen, Fortschritt und Ergebnisse. Clients senden Eingaben und nutzen lokale Vorhersage mit Korrektur; andere Autos werden interpoliert. Stadtverkehr bremst Rennwagen bei Kontakten, Gebäude bleiben fest, und Höhen trennen Brücken vom Verkehr darunter. Nicht teilnehmende Spieler können weiterbauen. Einmal pro Stadt ist eine gemeinsame Rennlobby geöffnet.",
-    "Originaler elektronischer Rennmusik-Loop, Motorengeräusche, Reifensound, Aufpralle und höchstens 64 kurze Driftspuren. Keine externen Songaufnahmen oder zusätzlichen KI-Gegner. Cockpits werden nur für den lokalen Fahrer beim Umschalten erzeugt. Leere Rennlobbys führen keine Fahrphysik aus; Geometrie und Kollisionsformen werden wiederverwendet.",
-    "Gemeinsame Zielwertung mit 60 Sekunden Nachlauf nach dem ersten Ziel und maximal 20 Minuten Rennzeit. Ausgestiegene Teilnehmer verändern die eingefrorene Ergebnisliste nicht. Die letzten zwölf abgeschlossenen Rennen werden in der Stadt gespeichert, alte Spielstände bleiben ladbar. Bei Verbindungsverlust zum Stadt-Host endet die lokale Rennansicht sicher; die Stadt-Host-Übernahme wird nicht behauptet.",
-    "Enthält auch die lokalen Updates 0.100 und 0.101: Stadtnatur im Spielstil mit Wintertannen, angepasste Kirmesarchitektur, Stadt-erkunden-Knopf unten im HUD und sparsame Arcade-Kollisionen beim Erkunden. Power-ups für City Rush sind noch nicht eingebaut."
-  ]
+    "version":  "0.106.20261021",
+    "downloadSize":  136555755,
+    "installerSize":  583680,
+    "platform":  "Windows 10 / 11, 64 Bit",
+    "title":  "Civic Hijack · Verkehr, Koop \u0026 Operation Kürbisnacht",
+    "notes":  [
+                  "Verkehr zurück in die Stadt: Gespeicherte Städte mit leerem Verkehr ergänzen Autos, Fahrräder und Passanten noch unter dem Ladebildschirm. In den Einstellungen ist 0 % jetzt deutlich als Aus gekennzeichnet; eine Schaltfläche hilft beim Wechsel auf 25 % aktive Einwohner.",
+                  "Große Monatsabschlüsse, vollständige Koop-Stadtupdates und neue Verkehrsrouten werden auf getrennten Daten im Hintergrund vorbereitet. Bestehende Fahrten laufen weiter. Gleichzeitige Bauänderungen bleiben erhalten und werden nicht von veralteten Berechnungen überschrieben.",
+                  "Warenlieferungen lösen keine vollständige Einwohner-Neuberechnung mehr aus. Güterrouten und Anfahr-Effekte werden in kleinen Arbeitsschritten vorbereitet. Ein doppelter Eintrag detaillierter Verkehrsteilnehmer wurde entfernt.",
+                  "Neu seit 0.102: Operation Kürbisnacht für 1–6 Teilnehmer mit UFO-Film, drei Bosswellen, MP, Raketenwerfer, Nachschub und Team-Wiederbelebung. Nicht teilnehmende Koop-Spieler können weiterbauen. Der Host startet Events über den UFO-Knopf unten im HUD.",
+                  "Vier überarbeitete Zombie-Alien-Typen und drei eigene Bossmodelle mit Klauen, Pflanzenwuchs, neuen Gesichtern und leuchtenden Schwachstellen. Fehler bei Treffern, Raketen, Aufheben und Wiederbeleben an Hauswänden sind behoben.",
+                  "Neue MP und neuer Raketenwerfer mit modellierten Griffen, echten Visieren, Handschuhen und Ärmeln. Zielen, Nachladen, Rückstoß, Verschluss und Mündungsfeuer sind überarbeitet. Im Koop ist die tatsächlich gewählte Waffe sichtbar.",
+                  "Bestehende Spielstände bleiben erhalten. Große Städte benötigen zur vollständigen Verkehrsvorbereitung beim Laden mehr Zeit. Alle Koop-Spieler müssen dieselbe Version verwenden; ein Serverupdate ist nicht erforderlich."
+              ]
 }
