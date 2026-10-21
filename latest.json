@@ -1,16 +1,15 @@
 {
-    "version":  "0.106.20261021",
-    "downloadSize":  136555755,
+    "version":  "0.107.20261021",
+    "downloadSize":  136557515,
     "installerSize":  583680,
     "platform":  "Windows 10 / 11, 64 Bit",
-    "title":  "Civic Hijack · Verkehr, Koop \u0026 Operation Kürbisnacht",
+    "title":  "Civic Hijack · City Rush: sanfter lenken, klare Checkpoints",
     "notes":  [
-                  "Verkehr zurück in die Stadt: Gespeicherte Städte mit leerem Verkehr ergänzen Autos, Fahrräder und Passanten noch unter dem Ladebildschirm. In den Einstellungen ist 0 % jetzt deutlich als Aus gekennzeichnet; eine Schaltfläche hilft beim Wechsel auf 25 % aktive Einwohner.",
-                  "Große Monatsabschlüsse, vollständige Koop-Stadtupdates und neue Verkehrsrouten werden auf getrennten Daten im Hintergrund vorbereitet. Bestehende Fahrten laufen weiter. Gleichzeitige Bauänderungen bleiben erhalten und werden nicht von veralteten Berechnungen überschrieben.",
-                  "Warenlieferungen lösen keine vollständige Einwohner-Neuberechnung mehr aus. Güterrouten und Anfahr-Effekte werden in kleinen Arbeitsschritten vorbereitet. Ein doppelter Eintrag detaillierter Verkehrsteilnehmer wurde entfernt.",
-                  "Neu seit 0.102: Operation Kürbisnacht für 1–6 Teilnehmer mit UFO-Film, drei Bosswellen, MP, Raketenwerfer, Nachschub und Team-Wiederbelebung. Nicht teilnehmende Koop-Spieler können weiterbauen. Der Host startet Events über den UFO-Knopf unten im HUD.",
-                  "Vier überarbeitete Zombie-Alien-Typen und drei eigene Bossmodelle mit Klauen, Pflanzenwuchs, neuen Gesichtern und leuchtenden Schwachstellen. Fehler bei Treffern, Raketen, Aufheben und Wiederbeleben an Hauswänden sind behoben.",
-                  "Neue MP und neuer Raketenwerfer mit modellierten Griffen, echten Visieren, Handschuhen und Ärmeln. Zielen, Nachladen, Rückstoß, Verschluss und Mündungsfeuer sind überarbeitet. Im Koop ist die tatsächlich gewählte Waffe sichtbar.",
-                  "Bestehende Spielstände bleiben erhalten. Große Städte benötigen zur vollständigen Verkehrsvorbereitung beim Laden mehr Zeit. Alle Koop-Spieler müssen dieselbe Version verwenden; ein Serverupdate ist nicht erforderlich."
+                  "City Rush: Checkpoints sind jetzt gleichmäßig über den Rundkurs verteilt, ungefähr alle 100 Meter. Auch der letzte Abstand vor Start und Ziel bleibt gleichmäßig. Straßenkurven erzeugen nicht mehr zahlreiche direkt aufeinanderfolgende Prüfpunkte.",
+                  "Die Richtungspfeile folgen weiterhin der vollständigen Straßenkurve zwischen den Checkpoints. Die Vorschau zeigt kommende Kurven entlang der Strecke und springt nicht auf eine nahe spätere Parallelstraße.",
+                  "Die Lenkung aller drei Sportwagen reagiert weicher und wird bei hohem Tempo deutlich ruhiger. Enge Stadtkurven bei niedrigem Tempo, Gegenlenken, automatische Zentrierung und der Handbremsdrift bleiben möglich.",
+                  "Die Vorderräder zeigen den tatsächlich berechneten Lenkwinkel. Host und Eingabevorhersage verwenden dieselbe Fahrberechnung; Checkpoints, Runden, Rücksetzen und Zieleinlauf bleiben beim Host.",
+                  "Performance und wiederholtes Starten und Verlassen mit sechs Rennwagen, Cockpit und laufender Stadt geprüft. Wegweiser verwenden weiterhin dieselben 24 Pfeilinstanzen und werden höchstens zehnmal pro Sekunde aktualisiert.",
+                  "Bestehende Städte und abgeschlossene Rennergebnisse bleiben erhalten. Alle Koop-Spieler müssen dieselbe Version verwenden; ein Serverupdate ist nicht erforderlich."
               ]
 }
