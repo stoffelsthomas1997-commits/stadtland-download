@@ -1,17 +1,13 @@
 {
   "installerSize": 583680,
+  "platform": "Windows 10 / 11, 64 Bit",
+  "downloadSize": 136558684,
   "notes": [
-    "Straßenbau berechnet nicht mehr für jeden unveränderten Schulweg sämtliche Arbeitsplätze neu. Tatsächliche Änderungen an Schulen, Haushalten und Arbeitsplätzen werden weiterhin berücksichtigt.",
-    "Ohne Schüler werden unveränderte Schulzuweisungen wiederverwendet. Alterung, neue Einwohner, Schulversorgung und echte Verbindungsänderungen bleiben wirksam.",
-    "Ampeln prüfen nur noch Fahrbahnen in ihrer Umgebung. Modelle, Anzahl, Positionen und Sicherheitsabstände bleiben erhalten; der Neuaufbau benötigt erheblich weniger Rechenzeit.",
-    "Das Liefersystem ermittelt geeignete Geschäfte einmal pro Suchlauf. Volle Geschäfte verursachen keine wiederholte Suche über sämtliche Grundstücke für jede Fabrik mehr. Warenfluss, Lieferauswahl und Abstände bleiben erhalten.",
-    "Unsichtbare evakuierte Einwohner im Alien-Event werden nicht weiter animiert. Ungültige Blickrichtungen am Wegende und die dadurch entstehende Warnungsflut wurden behoben.",
-    "Belastungstest mit 34.508 Einwohnern auf einer halben Karte, gleichzeitigem Straßen- und Gleisbau, Alien-Event und Monatsabschluss durchgeführt. Drei getrennte lokale Koop-Prozesse behalten identische Stadtdaten; andere Spieler können während des Events weiterbauen.",
-    "Grafikdetails und eingestellter NPC-Anteil bleiben erhalten. Große Bauaktionen und Koop können weiterhin Lastspitzen verursachen; dieses Update ist keine allgemeine Zusage für durchgehend stabile 60 FPS.",
-    "Bestehende Spielstände bleiben erhalten. Für Koop bitte alle Spieler auf diese Version aktualisieren. Ein Serverupdate ist nicht erforderlich."
+    "Straßenbau und Abriss in noch unbebauten Bereichen überspringen unnötige Einwohner- und Arbeitsplatzberechnungen. Ein großer Testspielstand zeigte dort nur noch wenige Millisekunden für die Stadtaktion.",
+    "Schnelle Koop-Bauänderungen werden zu weniger Stadtübertragungen gebündelt, mit höchstens 950 ms Wartezeit. Unveränderte Gebäude werden nicht erneut im Detail geprüft.",
+    "Kreisverkehre fahren in der korrekten Richtung. Bestehende Spielstände mit alten Kreisverkehrsstücken werden beim Laden korrigiert.",
+    "Zwischenupdate: Dicht vernetzte Straßen und große Events können weiterhin spürbare Lastspitzen erzeugen. Die pausierte Tierfiguren-Erweiterung ist nicht enthalten. Für Koop müssen alle Spieler diese Version nutzen; kein Serverupdate ist nötig."
   ],
-  "version": "0.108.20261021",
-  "downloadSize": 136559155,
-  "title": "Civic Hijack · Performance: große Städte und gemeinsames Bauen",
-  "platform": "Windows 10 / 11, 64 Bit"
+  "title": "Civic Hijack · Straßenbau, Abriss und Koop",
+  "version": "0.109.20261022"
 }
