@@ -1,13 +1,13 @@
 {
   "platform": "Windows 10 / 11, 64 Bit",
-  "version": "0.115.20261023",
-  "notes": [
-    "Koop-Bau- und Abrissupdates werden im Hintergrund validiert und berechnet. Unveränderte Einwohnerdaten werden wiederverwendet und bei Änderungen sicher getrennt.",
-    "Unveränderte Gebäude und Straßenteile werden bei vollständigen Stadtupdates erhalten, statt alle erneut zum Aufbau einzuplanen. Die Straßengeometrie entsteht auch beim Host im Hintergrund.",
-    "Einzelne Bauupdates werden früher übertragen; schnelle Bauserien bleiben gebündelt, damit die Leitung nicht unnötig belastet wird.",
-    "Online-Zeitabgleich, Kamerabereiche und Verkehrsbestätigungen funktionieren jetzt auch mit älteren Relay-Servern. Große Verkehrspakete werden im LAN zuverlässig übertragen."
-  ],
+  "downloadSize": 136603382,
   "installerSize": 583680,
-  "downloadSize": 136596466,
-  "title": "Civic Hijack · Straßenbau und Koop flüssiger"
+  "title": "Civic Hijack · Verbindungscheck für Straßen und Autobahnen",
+  "version": "0.116.20261023",
+  "notes": [
+    "Neuer Verbindungscheck unten im HUD, im Straßenmenü und über F4. Die Anzeige lässt sich jederzeit ein- und ausschalten und arbeitet lokal auch im Koop.",
+    "Rot markiert offene Straßen- und Autobahnenden, einschließlich gewollter Sackgassen. Orange zeigt Anschlüsse ohne passende Weiterfahrt; Grün kennzeichnet verbundene Anschlüsse.",
+    "Der Check berücksichtigt die tatsächlichen Fahrverbindungen und Einbahnrichtungen. Brücken und Tunnel werden auf ihrer jeweiligen Höhe geprüft. Während einer Netzaktualisierung werden alte Markierungen ausgeblendet.",
+    "Die Anzeige nutzt das vorhandene Straßennetz und aktualisiert ihre gebündelte Geometrie nur bei Änderungen. Bei ausgeschalteter Anzeige erfolgt keine Verbindungsanalyse."
+  ]
 }
