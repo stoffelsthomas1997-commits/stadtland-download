@@ -1,12 +1,13 @@
 {
-  "version": "0.114.20261023",
-  "installerSize": 583680,
-  "notes": [
-    "Während der Alien-Wellen sendet die Steuerung weniger Pakete an den Koop-Server, ohne die lokale Bewegungsrate zu senken. Kurze Schuss- und Nachlade-Eingaben bleiben erhalten.",
-    "Die Stadt erhält Alien-Zustandsbilder sparsamer; dies reduziert Netzwerk- und Darstellungsarbeit während des Events.",
-    "Ein Drei-Spieler-Test mit großer Stadt, 40 Aliens, gleichzeitigen Bauarbeiten und Monatswechsel wurde erfolgreich abgeschlossen."
-  ],
   "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 136591937,
-  "title": "Civic Hijack · Alien-Event im Koop stabilisiert"
+  "version": "0.115.20261023",
+  "notes": [
+    "Koop-Bau- und Abrissupdates werden im Hintergrund validiert und berechnet. Unveränderte Einwohnerdaten werden wiederverwendet und bei Änderungen sicher getrennt.",
+    "Unveränderte Gebäude und Straßenteile werden bei vollständigen Stadtupdates erhalten, statt alle erneut zum Aufbau einzuplanen. Die Straßengeometrie entsteht auch beim Host im Hintergrund.",
+    "Einzelne Bauupdates werden früher übertragen; schnelle Bauserien bleiben gebündelt, damit die Leitung nicht unnötig belastet wird.",
+    "Online-Zeitabgleich, Kamerabereiche und Verkehrsbestätigungen funktionieren jetzt auch mit älteren Relay-Servern. Große Verkehrspakete werden im LAN zuverlässig übertragen."
+  ],
+  "installerSize": 583680,
+  "downloadSize": 136596466,
+  "title": "Civic Hijack · Straßenbau und Koop flüssiger"
 }
