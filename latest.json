@@ -1,13 +1,14 @@
 {
+  "version": "0.117.20261023",
+  "title": "Civic Hijack · Seen zeichnen und Accessoires platzieren",
   "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 136603382,
-  "installerSize": 583680,
-  "title": "Civic Hijack · Verbindungscheck für Straßen und Autobahnen",
-  "version": "0.116.20261023",
   "notes": [
-    "Neuer Verbindungscheck unten im HUD, im Straßenmenü und über F4. Die Anzeige lässt sich jederzeit ein- und ausschalten und arbeitet lokal auch im Koop.",
-    "Rot markiert offene Straßen- und Autobahnenden, einschließlich gewollter Sackgassen. Orange zeigt Anschlüsse ohne passende Weiterfahrt; Grün kennzeichnet verbundene Anschlüsse.",
-    "Der Check berücksichtigt die tatsächlichen Fahrverbindungen und Einbahnrichtungen. Brücken und Tunnel werden auf ihrer jeweiligen Höhe geprüft. Während einer Netzaktualisierung werden alte Markierungen ausgeblendet.",
-    "Die Anzeige nutzt das vorhandene Straßennetz und aktualisiert ihre gebündelte Geometrie nur bei Änderungen. Bei ausgeschalteter Anzeige erfolgt keine Verbindungsanalyse."
-  ]
+    "Neuer See-Pinsel unter Extras: linke Maustaste halten und frei zeichnen. Der Pinselradius ist einstellbar; mit dem Wasser-Radierer lassen sich Bereiche wieder entfernen. Die Ufer werden geglättet.",
+    "Neue Kategorie Accessoires mit Steg, Angler, Laterne und Parkbank. Einzeln platzierbar, mit R drehbar und mit Umschalt + R zurückdrehbar. Der Abriss entfernt immer das ausgewählte Accessoire.",
+    "Angler und Möbel können auf einem Steg stehen. Laternen leuchten nachts, auf den Accessoires erscheint im Winter Schnee. Natur wird an den neuen Flächen und Objekten ausgeblendet.",
+    "Seen und Accessoires werden gespeichert, beim Laden aufgebaut und im Koop über den Host synchronisiert. Ältere Spielstände initialisieren die neuen Landschaftsdaten automatisch.",
+    "Die Wassergeometrie wird nur in geänderten 32-Meter-Abschnitten und über mehrere Bilder verteilt erneuert. Accessoires teilen sich Modelle und Material; sie benötigen keine eigene Verkehrs- oder Physiksimulation. Der Ladebildschirm wartet auch auf die neuen Wasserflächen."
+  ],
+  "downloadSize": 136626486,
+  "installerSize": 583680
 }
