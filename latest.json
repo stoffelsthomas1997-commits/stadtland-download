@@ -1,12 +1,12 @@
 {
-  "platform": "Windows 10 / 11, 64 Bit",
-  "version": "0.112.20261023",
-  "title": "Civic Hijack · Ruhigere große Städte",
-  "notes": [
-    "Der Monatswechsel verteilt Arbeitswege in großen Städten deutlich effizienter. Im Test mit 34.508 Einwohnern sank die Berechnung von rund 9,7 auf 0,7 Sekunden, bei identischer Jobverteilung.",
-    "Beim Straßenbau wird der Verkehrsgraph im Hintergrund vorbereitet. Der Verkehr verwendet bis zur Fertigstellung das bisherige Netz; schnell aufeinanderfolgende Änderungen verwerfen veraltete Ergebnisse.",
-    "Straßenbau, Schienenbau, Abriss und Koop wurden mit einer großen Stadt geprüft. Seltene Spitzen bei gleichzeitigem Event, Monatswechsel und Bauen bleiben Gegenstand weiterer Optimierung."
-  ],
+  "downloadSize": 136591191,
   "installerSize": 583680,
-  "downloadSize": 136590722
+  "version": "0.113.20261023",
+  "title": "Civic Hijack · Fahrradfahrer fahren flotter",
+  "platform": "Windows 10 / 11, 64 Bit",
+  "notes": [
+    "Radfahrer erreichen auf freien Strecken nun etwa 18 bis 25 km/h statt der bisher sehr langsamen Fahrt. Zufahrten und Kurven wurden passend angepasst.",
+    "Ältere Radfahrer fahren gemächlicher, werden aber nicht mehr durch die Gehgeschwindigkeitsbegrenzung auf Schrittgeschwindigkeit gedrückt.",
+    "Laufende Radfahrten aus bestehenden Spielständen übernehmen die neue Geschwindigkeit beim Laden. Große-Stadt-Fahrtest und Windows-Starttest bestanden."
+  ]
 }
