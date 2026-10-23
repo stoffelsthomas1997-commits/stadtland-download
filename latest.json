@@ -1,12 +1,12 @@
 {
+  "platform": "Windows 10 / 11, 64 Bit",
+  "version": "0.112.20261023",
+  "title": "Civic Hijack · Ruhigere große Städte",
   "notes": [
-    "Unter Einstellungen → Steuerung lässt sich die Lenkempfindlichkeit von 50 bis 150 % einstellen. 100 % entspricht dem bisherigen Fahrverhalten.",
-    "Die Einstellung gilt für Stadterkundung und Stadtrennen. Im Koop berechnet der Host die Lenkung jedes Rennfahrers mit dessen eigener Einstellung.",
-    "Die Einstellung wird gespeichert; vorhandene Konfigurationen starten mit 100 %. Die Verbesserungen für Straßenbau, Abriss und Koop aus Version 0.110 bleiben enthalten."
+    "Der Monatswechsel verteilt Arbeitswege in großen Städten deutlich effizienter. Im Test mit 34.508 Einwohnern sank die Berechnung von rund 9,7 auf 0,7 Sekunden, bei identischer Jobverteilung.",
+    "Beim Straßenbau wird der Verkehrsgraph im Hintergrund vorbereitet. Der Verkehr verwendet bis zur Fertigstellung das bisherige Netz; schnell aufeinanderfolgende Änderungen verwerfen veraltete Ergebnisse.",
+    "Straßenbau, Schienenbau, Abriss und Koop wurden mit einer großen Stadt geprüft. Seltene Spitzen bei gleichzeitigem Event, Monatswechsel und Bauen bleiben Gegenstand weiterer Optimierung."
   ],
-  "version": "0.111.20261023",
   "installerSize": 583680,
-  "downloadSize": 136588710,
-  "title": "Civic Hijack · Lenkempfindlichkeit einstellbar",
-  "platform": "Windows 10 / 11, 64 Bit"
+  "downloadSize": 136590722
 }
