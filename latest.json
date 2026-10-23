@@ -1,13 +1,14 @@
 {
-  "installerSize": 583680,
-  "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 136558684,
   "notes": [
-    "Straßenbau und Abriss in noch unbebauten Bereichen überspringen unnötige Einwohner- und Arbeitsplatzberechnungen. Ein großer Testspielstand zeigte dort nur noch wenige Millisekunden für die Stadtaktion.",
-    "Schnelle Koop-Bauänderungen werden zu weniger Stadtübertragungen gebündelt, mit höchstens 950 ms Wartezeit. Unveränderte Gebäude werden nicht erneut im Detail geprüft.",
-    "Kreisverkehre fahren in der korrekten Richtung. Bestehende Spielstände mit alten Kreisverkehrsstücken werden beim Laden korrigiert.",
-    "Zwischenupdate: Dicht vernetzte Straßen und große Events können weiterhin spürbare Lastspitzen erzeugen. Die pausierte Tierfiguren-Erweiterung ist nicht enthalten. Für Koop müssen alle Spieler diese Version nutzen; kein Serverupdate ist nötig."
+    "Straßenbau und Abriss prüfen nur noch angrenzende Grundstücke. In einer Stadt mit 34.508 Einwohnern dauerten die eigentlichen Bau- und Abrissaktionen im Test nur wenige Millisekunden.",
+    "Arbeitsplätze an wieder angeschlossenen Straßen werden schrittweise neu vergeben. Unveränderte Schulwege lösen keine vollständige Neuverteilung aus.",
+    "Das Verkehrsnetz nummeriert vorhandene Raumlisten nach Straßenänderungen um, statt sie erneut aufzubauen. Fahrzeugrouten blieben nach Bau und Abriss im Test gültig.",
+    "Koop-Gäste berechnen die sichtbaren Straßen im Hintergrund. Drei-Spieler-Koop mit Bau, Abriss, Event und Monatswechsel wurde mit gleichem Endzustand geprüft.",
+    "Bei einer extremen Teststadt mit gleichzeitigem Event und 40 Gegnern bleiben einzelne Bildratenspitzen. Die pausierte Tierfiguren-Erweiterung ist nicht enthalten; kein Serverupdate nötig. Alle Koop-Spieler benötigen dieselbe Version."
   ],
-  "title": "Civic Hijack · Straßenbau, Abriss und Koop",
-  "version": "0.109.20261022"
+  "downloadSize": 136589691,
+  "platform": "Windows 10 / 11, 64 Bit",
+  "title": "Civic Hijack · Leichterer Straßenbau und Abriss",
+  "version": "0.110.20261023",
+  "installerSize": 583680
 }
