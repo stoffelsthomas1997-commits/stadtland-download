@@ -1,15 +1,15 @@
 {
-  "version": "0.121.20261024",
-  "platform": "Windows 10 / 11, 64 Bit",
+  "version": "0.122.20261024",
+  "downloadSize": 137200655,
   "notes": [
-    "Gebäudekollisionen und Sichtlinien verwenden zwischengespeicherte Gebäudeformen. Räumliche Vorprüfungen sparen wiederholte Berechnungen beim Erkunden, Rennen und im Alien-Event.",
-    "Ereignis-Sperren prüfen nur Straßenabschnitte in ihrer Nähe. Entfernte Kurven werden bei Bauarbeiten übersprungen.",
-    "Die Naturprüfung behält unveränderte Grundstücke und ihren räumlichen Index. Visuelle Folgearbeiten nach Bauaktionen werden über mehrere Bilder verteilt.",
-    "Alte Hintergrund-Verkehrsscans und ihre Routendaten werden abseits des Hauptablaufs freigegeben. Das reduziert seltene Aufräumspitzen nach Bauarbeiten und Monatswechseln.",
-    "Koop-Rückkehr: Alte Stadtstände werden erst nach Freigabe aller Ansichten auf dem Cleanup-Worker gelöscht. Das verhindert die gemessene große Spitze beim Zurückwechseln aus Events.",
-    "Die Haushaltsauswahl baut ihre Prioritätsliste in linearer Zeit auf. Bestehende Wege, Spielstände und der stabilisierte Installer bleiben kompatibel."
+    "Neu unter Kirmes & Freizeit: Baubare Abrissbirnen-Arena mit gemeinsamer Lobby und Solo-Training. Bis zu acht Kräne inklusive einstellbarer NPC-Gegner; Runden mit 60, 90 oder 120 Sekunden.",
+    "Fahre deinen Kran, richte den Ausleger mit der Maus aus und schwinge die Kugel durch zerstörbare Ziele oder gegen deine Mitspieler. Markierte Ring-out-Öffnungen, Kombos, Bonusziele und sichere Respawns sorgen für schnelle Revanchen.",
+    "Drei Power-ups: schwere Kugel, Gummikugel und längere Kette. Persönliche Rekorde sowie freischaltbare Neon- und Goldlackierungen werden gespeichert.",
+    "Eigene Musik, Hydraulik- und Aufprallgeräusche, Funken, begrenzte Trümmer und Partybeleuchtung. C wechselt die Kamera; mit Esc kommst du jederzeit zurück zur Stadt.",
+    "Pendel, Kontakte, Punkte und Rundenende berechnet der Host. Kompakte Bewegungsdaten, lokale Vorhersage, vorbereitete Meshes und feste Effektlimits halten den Aufwand klein. Die Stadt und andere Baumeister bleiben währenddessen aktiv.",
+    "Die Lastspitzen-Fixes aus 0.121 bleiben erhalten. Bestehende Spielstände laden weiter; neue Arena-Statistiken werden automatisch ergänzt."
   ],
+  "platform": "Windows 10 / 11, 64 Bit",
   "installerSize": 2373120,
-  "title": "Civic Hijack · Weniger Lastspitzen beim Bauen und Events",
-  "downloadSize": 136646376
+  "title": "Civic Hijack · Abrissbirnen-Arena"
 }
