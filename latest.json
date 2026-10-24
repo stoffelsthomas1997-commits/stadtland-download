@@ -1,16 +1,13 @@
 {
-  "title": "Civic Hijack · Feuerwehr-Koop, Rathaus-Party und neue Hochhäuser",
-  "version": "0.125.20261024",
-  "downloadSize": 122587710,
   "installerSize": 2373120,
+  "platform": "Windows 10 / 11, 64 Bit",
+  "version": "0.126.20261024",
   "notes": [
-    "Neu: Feuerwehr-Chaos als gemeinsames Minispiel am Rathaus. Bis zu sechs Spieler fahren ein geteiltes Löschfahrzeug, löschen zwölf Brandherde und retten acht Bewohner. Frei wechselnde Rollen, gemeinsamer Wassertank, Hydranten und maximal 180 Sekunden Einsatzzeit.",
-    "Persönliche Leistung zählt: Punkte für tatsächlich gelöschtes Feuer und sicher abgegebene Bewohner, dazu ein kleiner Zeitbonus bei Teamerfolg. Auch ohne Teamsieg zählen eure erarbeiteten Koop-Punkte. Herumstehen und Mitspieler anspritzen geben keine Punkte; unnötige Fahrfehler kosten Punkte. NPC-Helfer sind im gewerteten Koop erlaubt. Solo bleibt Training.",
-    "Löschstrahlen schubsen Kollegen; Feuerwehruniformen, Helme, Feuer, Rauch, Blaulicht, Sirene, Motor- und Wassergeräusche machen den Einsatz lebendig. C wechselt Nah-/Übersichtskamera, Esc öffnet das Einsatzmenü. Die echte Stadt bleibt unbeschädigt und läuft im Hintergrund weiter.",
-    "Ebenfalls neu im öffentlichen Update: gemeinsame Rathaus-Party mit Einladungen, Zufallswürfel oder Spielauswahl, Erklärungen und echten 10-Sekunden-Gameplayvideos. Autoscooter, Schießstand, Karussell-Chaos, Abrissbirnen-Arena, City Rush und Feuerwehr-Chaos sind eingebunden.",
-    "Gespeicherte Gesamt- und Jahrespunkte rechts oben: eigener Spieler zuerst, goldener Rahmen für die Tabellenführung. Jahrespunkte setzen sich beim Kalenderjahreswechsel zurück; Gesamtpunkte bleiben in der Stadt erhalten.",
-    "Zehn überarbeitete Hochhausformen mit Terrassen, Balkonen, versetzten Türmen, Fensterlaibungen und Dachaufbauten. Auch alte Standard-Hochhäuser werden abwechslungsreicher. Kapazitäten und Grundstücke bleiben erhalten; Tag, Nacht und Schnee werden berücksichtigt.",
-    "Gemeinsame Modelle, vorberechnete Gebäude-Fernansichten, begrenzte Feuer-/Wassereffekte und kompakte Bewegungsdaten halten den Zusatzaufwand klein. Koop mit zwei spielenden Prozessen und einem gleichzeitig bauenden Spieler in einer großen Teststadt geprüft. Alle Teilnehmer benötigen diese neue Version."
+    "Stadterkunden: Alle 23 steuerbaren Fahrzeugtypen können jetzt auf einer freien Fläche der Karte platziert werden. Eine Straße ist nicht mehr erforderlich – auch in einer neuen Stadt ohne Straßennetz.",
+    "Die Vorschau und das tatsächliche Fahrzeug bleiben an der angeklickten Stelle. Nahe Straßen helfen weiterhin bei Ausrichtung und Höhe, auch auf Brücken. Gebäude im Weg werden durch eine rote Vorschau angezeigt.",
+    "Freies Fahren, Cockpit, Perspektivwechsel, ESC zum Aussteigen und das Entfernen des Fahrzeugs bleiben erhalten. Die Platzierungsprüfung verwendet den vorhandenen lokalen Gebäudecache; es entsteht keine zusätzliche dauerhafte Physiksimulation.",
+    "234 Prüfungen decken alle Fahrzeugtypen, freie Flächen, Straßen, Brücken, Gebäudekollisionen, den tatsächlichen Mausklick in einer neuen Stadt und die Koop-Übertragung von Fahrzeugpositionen ab. Zusätzlich ein beim Beenden ungenutztes Feuerwehr-Minispielobjekt sauber freigegeben."
   ],
-  "platform": "Windows 10 / 11, 64 Bit"
+  "downloadSize": 122586353,
+  "title": "Civic Hijack · Fahrzeuge frei auf der Karte platzieren"
 }
