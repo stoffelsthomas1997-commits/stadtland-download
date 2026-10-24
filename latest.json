@@ -1,15 +1,15 @@
 {
-  "installerSize": 2373120,
-  "version": "0.120.20261024",
-  "notes": [
-    "Straßen- und Gleisgeometrie wird auf privaten Hintergrundjobs vorbereitet. Unveränderte Abschnitte bleiben erhalten; überholte Ergebnisse können keine neueren Bauaktionen überschreiben.",
-    "Das Verkehrsnetz und sein Zufahrtsindex werden nach Bauarbeiten auch bei wenig Verkehr im Hintergrund aktualisiert. Die Grafik verwendet die bereits berechnete Topologie.",
-    "Abrissgrenzen werden direkt in der lokalen Straßengeometrie ermittelt. Bei geänderter Zufahrt werden nur betroffene Wirtschafts- und Arbeitsplatzdaten aktualisiert.",
-    "Laternen, Brücken und Gleisschwellen verwenden CPU-Geometrievorlagen ohne wiederholtes Rücklesen von Grafikdaten. Alte Bau- und Routendaten werden abseits des Hauptablaufs freigegeben.",
-    "NPCs behalten unveränderte Wege. Erforderliche neue Wege werden im Hintergrund gesucht; Versorgungshinweise werden über mehrere Frames verteilt.",
-    "Alle bisherigen Inhalte, Spielstände und der stabilisierte Installer 1.0.1 bleiben erhalten."
-  ],
-  "title": "Civic Hijack · Straßen und Schienen im Hintergrund",
+  "version": "0.121.20261024",
   "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 136643238
+  "notes": [
+    "Gebäudekollisionen und Sichtlinien verwenden zwischengespeicherte Gebäudeformen. Räumliche Vorprüfungen sparen wiederholte Berechnungen beim Erkunden, Rennen und im Alien-Event.",
+    "Ereignis-Sperren prüfen nur Straßenabschnitte in ihrer Nähe. Entfernte Kurven werden bei Bauarbeiten übersprungen.",
+    "Die Naturprüfung behält unveränderte Grundstücke und ihren räumlichen Index. Visuelle Folgearbeiten nach Bauaktionen werden über mehrere Bilder verteilt.",
+    "Alte Hintergrund-Verkehrsscans und ihre Routendaten werden abseits des Hauptablaufs freigegeben. Das reduziert seltene Aufräumspitzen nach Bauarbeiten und Monatswechseln.",
+    "Koop-Rückkehr: Alte Stadtstände werden erst nach Freigabe aller Ansichten auf dem Cleanup-Worker gelöscht. Das verhindert die gemessene große Spitze beim Zurückwechseln aus Events.",
+    "Die Haushaltsauswahl baut ihre Prioritätsliste in linearer Zeit auf. Bestehende Wege, Spielstände und der stabilisierte Installer bleiben kompatibel."
+  ],
+  "installerSize": 2373120,
+  "title": "Civic Hijack · Weniger Lastspitzen beim Bauen und Events",
+  "downloadSize": 136646376
 }
