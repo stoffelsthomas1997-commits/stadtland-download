@@ -1,15 +1,16 @@
 {
-  "version": "0.122.20261024",
-  "downloadSize": 137200655,
-  "notes": [
-    "Neu unter Kirmes & Freizeit: Baubare Abrissbirnen-Arena mit gemeinsamer Lobby und Solo-Training. Bis zu acht Kräne inklusive einstellbarer NPC-Gegner; Runden mit 60, 90 oder 120 Sekunden.",
-    "Fahre deinen Kran, richte den Ausleger mit der Maus aus und schwinge die Kugel durch zerstörbare Ziele oder gegen deine Mitspieler. Markierte Ring-out-Öffnungen, Kombos, Bonusziele und sichere Respawns sorgen für schnelle Revanchen.",
-    "Drei Power-ups: schwere Kugel, Gummikugel und längere Kette. Persönliche Rekorde sowie freischaltbare Neon- und Goldlackierungen werden gespeichert.",
-    "Eigene Musik, Hydraulik- und Aufprallgeräusche, Funken, begrenzte Trümmer und Partybeleuchtung. C wechselt die Kamera; mit Esc kommst du jederzeit zurück zur Stadt.",
-    "Pendel, Kontakte, Punkte und Rundenende berechnet der Host. Kompakte Bewegungsdaten, lokale Vorhersage, vorbereitete Meshes und feste Effektlimits halten den Aufwand klein. Die Stadt und andere Baumeister bleiben währenddessen aktiv.",
-    "Die Lastspitzen-Fixes aus 0.121 bleiben erhalten. Bestehende Spielstände laden weiter; neue Arena-Statistiken werden automatisch ergänzt."
-  ],
-  "platform": "Windows 10 / 11, 64 Bit",
+  "title": "Civic Hijack · Feuerwehr-Koop, Rathaus-Party und neue Hochhäuser",
+  "version": "0.125.20261024",
+  "downloadSize": 122587710,
   "installerSize": 2373120,
-  "title": "Civic Hijack · Abrissbirnen-Arena"
+  "notes": [
+    "Neu: Feuerwehr-Chaos als gemeinsames Minispiel am Rathaus. Bis zu sechs Spieler fahren ein geteiltes Löschfahrzeug, löschen zwölf Brandherde und retten acht Bewohner. Frei wechselnde Rollen, gemeinsamer Wassertank, Hydranten und maximal 180 Sekunden Einsatzzeit.",
+    "Persönliche Leistung zählt: Punkte für tatsächlich gelöschtes Feuer und sicher abgegebene Bewohner, dazu ein kleiner Zeitbonus bei Teamerfolg. Auch ohne Teamsieg zählen eure erarbeiteten Koop-Punkte. Herumstehen und Mitspieler anspritzen geben keine Punkte; unnötige Fahrfehler kosten Punkte. NPC-Helfer sind im gewerteten Koop erlaubt. Solo bleibt Training.",
+    "Löschstrahlen schubsen Kollegen; Feuerwehruniformen, Helme, Feuer, Rauch, Blaulicht, Sirene, Motor- und Wassergeräusche machen den Einsatz lebendig. C wechselt Nah-/Übersichtskamera, Esc öffnet das Einsatzmenü. Die echte Stadt bleibt unbeschädigt und läuft im Hintergrund weiter.",
+    "Ebenfalls neu im öffentlichen Update: gemeinsame Rathaus-Party mit Einladungen, Zufallswürfel oder Spielauswahl, Erklärungen und echten 10-Sekunden-Gameplayvideos. Autoscooter, Schießstand, Karussell-Chaos, Abrissbirnen-Arena, City Rush und Feuerwehr-Chaos sind eingebunden.",
+    "Gespeicherte Gesamt- und Jahrespunkte rechts oben: eigener Spieler zuerst, goldener Rahmen für die Tabellenführung. Jahrespunkte setzen sich beim Kalenderjahreswechsel zurück; Gesamtpunkte bleiben in der Stadt erhalten.",
+    "Zehn überarbeitete Hochhausformen mit Terrassen, Balkonen, versetzten Türmen, Fensterlaibungen und Dachaufbauten. Auch alte Standard-Hochhäuser werden abwechslungsreicher. Kapazitäten und Grundstücke bleiben erhalten; Tag, Nacht und Schnee werden berücksichtigt.",
+    "Gemeinsame Modelle, vorberechnete Gebäude-Fernansichten, begrenzte Feuer-/Wassereffekte und kompakte Bewegungsdaten halten den Zusatzaufwand klein. Koop mit zwei spielenden Prozessen und einem gleichzeitig bauenden Spieler in einer großen Teststadt geprüft. Alle Teilnehmer benötigen diese neue Version."
+  ],
+  "platform": "Windows 10 / 11, 64 Bit"
 }
