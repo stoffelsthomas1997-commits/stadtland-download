@@ -1,13 +1,15 @@
 {
   "installerSize": 2373120,
+  "version": "0.120.20261024",
   "notes": [
-    "Der Windows-Installer zeichnet seine Oberfläche unabhängig vom Grafiktreiber. Das eigentliche Spiel und seine Grafikeinstellungen bleiben unverändert.",
-    "Der Installer wartet im Startfenster auf die Ordnerauswahl und den Klick auf Installieren. Hauptfenster und Programmlebensdauer sind ausdrücklich verbunden; es gibt keinen automatischen Start im Leerlauf.",
-    "Fehler im Ordnerdialog und beim Öffnen einer vorhandenen Installation werden abgefangen und angezeigt. Lokale Diagnoseprotokolle erfassen unerwartete Fehler und das Beenden des Installers. Es erfolgt kein automatischer Protokoll-Upload.",
-    "Alle Inhalte und Korrekturen aus Version 0.118 bleiben enthalten, einschließlich See-Pinsel und Accessoires. Der neue kleine Installer trägt die Kennung 1.0.1 und muss bei einer betroffenen Erstinstallation neu heruntergeladen werden."
+    "Straßen- und Gleisgeometrie wird auf privaten Hintergrundjobs vorbereitet. Unveränderte Abschnitte bleiben erhalten; überholte Ergebnisse können keine neueren Bauaktionen überschreiben.",
+    "Das Verkehrsnetz und sein Zufahrtsindex werden nach Bauarbeiten auch bei wenig Verkehr im Hintergrund aktualisiert. Die Grafik verwendet die bereits berechnete Topologie.",
+    "Abrissgrenzen werden direkt in der lokalen Straßengeometrie ermittelt. Bei geänderter Zufahrt werden nur betroffene Wirtschafts- und Arbeitsplatzdaten aktualisiert.",
+    "Laternen, Brücken und Gleisschwellen verwenden CPU-Geometrievorlagen ohne wiederholtes Rücklesen von Grafikdaten. Alte Bau- und Routendaten werden abseits des Hauptablaufs freigegeben.",
+    "NPCs behalten unveränderte Wege. Erforderliche neue Wege werden im Hintergrund gesucht; Versorgungshinweise werden über mehrere Frames verteilt.",
+    "Alle bisherigen Inhalte, Spielstände und der stabilisierte Installer 1.0.1 bleiben erhalten."
   ],
-  "downloadSize": 136625998,
+  "title": "Civic Hijack · Straßen und Schienen im Hintergrund",
   "platform": "Windows 10 / 11, 64 Bit",
-  "version": "0.119.20261023",
-  "title": "Civic Hijack · Stabilerer Installer"
+  "downloadSize": 136643238
 }
