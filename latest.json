@@ -1,15 +1,13 @@
 {
-  "title": "Civic Hijack · Seen zeichnen und Accessoires platzieren",
-  "installerSize": 583680,
-  "version": "0.118.20261023",
+  "installerSize": 2373120,
   "notes": [
-    "Neuer See-Pinsel unter Extras: linke Maustaste halten und frei zeichnen. Der Pinselradius ist einstellbar; mit dem Wasser-Radierer lassen sich Bereiche wieder entfernen. Die Ufer werden geglättet.",
-    "Neue Kategorie Accessoires mit Steg, Angler, Laterne und Parkbank. Einzeln platzierbar, mit R drehbar und mit Umschalt + R zurückdrehbar. Der Abriss entfernt immer das ausgewählte Accessoire.",
-    "Angler und Möbel können auf einem Steg stehen. Laternen leuchten nachts, auf den Accessoires erscheint im Winter Schnee. Natur wird an den neuen Flächen und Objekten ausgeblendet.",
-    "Seen und Accessoires werden gespeichert, beim Laden aufgebaut und im Koop über den Host synchronisiert. Ältere Spielstände initialisieren die neuen Landschaftsdaten automatisch.",
-    "Die Wassergeometrie wird nur in geänderten 32-Meter-Abschnitten und über mehrere Bilder verteilt erneuert. Accessoires teilen sich Modelle und Material; sie benötigen keine eigene Verkehrs- oder Physiksimulation. Der Ladebildschirm wartet auch auf die neuen Wasserflächen.",
-    "Zusätzlicher Nachttest: Die Laternen leuchten nun auch mit ihrem warmen Glasfarbton zuverlässig. Die Beleuchtung verwendet weiterhin ein gemeinsames Material ohne zusätzliche Lichtquellen."
+    "Der Windows-Installer zeichnet seine Oberfläche unabhängig vom Grafiktreiber. Das eigentliche Spiel und seine Grafikeinstellungen bleiben unverändert.",
+    "Der Installer wartet im Startfenster auf die Ordnerauswahl und den Klick auf Installieren. Hauptfenster und Programmlebensdauer sind ausdrücklich verbunden; es gibt keinen automatischen Start im Leerlauf.",
+    "Fehler im Ordnerdialog und beim Öffnen einer vorhandenen Installation werden abgefangen und angezeigt. Lokale Diagnoseprotokolle erfassen unerwartete Fehler und das Beenden des Installers. Es erfolgt kein automatischer Protokoll-Upload.",
+    "Alle Inhalte und Korrekturen aus Version 0.118 bleiben enthalten, einschließlich See-Pinsel und Accessoires. Der neue kleine Installer trägt die Kennung 1.0.1 und muss bei einer betroffenen Erstinstallation neu heruntergeladen werden."
   ],
+  "downloadSize": 136625998,
   "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 136626878
+  "version": "0.119.20261023",
+  "title": "Civic Hijack · Stabilerer Installer"
 }
