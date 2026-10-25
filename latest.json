@@ -1,16 +1,17 @@
 {
-  "title": "Civic Hijack · Dein Leben, dein Zuhause, deine Garage",
-  "version": "0.127.20261025",
-  "notes": [
-    "Neu: Mit deinem Charakter aus dem Charaktereditor zu Fuß durch die eigene Stadt gehen. WASD bewegen, Maus umsehen, Shift laufen, E benutzen, C erste/dritte Person, Esc persönliches Menü. Über Stadterkunden oder Mein Leben jederzeit zum Städtebau zurück. Andere Koop-Spieler sehen deinen Charakter und können währenddessen weiterbauen.",
-    "Persönliches Guthaben je Spieler und Stadt: 25.000 € Startgeld, 20 € pro neuem gültigem Wettbewerbspunkt. Der amtierende Bürgermeister erhält 25 % Bonus. Einmaliger Bonus für bestehende Gesamtpunkte bis 100.000 €. Stadtkasse und persönliche Ersparnisse bleiben getrennt; keine erneute Auszahlung durch Laden, Beitreten oder Jahreswechsel.",
-    "Eigenes Zuhause: Starterhaus ab 18.000 €, fünf Ausbaustufen bis zur Panoramavilla, verschiedene Fassaden und Gärten sowie ein bis vier Stellplätze. An einer freien Straßenfläche bauen oder ein tatsächlich unbewohntes Wohnhaus kaufen. Ausbauten respektieren Nachbargrundstücke. Privathäuser sind vor gewöhnlichem Abriss geschützt; Verkauf und Umzug erfolgen über das Hausmenü.",
-    "Garage und Fahrzeugkauf mit 3D-Vorschau: alle 23 vorhandenen Modelle, vom Motorrad ab 1.500 € und Kleinwagen ab 4.500 € bis zum Supersportwagen für 75.000 €. Bis zu zwölf gekaufte Fahrzeuge; Auswahl auf echten Hausstellplätzen, Einsteigen mit E, bestehendes Cockpit und Motorengeräusche, Aussteigen und Parken mit E. Rückholung und Verkauf über die Garage. Schlüsselanimation, Kaufklang und bewegliche Garagentore.",
-    "Im unbegrenzten Modus kann der Host kostenlose persönliche Fahrzeuge ausdrücklich aktivieren. Kostenlose Fahrzeuge bringen beim Verkauf kein Geld. Rennen, Kirmes, Einsatzfahrzeuge und NPC-Verkehr behalten ihre Regeln. Hausinnenräume, Heirat und Kinder für Spieler folgen später.",
-    "Koop und Spielstände: Käufe werden vom Host bestätigt, wiederholte Pakete erzeugen keine doppelten Käufe. Verbindungsabbruch parkt das gefahrene Auto; beim erneuten Beitreten bleiben Haus, Fahrzeuge und Guthaben erhalten. Gleichzeitige Monatsberechnungen bewahren persönliche Käufe und Einnahmen. Alle Mitspieler benötigen diese Version, direktes Koop-Protokoll 32.",
-    "Performance: geparkte Fahrzeuge werden räumlich gebündelt und ohne Fahrphysik dargestellt. Spieler nutzen gemeinsame Modelle und Animation im Shader, ohne zusätzliche NPC-Lebenssimulation. Stillstehende Figuren senden nur sparsame Herzschlagmeldungen. Große Stadt mit 34.508 Einwohnern, 252 konzentriert geparkten Autos und fünf weiteren Spielerfiguren sowie drei getrennte Koop-Prozesse und lokaler WebSocket-Relay geprüft."
-  ],
   "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 122663070,
-  "installerSize": 2373120
+  "title": "Civic Hijack · Abendrot – Kontakte & Dates",
+  "version": "0.128.20261025",
+  "installerSize": 2373120,
+  "notes": [
+    "Neu: Dein Handy unten rechts im HUD, mit P oder über Mein Leben öffnen. Besuche die Bar Abendrot, wähle Dating-Vorlieben und verwalte bis zu acht Kontakte. Das Handy funktioniert beim Städtebau, zu Fuß und im eigenen Fahrzeug. Geöffnete Menüs halten nur deine Bewegung an; die Stadt läuft weiter.",
+    "Eine kurze 3D-Eintrittsszene führt in die Bar. Erwachsene Bekanntschaften mit unterschiedlichen Namen, Aussehen, Interessen und Persönlichkeiten setzen sich neben dich. Frauen, Männer und nichtbinäre Personen kennenlernen; trans Frauen und Männer sind in der jeweiligen Auswahl enthalten. Vorhandene lizenzierte Figuren und dein Charakter aus dem Editor passen zum Spielstil.",
+    "Links wischen oder Pfeil links: kennenlernen. Rechts wischen oder Pfeil rechts: nächster Gast – mit einem absichtlich übertriebenen Abflug nach rechts. Auch über die Schaltflächen steuerbar. Drei Antworten pro Smalltalk-Runde; gemeinsame Interessen und Persönlichkeit beeinflussen die Reaktion. Wenn es funkt, bekommst du eine Telefonnummer und eine gespeicherte Nachricht.",
+    "Weitere Dates in der Bar oder auf einer Parkbank: Parkdates sind kostenlos, erneute Bardates kosten 20 € aus deinem persönlichen Guthaben. Ein Treffen pro Kontakt und Spieltag. Zuneigung und Vertrauen wachsen durch Gespräche, Liebe ab dem dritten Treffen. Nachrichten und Fortschritt bleiben mit der Stadt gespeichert. Kontakte lassen sich nach Bestätigung entfernen.",
+    "Eigene ruhige Abendrot-Musik, kleine Herz-Effekte und ein Klang beim Nummernaustausch. ESC oder Zur Stadt beendet den Besuch, stoppt die Musik und stellt die Stadtansicht beziehungsweise deine Position zu Fuß wieder her. Ein eigenes gefahrenes Auto wird vor dem Besuch sicher geparkt. Laufende gespeicherte Gespräche kannst du im Handy fortsetzen.",
+    "Koop: Persönliche Gespräche werden vom Stadt-Host bestätigt; andere Spieler können währenddessen weiterbauen. Wiederholte Pakete vergeben keine doppelten Gesprächsfortschritte. Kontakte und Nachrichten bleiben nach erneutem Beitritt erhalten und werden bei einer Monatsberechnung nicht überschrieben. Alle Mitspieler benötigen diese Version; direktes Koop-Protokoll 33. Kein zusätzliches Server-Update nötig.",
+    "Performance: Bar und Park werden nur während eines Besuchs als kleine separate 3D-Ansichten dargestellt. Zwei Figuren und begrenzte Effekte, keine zusätzliche dauerhafte NPC-Simulation. Geprüft: drei Koop-Prozesse mit gleichzeitigem Straßenbau, lokaler WebSocket-Relay, Speichern/Laden, ESC und wiederholte Besuche in einer Stadt mit 34.508 Einwohnern.",
+    "Dies ist die erste Dating-Ausbaustufe. Hochzeit, Einzug, Schwangerschaft und Kinder für Spieler folgen später. Alle bisherigen Inhalte aus Mein Leben, Häusern, Garage, Minispielen und Städtebau sind weiterhin enthalten. Bestehende Spielstände bleiben verwendbar."
+  ],
+  "downloadSize": 122821225
 }
