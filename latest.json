@@ -1,17 +1,15 @@
 {
-  "downloadSize": 124522669,
+  "version": "0.132.20261025",
   "platform": "Windows 10 / 11, 64 Bit",
-  "version": "0.131.20261025",
+  "downloadSize": 124523384,
   "installerSize": 2323968,
-  "title": "Civic Hijack · Zuhause zu zweit",
+  "title": "Civic Hijack · Klare Anzeigen und lebendige Parks",
   "notes": [
-    "Kompakter wohnen: Das Starterhaus ist innen jetzt 12 × 10 statt 14 × 12 Meter groß und erhält ein kostenloses Doppelbett. Alte Einrichtungen werden sicher angepasst; Möbel, die keinen Platz mehr finden, bleiben im eigenen Lager.",
-    "Heiraten und zusammenziehen: Im Handy beim vertrauten Kontakt freischaltbar. Ihr braucht ein eigenes Haus, mindestens fünf Dates, 70 Prozent Zuneigung sowie je 60 Prozent Vertrauen und Liebe. Der Partner ist anschließend im Haus sichtbar.",
-    "Gemeinsam übernachten: Gehe ans Doppelbett und drücke E oder öffne Familie & Bett. Eine kurze Bettszene blendet sanft ab, Esc gibt die Steuerung sofort frei. Die Stadt und andere Koop-Spieler laufen weiter; es wird keine gemeinsame Zeit übersprungen.",
-    "Eine gemeinsame Nacht mit einer Partnerin kann Nachwuchs bringen: 25 Prozent Spielchance, höchstens einmal pro Spieltag. Mit der Schwangerschaft wird das Babybett für 280 Euro unter Schlafen freigeschaltet. Wiederholte Klicks oder Laden würfeln denselben Spieltag nicht erneut aus.",
-    "Nach neun Spielmonaten wird euer Baby mit Namen und Geburtsdatum gespeichert und im aufgestellten Babybett gezeigt. Bis zu drei Kinder pro Haushalt. Familienstatus, Schwangerschaft und Einrichtung bleiben beim Speichern und bei Koop-Wiederbeitritt erhalten.",
-    "Die Familienübersicht zeigt Ehepartner, Schwangerschaftsfortschritt und Babys. Rückmeldungen bei Tageslimits und die Bettkamera wurden geprüft; veraltete Übernachtungsmeldungen verschwinden am nächsten Spieltag.",
-    "Performance: Die wenigen Familienmodelle werden nur im gerade besuchten Haus dargestellt. Schwangerschaften werden beim Tageswechsel fortgeschrieben. Möbel bleiben außerhalb der häufigen Stadt- und Verkehrsübertragungen.",
-    "Dies ist der erste Familienausbau. Partner und Neugeborene sind im Haus sichtbar; Heranwachsen und freies Herumlaufen folgen später. Für gemeinsames Spielen benötigen alle Spieler diese Version."
+    "Persönlicher Kontostand kompakt oben links: Bauhinweise, Stadtgründung und Viertelinfos werden darunter angeordnet und verdecken sich nicht mehr. Auch große Guthaben bleiben im Knopf; der vollständige Betrag steht im Tooltip.",
+    "Stadtinfos ein- und ausblenden: Das kleine i neben dem Kontostand schaltet Viertelinfos und Meldungen um. Deine Wahl bleibt auf deinem Rechner gespeichert. Einzelne Meldungen schließt du mit ×; sie stehen unterhalb der Punkteanzeige.",
+    "Lebendige Parks: Echte Bewohner besuchen erreichbare, versorgte Parks, spazieren auf deren Wegen und kehren anschließend nach Hause zurück. Auch ausgewählte Berufstätige unternehmen Freizeitausflüge; ihre Arbeitsplätze und Schulwege bleiben erhalten.",
+    "Die alten dekorativen Kastenfiguren und Kajakfiguren sind entfernt. Parkbesucher verwenden die normalen Stadtfiguren einschließlich Altersstufen und Winterkleidung. Die bestehenden NPC-Prozentgrenzen gelten weiterhin.",
+    "Performance: Parkwege werden einmal je Park berechnet und wiederverwendet. Die Parks erzeugen keine zusätzliche Bevölkerung. Vier dekorative Besucher-Batches und der Kajak-Batch entfallen; Vögel und Parkkarussells bleiben erhalten.",
+    "Parkausflüge und laufende Spaziergänge bleiben beim Speichern und Laden erhalten. Die bestehende Koop-Verkehrsübertragung stellt die Besucher bei Mitspielern dar. Für gemeinsames Spielen benötigen alle Spieler diese Version."
   ]
 }
