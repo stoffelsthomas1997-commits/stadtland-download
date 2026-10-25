@@ -1,16 +1,15 @@
 {
-  "title": "Civic Hijack · Mehr Platz, sanfte Hügel",
-  "version": "0.133.20261025",
   "installerSize": 2323968,
+  "platform": "Windows 10 / 11, 64 Bit",
   "notes": [
-    "Neue Kartenauswahl: Unter Spiel > Neue Stadt entscheidest du zwischen Flacher Landschaft und Sanfter Hügellandschaft. Beide neuen Karten bieten 4 km² Baufläche – doppelt so viel wie bisher. In einer neuen Koop-Lobby wählt der Host die Landschaft vor dem gemeinsamen Start.",
-    "Die Hügelkarte bietet breite grüne Erhebungen bis etwa 10,5 Meter, ruhige Täler und einen ebenen Stadtstart. Natürliche Teiche liegen auf angepasstem Boden; die Bergkulisse und ihr Wald schließen an die größere Karte an.",
-    "Straßenränder und Grundstücke passen den Boden in ihrer Nähe an. Straßen und Gleise erhalten zusätzliche Höhenstützpunkte für sanfte Verläufe; Kreuzungen und Bauvorschauen verwenden dasselbe Höhenfeld. Beim Abriss entstehen wieder die ursprünglichen Hügel.",
-    "Verkehr, Passanten und Züge folgen den neuen Bodenhöhen. Fahrzeugvorschau, freies Fahren, Rennstrecken, Kameras und Stadtbesuche berücksichtigen die Landschaft ebenfalls. Natur- und See-Pinsel können auch die neuen Randgebiete erreichen.",
-    "Performance: Das gemeinsame Höhenfeld benötigt rund 252 KB an Höhenwerten. Geländeänderungen betreffen lokale Bereiche und werden in kleinen Schritten vorbereitet; die Geometrievorbereitung läuft im Hintergrund. Die flache Karte benötigt weiterhin nur eine einfache Bodenfläche.",
-    "Die Kartenart und Größe bleiben beim Speichern, Laden und im Koop erhalten. Bestehende Städte behalten ihre flache Karte und ursprüngliche Größe. Bereits gespeicherte Natur- und Seepinselpositionen bleiben unverändert.",
-    "Geprüft: Kartenauswahl, echte Spielstände, Kartenwechsel, Straßen/Gleise, Erkundungsauto, Pinsel am neuen Kartenrand und Koop mit gleichzeitigem Bauen. Alle Mitspieler benötigen diese Version."
+    "Freies Fahren: Autos folgen jetzt der tatsächlichen Fahrbahnebene. Rampen führen in den Tunnel und wieder hinaus sowie auf Brücken und zurück auf den Boden. Kreuzende Straßen ziehen das Auto nicht auf eine andere Höhe.",
+    "Unter Brücken bleibt man auf der unteren Ebene. Wer auf dem Gelände über einem vergrabenen Tunnel fährt, bleibt dort; in den Tunnel geht es über seine Zufahrt. Auch breite Straßen und Autobahnen werden über ihre ganze Fahrbahnbreite erkannt.",
+    "Tunnelwände verhindern das seitliche Hochspringen durch die Erde. Bei einem Sturz von einer Brücke landet das Fahrzeug auf der darunterliegenden Fläche. Freies Lenken und Fahren abseits der Straßen bleiben möglich.",
+    "Die Verfolgerkamera folgt der Fahrzeughöhe und bleibt im Tunnel unter der Decke. Fahrzeug und Cockpit neigen sich passend zur Rampe. ESC beendet die Fahrt weiterhin und entfernt das Fahrzeug.",
+    "Tunnel erhalten feste Innenwände, Decken und einfache Lichtstreifen. Die zusätzlichen Flächen werden mit der Straße zusammengefasst; es gibt keine neuen dynamischen Lampen, Partikelsysteme oder einzelnen Physikobjekte.",
+    "Die Fahrflächen-Suche läuft ausschließlich für das selbst gesteuerte Fahrzeug und verwendet einen lokalen räumlichen Index. Neue Straßen werden nach dem Bau übernommen. Geprüft auf flachen und hügeligen Karten, mit übereinanderliegenden Straßen sowie beiden Kameraperspektiven."
   ],
-  "downloadSize": 124539556,
-  "platform": "Windows 10 / 11, 64 Bit"
+  "version": "0.134.20261025",
+  "title": "Civic Hijack · Richtig durch Tunnel und über Brücken",
+  "downloadSize": 124544524
 }
