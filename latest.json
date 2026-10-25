@@ -1,17 +1,17 @@
 {
-  "notes": [
-    "Dein eigenes Haus ist jetzt begehbar: Mein Leben → Mein Zuhause → Haus betreten & einrichten. Zu Fuß öffnet E an der eigenen Haustür den Innenraum. Mit Tab wechselst du zum Einrichten; Esc bringt dich wieder in die Stadt.",
-    "38 Möbel- und Dekoarten in acht Farben: kaufen, frei platzieren, drehen, umstellen, einlagern und verkaufen. Neu sind zwölf Dekoarten: Aquarium, Standspiegel, Blumenständer, Standuhr, Gitarre, Elektrokamin, Schuhregal, Garderobe, Spielzeugkiste, Kunst auf Sockel, Plattenspieler und Korb mit Decke.",
-    "Das Starterhaus hat eine große Wohnküche und ein separates Bad. Hausausbauten geben weitere Zimmer und ab Stufe 4 ein echtes Obergeschoss mit begehbarer Treppe. Der Innenraum ist großzügiger als das Grundstück von außen wirkt.",
-    "Türen und Treppen bleiben beim Einrichten frei. Ein Viertelmeter-Raster ist umschaltbar. Möbel bleiben beim Umzug im Lager; verkauft wird zu 60 Prozent des tatsächlich bezahlten Preises. Bezahlt wird aus deinem persönlichen Guthaben.",
-    "Date-Figuren überarbeitet: Haaransätze, Frisurensitz und fehlerhafte Stirnflächen korrigiert. Auch die vorhandenen Hüte sind bereinigt.",
-    "Koop und Speichern: Jeder richtet sein eigenes Haus ein, der Host bestätigt die Käufe, während andere Spieler weiterbauen. Bestehende Spielstände bleiben nutzbar. Für gemeinsames Spielen benötigen alle diese Version.",
-    "Performance: Nur der betretene Innenraum wird dargestellt. Möbel sind statisch zusammengefasst und erzeugen keine dauerhafte Physiksimulation. Häufige Stadt- und Verkehrsübertragungen enthalten keine Einrichtung; bis zu 240 eigene Gegenstände je Spieler und Stadt.",
-    "Partner und Kinder, die später im eigenen Haus leben und herumlaufen, sind als nächster Familienausbau vorgemerkt. Diese Version enthält zunächst den begehbaren und einrichtbaren Wohnraum."
-  ],
-  "title": "Civic Hijack · Zuhause einrichten",
-  "version": "0.130.20261025",
+  "downloadSize": 124522669,
+  "platform": "Windows 10 / 11, 64 Bit",
+  "version": "0.131.20261025",
   "installerSize": 2323968,
-  "downloadSize": 124504145,
-  "platform": "Windows 10 / 11, 64 Bit"
+  "title": "Civic Hijack · Zuhause zu zweit",
+  "notes": [
+    "Kompakter wohnen: Das Starterhaus ist innen jetzt 12 × 10 statt 14 × 12 Meter groß und erhält ein kostenloses Doppelbett. Alte Einrichtungen werden sicher angepasst; Möbel, die keinen Platz mehr finden, bleiben im eigenen Lager.",
+    "Heiraten und zusammenziehen: Im Handy beim vertrauten Kontakt freischaltbar. Ihr braucht ein eigenes Haus, mindestens fünf Dates, 70 Prozent Zuneigung sowie je 60 Prozent Vertrauen und Liebe. Der Partner ist anschließend im Haus sichtbar.",
+    "Gemeinsam übernachten: Gehe ans Doppelbett und drücke E oder öffne Familie & Bett. Eine kurze Bettszene blendet sanft ab, Esc gibt die Steuerung sofort frei. Die Stadt und andere Koop-Spieler laufen weiter; es wird keine gemeinsame Zeit übersprungen.",
+    "Eine gemeinsame Nacht mit einer Partnerin kann Nachwuchs bringen: 25 Prozent Spielchance, höchstens einmal pro Spieltag. Mit der Schwangerschaft wird das Babybett für 280 Euro unter Schlafen freigeschaltet. Wiederholte Klicks oder Laden würfeln denselben Spieltag nicht erneut aus.",
+    "Nach neun Spielmonaten wird euer Baby mit Namen und Geburtsdatum gespeichert und im aufgestellten Babybett gezeigt. Bis zu drei Kinder pro Haushalt. Familienstatus, Schwangerschaft und Einrichtung bleiben beim Speichern und bei Koop-Wiederbeitritt erhalten.",
+    "Die Familienübersicht zeigt Ehepartner, Schwangerschaftsfortschritt und Babys. Rückmeldungen bei Tageslimits und die Bettkamera wurden geprüft; veraltete Übernachtungsmeldungen verschwinden am nächsten Spieltag.",
+    "Performance: Die wenigen Familienmodelle werden nur im gerade besuchten Haus dargestellt. Schwangerschaften werden beim Tageswechsel fortgeschrieben. Möbel bleiben außerhalb der häufigen Stadt- und Verkehrsübertragungen.",
+    "Dies ist der erste Familienausbau. Partner und Neugeborene sind im Haus sichtbar; Heranwachsen und freies Herumlaufen folgen später. Für gemeinsames Spielen benötigen alle Spieler diese Version."
+  ]
 }
