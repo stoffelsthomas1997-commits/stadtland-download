@@ -1,16 +1,16 @@
 {
+  "title": "Civic Hijack · Bodenhaftung auf der Hügelkarte",
   "platform": "Windows 10 / 11, 64 Bit",
-  "title": "Civic Hijack · Straßen direkt sichtbar",
-  "installerSize": 2323968,
-  "downloadSize": 124552129,
+  "downloadSize": 124558542,
+  "version": "0.137.20261026",
   "notes": [
-    "Neue Straßen erscheinen nach bestätigtem Bau direkt im nächsten dargestellten Bild. Fahrbahn, Bürgersteige und Mittelstreifen warten nicht mehr auf die Vorbereitung von Verkehr, Gelände und Detailgrafik.",
-    "Kreuzungen, Markierungen, Laternen und weitere Straßendetails werden weiterhin mit begrenztem Arbeitsbudget im Hintergrund aufgebaut. Die vollständige Straßengrafik bleibt erhalten.",
-    "Auf Hügelkarten folgt die sofort sichtbare Fahrbahn dem aktuellen Gelände und dessen anschließender Anpassung. Auch Kurven, breite Straßen, Autobahnen sowie erhöhte und unterirdische Höhenprofile werden berücksichtigt.",
-    "Die direkte Fahrbahn wird erst durch die passenden fertig vorbereiteten Straßenabschnitte ersetzt. Schnelle Baufolgen, Abriss und veraltete Hintergrundergebnisse hinterlassen keine zusätzlichen Straßenflächen.",
-    "Zusätzliche Absicherung schneller Baufolgen: Ein älterer Geometrieauftrag darf die Darstellung einer erst danach gebauten Straße auch bei überlappenden Kreuzungen nicht vorzeitig entfernen.",
-    "Straßenmaterialien werden im Ladebildschirm vorbereitet, damit ihre erste Verwendung beim Bauen keine zusätzliche Shader-Kompilierung auslöst. Unveränderte Straßen erhalten keine zusätzliche dauerhafte Simulation.",
-    "Im lokalen Vergleich auf derselben Teststadt mit rund 34.500 Einwohnern erschien die Fahrbahn nach einem Bild statt nach mehreren Zehntelsekunden. Geprüft auf flachen und hügeligen Karten sowie mit mehreren Koop-Prozessen. Dies ist eine Verbesserung der Bauanzeige, keine Garantie für ruckelfreie Großstädte auf jeder Hardware."
+    "Bodenkontakt korrigiert: Bei Autos, Radfahrern und Passanten wurde die Geländeaufschüttung teilweise doppelt auf die Bewegungsdaten gerechnet. Nahansicht und Fernansicht addieren die lokale Bodenhöhe jetzt genau einmal; auch Haltestellen-Warteschlangen und längere Fahrspuren bleiben auf ihrer Fahrbahn.",
+    "Bewegungsdaten enthalten die relative Straßenhöhe. Dadurch folgen bereits vorbereitete Bewegungen dem aktuellen Hügelprofil, ohne die gesamte Route nach jeder Geländeänderung neu zu berechnen. Brücken- und Tunnelhöhen bleiben erhalten.",
+    "Gebäude, Natur, Dekorationen, Haltestellen, Ampeln und betroffene Gleise übernehmen lokale Geländeänderungen. Gebäudeteile verwenden einen gemeinsamen Höhenbezug; kleine zusammengefasste Sockelflächen schließen Lücken unter ebenen Grundstücken.",
+    "Die Höhenkorrekturen werden räumlich eingegrenzt und auf kleine Arbeitsschritte verteilt. Unveränderte Häuser werden nicht ständig neu erstellt. Sockelflächen teilen sich Stadtabschnitt-Meshes und benötigen keine eigenen Physikobjekte. Straßen erscheinen weiterhin sofort nach bestätigtem Bau.",
+    "Alte Spielstände bleiben ladbar. Gespeicherte ältere Verkehrsbewegungen werden beim Laden in die neuen relativen Höhen umgerechnet; laufende Fahrten und Reservierungen bleiben erhalten.",
+    "Koop: Bitte alle Spieler auf 0.137 aktualisieren. Direktes Spielprotokoll 38 und kompakte Verkehrsdaten Version 2. Der bestehende Online-Vermittlungsdienst muss dafür nicht aktualisiert werden. Geprüft mit drei getrennten Spielprozessen, aktivem Verkehr und gleichzeitigen Straßenänderungen.",
+    "Geprüft auf flachen und hügeligen Karten, in Nah- und Fernansicht sowie mit älteren Verkehrsspielständen. Die Bauanzeige bleibt auch in der lokalen Teststadt mit rund 34.500 Einwohnern im nächsten dargestellten Bild sichtbar."
   ],
-  "version": "0.136.20261025"
+  "installerSize": 2323968
 }
