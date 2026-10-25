@@ -1,17 +1,14 @@
 {
-  "platform": "Windows 10 / 11, 64 Bit",
-  "title": "Civic Hijack · Abendrot – Kontakte & Dates",
-  "version": "0.128.20261025",
-  "installerSize": 2373120,
   "notes": [
-    "Neu: Dein Handy unten rechts im HUD, mit P oder über Mein Leben öffnen. Besuche die Bar Abendrot, wähle Dating-Vorlieben und verwalte bis zu acht Kontakte. Das Handy funktioniert beim Städtebau, zu Fuß und im eigenen Fahrzeug. Geöffnete Menüs halten nur deine Bewegung an; die Stadt läuft weiter.",
-    "Eine kurze 3D-Eintrittsszene führt in die Bar. Erwachsene Bekanntschaften mit unterschiedlichen Namen, Aussehen, Interessen und Persönlichkeiten setzen sich neben dich. Frauen, Männer und nichtbinäre Personen kennenlernen; trans Frauen und Männer sind in der jeweiligen Auswahl enthalten. Vorhandene lizenzierte Figuren und dein Charakter aus dem Editor passen zum Spielstil.",
-    "Links wischen oder Pfeil links: kennenlernen. Rechts wischen oder Pfeil rechts: nächster Gast – mit einem absichtlich übertriebenen Abflug nach rechts. Auch über die Schaltflächen steuerbar. Drei Antworten pro Smalltalk-Runde; gemeinsame Interessen und Persönlichkeit beeinflussen die Reaktion. Wenn es funkt, bekommst du eine Telefonnummer und eine gespeicherte Nachricht.",
-    "Weitere Dates in der Bar oder auf einer Parkbank: Parkdates sind kostenlos, erneute Bardates kosten 20 € aus deinem persönlichen Guthaben. Ein Treffen pro Kontakt und Spieltag. Zuneigung und Vertrauen wachsen durch Gespräche, Liebe ab dem dritten Treffen. Nachrichten und Fortschritt bleiben mit der Stadt gespeichert. Kontakte lassen sich nach Bestätigung entfernen.",
-    "Eigene ruhige Abendrot-Musik, kleine Herz-Effekte und ein Klang beim Nummernaustausch. ESC oder Zur Stadt beendet den Besuch, stoppt die Musik und stellt die Stadtansicht beziehungsweise deine Position zu Fuß wieder her. Ein eigenes gefahrenes Auto wird vor dem Besuch sicher geparkt. Laufende gespeicherte Gespräche kannst du im Handy fortsetzen.",
-    "Koop: Persönliche Gespräche werden vom Stadt-Host bestätigt; andere Spieler können währenddessen weiterbauen. Wiederholte Pakete vergeben keine doppelten Gesprächsfortschritte. Kontakte und Nachrichten bleiben nach erneutem Beitritt erhalten und werden bei einer Monatsberechnung nicht überschrieben. Alle Mitspieler benötigen diese Version; direktes Koop-Protokoll 33. Kein zusätzliches Server-Update nötig.",
-    "Performance: Bar und Park werden nur während eines Besuchs als kleine separate 3D-Ansichten dargestellt. Zwei Figuren und begrenzte Effekte, keine zusätzliche dauerhafte NPC-Simulation. Geprüft: drei Koop-Prozesse mit gleichzeitigem Straßenbau, lokaler WebSocket-Relay, Speichern/Laden, ESC und wiederholte Besuche in einer Stadt mit 34.508 Einwohnern.",
-    "Dies ist die erste Dating-Ausbaustufe. Hochzeit, Einzug, Schwangerschaft und Kinder für Spieler folgen später. Alle bisherigen Inhalte aus Mein Leben, Häusern, Garage, Minispielen und Städtebau sind weiterhin enthalten. Bestehende Spielstände bleiben verwendbar."
+    "Neues Launcher-Motiv: Das freigegebene Abendrot-Bild im kantigen Civic-Hijack-Stil zeigt Bar-Date, Handy und den humorvollen Abflug nach rechts.",
+    "Das gesamte Querformat bleibt sichtbar. Neue Beschriftung „Deine Stadt. Dein Feierabend.“ mit Hinweis auf Kontakte und Dates in Bar oder Park. Auch der Installer erhält das neue Motiv.",
+    "Performance: Das Bild ist direkt eingebaut, wird einmal beim Öffnen geladen und in begrenzter Auflösung dargestellt. Kein zusätzlicher Bilddownload und keine Animation im Hintergrund.",
+    "Das vollständige Dating-Update und alle bisherigen Spielinhalte sind enthalten: P öffnet das Handy, links wischen startet das Kennenlernen, rechts wischen zeigt den nächsten Gast. Kontakte, Nachrichten und Dates bleiben mit der Stadt gespeichert.",
+    "Dies ist ein Launcher-Update. Spielinhalt und Koop-Protokoll entsprechen Version 0.128; Spielstände, persönliche Häuser, Garage und Kontakte bleiben erhalten. Hochzeit, Einzug und Kinder folgen als spätere Ausbaustufe."
   ],
-  "downloadSize": 122821225
+  "installerSize": 2323968,
+  "platform": "Windows 10 / 11, 64 Bit",
+  "version": "0.129.20261025",
+  "title": "Civic Hijack · Feierabend in Abendrot",
+  "downloadSize": 124449479
 }
