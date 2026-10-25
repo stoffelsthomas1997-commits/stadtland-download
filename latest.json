@@ -1,13 +1,16 @@
 {
-  "installerSize": 2373120,
-  "platform": "Windows 10 / 11, 64 Bit",
-  "version": "0.126.20261024",
+  "title": "Civic Hijack · Dein Leben, dein Zuhause, deine Garage",
+  "version": "0.127.20261025",
   "notes": [
-    "Stadterkunden: Alle 23 steuerbaren Fahrzeugtypen können jetzt auf einer freien Fläche der Karte platziert werden. Eine Straße ist nicht mehr erforderlich – auch in einer neuen Stadt ohne Straßennetz.",
-    "Die Vorschau und das tatsächliche Fahrzeug bleiben an der angeklickten Stelle. Nahe Straßen helfen weiterhin bei Ausrichtung und Höhe, auch auf Brücken. Gebäude im Weg werden durch eine rote Vorschau angezeigt.",
-    "Freies Fahren, Cockpit, Perspektivwechsel, ESC zum Aussteigen und das Entfernen des Fahrzeugs bleiben erhalten. Die Platzierungsprüfung verwendet den vorhandenen lokalen Gebäudecache; es entsteht keine zusätzliche dauerhafte Physiksimulation.",
-    "234 Prüfungen decken alle Fahrzeugtypen, freie Flächen, Straßen, Brücken, Gebäudekollisionen, den tatsächlichen Mausklick in einer neuen Stadt und die Koop-Übertragung von Fahrzeugpositionen ab. Zusätzlich ein beim Beenden ungenutztes Feuerwehr-Minispielobjekt sauber freigegeben."
+    "Neu: Mit deinem Charakter aus dem Charaktereditor zu Fuß durch die eigene Stadt gehen. WASD bewegen, Maus umsehen, Shift laufen, E benutzen, C erste/dritte Person, Esc persönliches Menü. Über Stadterkunden oder Mein Leben jederzeit zum Städtebau zurück. Andere Koop-Spieler sehen deinen Charakter und können währenddessen weiterbauen.",
+    "Persönliches Guthaben je Spieler und Stadt: 25.000 € Startgeld, 20 € pro neuem gültigem Wettbewerbspunkt. Der amtierende Bürgermeister erhält 25 % Bonus. Einmaliger Bonus für bestehende Gesamtpunkte bis 100.000 €. Stadtkasse und persönliche Ersparnisse bleiben getrennt; keine erneute Auszahlung durch Laden, Beitreten oder Jahreswechsel.",
+    "Eigenes Zuhause: Starterhaus ab 18.000 €, fünf Ausbaustufen bis zur Panoramavilla, verschiedene Fassaden und Gärten sowie ein bis vier Stellplätze. An einer freien Straßenfläche bauen oder ein tatsächlich unbewohntes Wohnhaus kaufen. Ausbauten respektieren Nachbargrundstücke. Privathäuser sind vor gewöhnlichem Abriss geschützt; Verkauf und Umzug erfolgen über das Hausmenü.",
+    "Garage und Fahrzeugkauf mit 3D-Vorschau: alle 23 vorhandenen Modelle, vom Motorrad ab 1.500 € und Kleinwagen ab 4.500 € bis zum Supersportwagen für 75.000 €. Bis zu zwölf gekaufte Fahrzeuge; Auswahl auf echten Hausstellplätzen, Einsteigen mit E, bestehendes Cockpit und Motorengeräusche, Aussteigen und Parken mit E. Rückholung und Verkauf über die Garage. Schlüsselanimation, Kaufklang und bewegliche Garagentore.",
+    "Im unbegrenzten Modus kann der Host kostenlose persönliche Fahrzeuge ausdrücklich aktivieren. Kostenlose Fahrzeuge bringen beim Verkauf kein Geld. Rennen, Kirmes, Einsatzfahrzeuge und NPC-Verkehr behalten ihre Regeln. Hausinnenräume, Heirat und Kinder für Spieler folgen später.",
+    "Koop und Spielstände: Käufe werden vom Host bestätigt, wiederholte Pakete erzeugen keine doppelten Käufe. Verbindungsabbruch parkt das gefahrene Auto; beim erneuten Beitreten bleiben Haus, Fahrzeuge und Guthaben erhalten. Gleichzeitige Monatsberechnungen bewahren persönliche Käufe und Einnahmen. Alle Mitspieler benötigen diese Version, direktes Koop-Protokoll 32.",
+    "Performance: geparkte Fahrzeuge werden räumlich gebündelt und ohne Fahrphysik dargestellt. Spieler nutzen gemeinsame Modelle und Animation im Shader, ohne zusätzliche NPC-Lebenssimulation. Stillstehende Figuren senden nur sparsame Herzschlagmeldungen. Große Stadt mit 34.508 Einwohnern, 252 konzentriert geparkten Autos und fünf weiteren Spielerfiguren sowie drei getrennte Koop-Prozesse und lokaler WebSocket-Relay geprüft."
   ],
-  "downloadSize": 122586353,
-  "title": "Civic Hijack · Fahrzeuge frei auf der Karte platzieren"
+  "platform": "Windows 10 / 11, 64 Bit",
+  "downloadSize": 122663070,
+  "installerSize": 2373120
 }
