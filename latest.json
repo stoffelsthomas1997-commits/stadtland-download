@@ -1,15 +1,16 @@
 {
-  "version": "0.132.20261025",
-  "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 124523384,
+  "title": "Civic Hijack · Mehr Platz, sanfte Hügel",
+  "version": "0.133.20261025",
   "installerSize": 2323968,
-  "title": "Civic Hijack · Klare Anzeigen und lebendige Parks",
   "notes": [
-    "Persönlicher Kontostand kompakt oben links: Bauhinweise, Stadtgründung und Viertelinfos werden darunter angeordnet und verdecken sich nicht mehr. Auch große Guthaben bleiben im Knopf; der vollständige Betrag steht im Tooltip.",
-    "Stadtinfos ein- und ausblenden: Das kleine i neben dem Kontostand schaltet Viertelinfos und Meldungen um. Deine Wahl bleibt auf deinem Rechner gespeichert. Einzelne Meldungen schließt du mit ×; sie stehen unterhalb der Punkteanzeige.",
-    "Lebendige Parks: Echte Bewohner besuchen erreichbare, versorgte Parks, spazieren auf deren Wegen und kehren anschließend nach Hause zurück. Auch ausgewählte Berufstätige unternehmen Freizeitausflüge; ihre Arbeitsplätze und Schulwege bleiben erhalten.",
-    "Die alten dekorativen Kastenfiguren und Kajakfiguren sind entfernt. Parkbesucher verwenden die normalen Stadtfiguren einschließlich Altersstufen und Winterkleidung. Die bestehenden NPC-Prozentgrenzen gelten weiterhin.",
-    "Performance: Parkwege werden einmal je Park berechnet und wiederverwendet. Die Parks erzeugen keine zusätzliche Bevölkerung. Vier dekorative Besucher-Batches und der Kajak-Batch entfallen; Vögel und Parkkarussells bleiben erhalten.",
-    "Parkausflüge und laufende Spaziergänge bleiben beim Speichern und Laden erhalten. Die bestehende Koop-Verkehrsübertragung stellt die Besucher bei Mitspielern dar. Für gemeinsames Spielen benötigen alle Spieler diese Version."
-  ]
+    "Neue Kartenauswahl: Unter Spiel > Neue Stadt entscheidest du zwischen Flacher Landschaft und Sanfter Hügellandschaft. Beide neuen Karten bieten 4 km² Baufläche – doppelt so viel wie bisher. In einer neuen Koop-Lobby wählt der Host die Landschaft vor dem gemeinsamen Start.",
+    "Die Hügelkarte bietet breite grüne Erhebungen bis etwa 10,5 Meter, ruhige Täler und einen ebenen Stadtstart. Natürliche Teiche liegen auf angepasstem Boden; die Bergkulisse und ihr Wald schließen an die größere Karte an.",
+    "Straßenränder und Grundstücke passen den Boden in ihrer Nähe an. Straßen und Gleise erhalten zusätzliche Höhenstützpunkte für sanfte Verläufe; Kreuzungen und Bauvorschauen verwenden dasselbe Höhenfeld. Beim Abriss entstehen wieder die ursprünglichen Hügel.",
+    "Verkehr, Passanten und Züge folgen den neuen Bodenhöhen. Fahrzeugvorschau, freies Fahren, Rennstrecken, Kameras und Stadtbesuche berücksichtigen die Landschaft ebenfalls. Natur- und See-Pinsel können auch die neuen Randgebiete erreichen.",
+    "Performance: Das gemeinsame Höhenfeld benötigt rund 252 KB an Höhenwerten. Geländeänderungen betreffen lokale Bereiche und werden in kleinen Schritten vorbereitet; die Geometrievorbereitung läuft im Hintergrund. Die flache Karte benötigt weiterhin nur eine einfache Bodenfläche.",
+    "Die Kartenart und Größe bleiben beim Speichern, Laden und im Koop erhalten. Bestehende Städte behalten ihre flache Karte und ursprüngliche Größe. Bereits gespeicherte Natur- und Seepinselpositionen bleiben unverändert.",
+    "Geprüft: Kartenauswahl, echte Spielstände, Kartenwechsel, Straßen/Gleise, Erkundungsauto, Pinsel am neuen Kartenrand und Koop mit gleichzeitigem Bauen. Alle Mitspieler benötigen diese Version."
+  ],
+  "downloadSize": 124539556,
+  "platform": "Windows 10 / 11, 64 Bit"
 }
