@@ -1,15 +1,15 @@
 {
-  "installerSize": 2323968,
-  "platform": "Windows 10 / 11, 64 Bit",
+  "title": "Civic Hijack · Straßen direkt sichtbar",
   "notes": [
-    "Freies Fahren: Autos folgen jetzt der tatsächlichen Fahrbahnebene. Rampen führen in den Tunnel und wieder hinaus sowie auf Brücken und zurück auf den Boden. Kreuzende Straßen ziehen das Auto nicht auf eine andere Höhe.",
-    "Unter Brücken bleibt man auf der unteren Ebene. Wer auf dem Gelände über einem vergrabenen Tunnel fährt, bleibt dort; in den Tunnel geht es über seine Zufahrt. Auch breite Straßen und Autobahnen werden über ihre ganze Fahrbahnbreite erkannt.",
-    "Tunnelwände verhindern das seitliche Hochspringen durch die Erde. Bei einem Sturz von einer Brücke landet das Fahrzeug auf der darunterliegenden Fläche. Freies Lenken und Fahren abseits der Straßen bleiben möglich.",
-    "Die Verfolgerkamera folgt der Fahrzeughöhe und bleibt im Tunnel unter der Decke. Fahrzeug und Cockpit neigen sich passend zur Rampe. ESC beendet die Fahrt weiterhin und entfernt das Fahrzeug.",
-    "Tunnel erhalten feste Innenwände, Decken und einfache Lichtstreifen. Die zusätzlichen Flächen werden mit der Straße zusammengefasst; es gibt keine neuen dynamischen Lampen, Partikelsysteme oder einzelnen Physikobjekte.",
-    "Die Fahrflächen-Suche läuft ausschließlich für das selbst gesteuerte Fahrzeug und verwendet einen lokalen räumlichen Index. Neue Straßen werden nach dem Bau übernommen. Geprüft auf flachen und hügeligen Karten, mit übereinanderliegenden Straßen sowie beiden Kameraperspektiven."
+    "Neue Straßen erscheinen nach bestätigtem Bau direkt im nächsten dargestellten Bild. Fahrbahn, Bürgersteige und Mittelstreifen warten nicht mehr auf die Vorbereitung von Verkehr, Gelände und Detailgrafik.",
+    "Kreuzungen, Markierungen, Laternen und weitere Straßendetails werden weiterhin mit begrenztem Arbeitsbudget im Hintergrund aufgebaut. Die vollständige Straßengrafik bleibt erhalten.",
+    "Auf Hügelkarten folgt die sofort sichtbare Fahrbahn dem aktuellen Gelände und dessen anschließender Anpassung. Auch Kurven, breite Straßen, Autobahnen sowie erhöhte und unterirdische Höhenprofile werden berücksichtigt.",
+    "Die direkte Fahrbahn wird erst durch die passenden fertig vorbereiteten Straßenabschnitte ersetzt. Schnelle Baufolgen, Abriss und veraltete Hintergrundergebnisse hinterlassen keine zusätzlichen Straßenflächen.",
+    "Straßenmaterialien werden im Ladebildschirm vorbereitet, damit ihre erste Verwendung beim Bauen keine zusätzliche Shader-Kompilierung auslöst. Unveränderte Straßen erhalten keine zusätzliche dauerhafte Simulation.",
+    "Im lokalen Vergleich auf derselben Teststadt mit rund 34.500 Einwohnern erschien die Fahrbahn nach einem Bild statt nach mehreren Zehntelsekunden. Geprüft auf flachen und hügeligen Karten sowie mit mehreren Koop-Prozessen. Dies ist eine Verbesserung der Bauanzeige, keine Garantie für ruckelfreie Großstädte auf jeder Hardware."
   ],
-  "version": "0.134.20261025",
-  "title": "Civic Hijack · Richtig durch Tunnel und über Brücken",
-  "downloadSize": 124544524
+  "downloadSize": 124551672,
+  "version": "0.135.20261025",
+  "platform": "Windows 10 / 11, 64 Bit",
+  "installerSize": 2323968
 }
