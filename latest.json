@@ -1,14 +1,17 @@
 {
   "notes": [
-    "Neues Launcher-Motiv: Das freigegebene Abendrot-Bild im kantigen Civic-Hijack-Stil zeigt Bar-Date, Handy und den humorvollen Abflug nach rechts.",
-    "Das gesamte Querformat bleibt sichtbar. Neue Beschriftung „Deine Stadt. Dein Feierabend.“ mit Hinweis auf Kontakte und Dates in Bar oder Park. Auch der Installer erhält das neue Motiv.",
-    "Performance: Das Bild ist direkt eingebaut, wird einmal beim Öffnen geladen und in begrenzter Auflösung dargestellt. Kein zusätzlicher Bilddownload und keine Animation im Hintergrund.",
-    "Das vollständige Dating-Update und alle bisherigen Spielinhalte sind enthalten: P öffnet das Handy, links wischen startet das Kennenlernen, rechts wischen zeigt den nächsten Gast. Kontakte, Nachrichten und Dates bleiben mit der Stadt gespeichert.",
-    "Dies ist ein Launcher-Update. Spielinhalt und Koop-Protokoll entsprechen Version 0.128; Spielstände, persönliche Häuser, Garage und Kontakte bleiben erhalten. Hochzeit, Einzug und Kinder folgen als spätere Ausbaustufe."
+    "Dein eigenes Haus ist jetzt begehbar: Mein Leben → Mein Zuhause → Haus betreten & einrichten. Zu Fuß öffnet E an der eigenen Haustür den Innenraum. Mit Tab wechselst du zum Einrichten; Esc bringt dich wieder in die Stadt.",
+    "38 Möbel- und Dekoarten in acht Farben: kaufen, frei platzieren, drehen, umstellen, einlagern und verkaufen. Neu sind zwölf Dekoarten: Aquarium, Standspiegel, Blumenständer, Standuhr, Gitarre, Elektrokamin, Schuhregal, Garderobe, Spielzeugkiste, Kunst auf Sockel, Plattenspieler und Korb mit Decke.",
+    "Das Starterhaus hat eine große Wohnküche und ein separates Bad. Hausausbauten geben weitere Zimmer und ab Stufe 4 ein echtes Obergeschoss mit begehbarer Treppe. Der Innenraum ist großzügiger als das Grundstück von außen wirkt.",
+    "Türen und Treppen bleiben beim Einrichten frei. Ein Viertelmeter-Raster ist umschaltbar. Möbel bleiben beim Umzug im Lager; verkauft wird zu 60 Prozent des tatsächlich bezahlten Preises. Bezahlt wird aus deinem persönlichen Guthaben.",
+    "Date-Figuren überarbeitet: Haaransätze, Frisurensitz und fehlerhafte Stirnflächen korrigiert. Auch die vorhandenen Hüte sind bereinigt.",
+    "Koop und Speichern: Jeder richtet sein eigenes Haus ein, der Host bestätigt die Käufe, während andere Spieler weiterbauen. Bestehende Spielstände bleiben nutzbar. Für gemeinsames Spielen benötigen alle diese Version.",
+    "Performance: Nur der betretene Innenraum wird dargestellt. Möbel sind statisch zusammengefasst und erzeugen keine dauerhafte Physiksimulation. Häufige Stadt- und Verkehrsübertragungen enthalten keine Einrichtung; bis zu 240 eigene Gegenstände je Spieler und Stadt.",
+    "Partner und Kinder, die später im eigenen Haus leben und herumlaufen, sind als nächster Familienausbau vorgemerkt. Diese Version enthält zunächst den begehbaren und einrichtbaren Wohnraum."
   ],
+  "title": "Civic Hijack · Zuhause einrichten",
+  "version": "0.130.20261025",
   "installerSize": 2323968,
-  "platform": "Windows 10 / 11, 64 Bit",
-  "version": "0.129.20261025",
-  "title": "Civic Hijack · Feierabend in Abendrot",
-  "downloadSize": 124449479
+  "downloadSize": 124504145,
+  "platform": "Windows 10 / 11, 64 Bit"
 }
