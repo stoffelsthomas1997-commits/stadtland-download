@@ -1,14 +1,18 @@
 {
-  "title": "Civic Hijack · Koop-Mauszeiger passend zur Ansicht",
-  "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 128939231,
   "notes": [
-    "Koop-Mauszeiger korrigiert: Im Baumodus und beim Platzieren von Fahrzeugen oder Grundstücken werden nur die normalen kleinen Mauszeiger mit Spielernamen angezeigt. Die großen schwebenden Zeiger bleiben dabei ausgeblendet.",
-    "Zu Fuß, beim Fahren und Fliegen sieht man ausschließlich die großen schwebenden Mauszeiger. Die zusätzlichen kleinen Pfeile und Namensschilder sind in diesen Ansichten vollständig ausgeblendet. Der Wechsel zwischen Bauen und Erkunden erfolgt automatisch.",
-    "Weniger unnötige Arbeit: In der Straßenansicht entfallen Bildschirmprojektion und Namensdarstellung der kleinen Zeiger. Im Baumodus werden die großen Zeiger und ihre Dachhöhen nicht aktualisiert. Ohne Mitspieler-Zeiger bleibt die Anzeige inaktiv.",
-    "Die bestehende Grafikoption für große Zeiger bleibt erhalten. Ist sie ausgeschaltet, erscheinen beim Erkunden auch keine kleinen Ersatzzeiger. Menüs, Innenräume und separate Minispiele blenden die Stadtzeiger weiter aus.",
-    "Auf einer Hügelkarte mit tatsächlicher Bau-, Cockpit-, Außen- und Fußgängeransicht sowie wiederholten Wechseln geprüft. Kein zusätzliches Netzwerkfeld und kein Serverupdate; direktes Koop-Protokoll bleibt 39."
+    "Sichtbarer Regen mit schrägen Tropfen, kleinen Bodenringen, nassen Straßen und eigenem Regenklang. Einstellungen > Spiel > Wetter & Regen: Automatisch oder dauerhaft Regen wählen. Der automatische Wetterwechsel bleibt bei etwa zwölf Minuten mit weichen Übergängen. Im Koop legt der Host das gemeinsame Wetter fest.",
+    "Nahe Passanten öffnen farbige Regenschirme mit Haltepose. Einige gehen schneller ohne Schirm oder warten kurz unter einem erreichbaren Bushaltestellendach und setzen ihren ursprünglichen Weg fort. Passanten schauen vorbeifahrenden Spielerautos kurz nach und treten vor nahen Einsatzfahrzeugen zur Seite. Brückenhöhen und Fußgängerüberwege werden berücksichtigt.",
+    "Begrenzter Zusatzaufwand: zwei GPU-Regengruppen und eine gemeinsame Schirmgruppe, keine Physik pro Tropfen. Schirm- und Blickreaktionen sind nach Grafikqualität begrenzt. Dachabfragen nutzen nur nahe Gebäude und einen Cache. Beim Zoomen werden keine Tropfenpuffer neu gebaut; Innenräume und separate Minispiele blenden den Stadtregen aus.",
+    "Schwebende dunkle Ringe über Gebäuden behoben: Bodenkontaktschatten hatten die Geländehöhe doppelt erhalten. Die Schatten liegen jetzt auf dem Boden, auch bei älteren Gewerbe- und Wasserwerksmodellen auf Hügelkarten.",
+    "Straßen besser verbinden und weiterbauen: großzügigeres Einrasten an echten Endkappen und Erkennen sichtbarer Brückenenden mit ihrer korrekten Höhe. Weiterbau behält die Anschlusshöhe. Die alte Grenze von 150 Straßenabschnitten ist auf 2.048 angehoben; Speichern und Laden sind angepasst. Mausbewegungen berechnen den gesamten Straßenbestand nicht mehr wiederholt als Prüfsumme.",
+    "Eigenes Auto aus älteren Spielständen: Die geprüfte Boden-/Straßenhöhe wird beim Einsteigen erhalten. Hausstellplätze und alte Positionen mit Höhe null werden in der Darstellung geerdet. Ist die alte Position im Gebäude blockiert, wird beim Einsteigen eine nahe freie Position gesucht und geprüft.",
+    "Auch allein Geld verdienen: Abgeschlossene Minispiele mit eigenen Treffern oder Leistungen sowie beendete Solo-Testfahrten zahlen eine persönliche Prämie. Gegner dürfen NPCs sein. Null-Leistung, abgebrochene Rennen und doppelte Rundenabschlüsse zahlen nicht mehrfach. Dauer und Leistung bestimmen die Prämie; amtierende Bürgermeister erhalten den bestehenden 25-Prozent-Bonus. Mehrspieler-Pokalpunkte bleiben getrennt.",
+    "Neuer Hauptmenüpunkt Cheats: Cheatmodus aktivieren, persönliches Geld und Stadt-Credits getrennt vormerken. Beim nächsten Start oder Laden einer eigenen Solo-/Host-Stadt werden die Beträge einmalig gutgeschrieben und die Vormerkung geleert. Kein Guthaben für fremde Koop-Städte und keine zusätzlichen Pokalpunkte.",
+    "Geprüft auf echter Hügelkarte: Regen, Schirme, Blickreaktionen, altes und blockiertes eigenes Auto, Brückenanschluss und Weiterbau, Cheats und Prämien. In einer isolierten Grafikprobe mit 240 nahen NPCs und einem Index mit 10.000 Grundstücken kamen drei Zeichenaufrufe hinzu. Alle Koop-Spieler aktualisieren: Direktprotokoll 40, Online-Vermittler unverändert."
   ],
-  "version": "0.141.20261026",
+  "title": "Civic Hijack · Regen, lebendige Passanten & Bauen ohne Stolperfallen",
+  "downloadSize": 129026814,
+  "version": "0.142.20261026",
+  "platform": "Windows 10 / 11, 64 Bit",
   "installerSize": 2323968
 }
