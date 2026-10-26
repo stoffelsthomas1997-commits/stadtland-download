@@ -1,15 +1,17 @@
 {
-  "installerSize": 2323968,
-  "version": "0.145.20261026",
+  "version": "0.146.20261026",
+  "title": "Civic Hijack · Stabiler Koop & Hijack Bank",
+  "downloadSize": 129100681,
   "platform": "Windows 10 / 11, 64 Bit",
   "notes": [
-    "Die weiblichen Spielerfiguren haben jetzt einen eigenen Kopf mit weicherem Kiefer und Kinn, feineren Augenbrauen, geformten Augenlidern, dezenten Wimpern, kleinerer Nase und einer überarbeiteten Mundpartie. Alle fünf Gesichtsformen bleiben wählbar.",
-    "Alltag, Unterwegs und Sommer: angepasste Schultern, Taille, Hüften, Hände und Schuhe sowie besser passende Kleidung. Das Sommer-Top ist jetzt ärmellos. Ein unter der Hose sichtbarer Rest des Oberteils wurde korrigiert.",
-    "Langhaar erhält einen geformten seitlichen Pony, beim Dutt ist der Haaransatz überarbeitet. Hüte nutzen weiterhin angepasste Frisuren. Auch frei kombinierte Bärte folgen der gewählten Kopfform. Farben, Frisuren und Accessoires bleiben frei kombinierbar.",
-    "Im Charaktereditor steht direkt beim Outfit, ob die männliche oder weibliche Figur aktiv ist. Weibliche Varianten findest du unter Hauptmenü > Charakter > Look bei Alltag, Unterwegs und Sommer. Vorhandene Charakterauswahl und Spielstände bleiben kompatibel.",
-    "Weiterhin sparsam: keine zusätzlichen Figur-Objekte, Materialien, Physik oder Netzwerkfelder. Im isolierten Vergleich mit sechs Spielern bleibt es bei 26 Zeichenaufrufen; die dargestellte Geometrie wurde etwas kleiner. Die Studio-Vorschau ruht unverändert, solange nichts bearbeitet wird. Das ist keine allgemeine Stadt-FPS-Zusage.",
-    "Geprüft: 5.400 Kombinationen, Umschalten zwischen den Kopfformen, passende Bartmodelle, Speichern und erneutes Laden, kleine Bildschirme und die exportierte Windows-Version. Drei lokale Koop-Instanzen stimmen bei individuellen Figuren überein, während parallel Jobs erledigt und Straßen gebaut werden. Stadt-NPCs, Date-Partner und Familienmitglieder behalten ihre bisherigen Modelle."
+    "Koop-Fix beim Losfahren: Spielerposen und Autoansichten konnten zusammen mehr Nachrichten senden, als der bestehende Online-Server pro Sekunde erlaubt. Ein gemeinsamer Versandplan für Host und Gäste begrenzt die Last. Veraltete Positionen, Mauszeiger und vollständige Verkehrsbilder werden durch den neuesten Stand ersetzt, während Käufe, Bauen und Überweisungen in Reihenfolge bleiben.",
+    "Nachgestellt und geprüft: Mit 0.145 wurde der lokale Online-Fahrtest nach rund einer halben Sekunde getrennt. Die neue Version besteht denselben Test sowie 25 Sekunden mit drei gleichzeitig fahrenden Gästen, parallelem Straßenbau und Überweisungen gegen die unveränderten Serverlimits. Das behebt die nachgestellte Ursache, ist aber keine Zusage für jede Internetverbindung.",
+    "Persönlicher Verdienst verdoppelt: neue Jobaufträge zahlen doppelt, Wettbewerbspunkte bringen 40 statt 20 Euro und persönliche Solo-Prämien zahlen ebenfalls doppelt. Der Bürgermeisterbonus von 25 Prozent kommt weiterhin hinzu. Bereits zugesagte Joblöhne bleiben erhalten; höhere Löhne gelten für neu angenommene Aufträge.",
+    "Neu unter Mein Leben > Bank: persönlicher Kontostand, eigene Kontonummer, Empfängerauswahl, Beträge und optionaler Verwendungszweck. Gebührenfreie Überweisungen zwischen Spielern derselben Stadt werden vom Host geprüft und bei beiden Konten gemeinsam verbucht. Vor dem Senden siehst du Empfänger, Betrag und verbleibendes Guthaben.",
+    "Überweisungen erscheinen im gespeicherten Kontoverlauf. Der Empfänger erhält eine Meldung. Ungültige Beträge, fehlendes Guthaben, falsche Empfänger, Überschreitungen und doppelt übertragene Anfragen erzeugen kein Geld. Die Stadtkasse bleibt getrennt. Auch bereits bekannte Stadtkonten können Geld erhalten.",
+    "Performance: kein zusätzlicher Bank-Prozess pro Bild, begrenzter Verlauf und kleine Kontodaten. Eingaben im Formular bleiben bei eingehenden Kontoänderungen erhalten. Inaktive Spieler senden keine wiederholten Abwesenheitsmeldungen mehr. Kurze Schuss- und Turbo-Tastendrücke bleiben beim Zusammenfassen von Minispieleingaben erhalten.",
+    "Geprüft: Überweisungen, Wiederholschutz, Kontogrenzen, alte und neue Spielstände, verdoppelte Einnahmen, Bankfenster bei kleiner Auflösung und normaler Haus-/Autokauf mit Ein- und Aussteigen. Drei getrennte lokale Direkt-Koop-Prozesse bestätigen dieselben Kontostände und Charaktere bei Jobs, Überweisungen und Straßenbau. Alle vier Sim-Jobs bestehen ihre Prüfungen.",
+    "Die fertigen weiblichen Spielerfiguren aus 0.145 sind enthalten. Alle Mitspieler auf 0.146 aktualisieren: Direktprotokoll 42; Online-Vermittlung weiterhin Protokoll 2. Vorhandene Spielstände werden weiter geladen."
   ],
-  "downloadSize": 129085179,
-  "title": "Civic Hijack · Weibliche Spielerfiguren"
+  "installerSize": 2323968
 }
