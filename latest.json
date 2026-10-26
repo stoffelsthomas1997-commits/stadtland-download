@@ -1,17 +1,18 @@
 {
-  "version": "0.146.20261026",
-  "title": "Civic Hijack · Stabiler Koop & Hijack Bank",
-  "downloadSize": 129100681,
   "platform": "Windows 10 / 11, 64 Bit",
   "notes": [
-    "Koop-Fix beim Losfahren: Spielerposen und Autoansichten konnten zusammen mehr Nachrichten senden, als der bestehende Online-Server pro Sekunde erlaubt. Ein gemeinsamer Versandplan für Host und Gäste begrenzt die Last. Veraltete Positionen, Mauszeiger und vollständige Verkehrsbilder werden durch den neuesten Stand ersetzt, während Käufe, Bauen und Überweisungen in Reihenfolge bleiben.",
-    "Nachgestellt und geprüft: Mit 0.145 wurde der lokale Online-Fahrtest nach rund einer halben Sekunde getrennt. Die neue Version besteht denselben Test sowie 25 Sekunden mit drei gleichzeitig fahrenden Gästen, parallelem Straßenbau und Überweisungen gegen die unveränderten Serverlimits. Das behebt die nachgestellte Ursache, ist aber keine Zusage für jede Internetverbindung.",
-    "Persönlicher Verdienst verdoppelt: neue Jobaufträge zahlen doppelt, Wettbewerbspunkte bringen 40 statt 20 Euro und persönliche Solo-Prämien zahlen ebenfalls doppelt. Der Bürgermeisterbonus von 25 Prozent kommt weiterhin hinzu. Bereits zugesagte Joblöhne bleiben erhalten; höhere Löhne gelten für neu angenommene Aufträge.",
-    "Neu unter Mein Leben > Bank: persönlicher Kontostand, eigene Kontonummer, Empfängerauswahl, Beträge und optionaler Verwendungszweck. Gebührenfreie Überweisungen zwischen Spielern derselben Stadt werden vom Host geprüft und bei beiden Konten gemeinsam verbucht. Vor dem Senden siehst du Empfänger, Betrag und verbleibendes Guthaben.",
-    "Überweisungen erscheinen im gespeicherten Kontoverlauf. Der Empfänger erhält eine Meldung. Ungültige Beträge, fehlendes Guthaben, falsche Empfänger, Überschreitungen und doppelt übertragene Anfragen erzeugen kein Geld. Die Stadtkasse bleibt getrennt. Auch bereits bekannte Stadtkonten können Geld erhalten.",
-    "Performance: kein zusätzlicher Bank-Prozess pro Bild, begrenzter Verlauf und kleine Kontodaten. Eingaben im Formular bleiben bei eingehenden Kontoänderungen erhalten. Inaktive Spieler senden keine wiederholten Abwesenheitsmeldungen mehr. Kurze Schuss- und Turbo-Tastendrücke bleiben beim Zusammenfassen von Minispieleingaben erhalten.",
-    "Geprüft: Überweisungen, Wiederholschutz, Kontogrenzen, alte und neue Spielstände, verdoppelte Einnahmen, Bankfenster bei kleiner Auflösung und normaler Haus-/Autokauf mit Ein- und Aussteigen. Drei getrennte lokale Direkt-Koop-Prozesse bestätigen dieselben Kontostände und Charaktere bei Jobs, Überweisungen und Straßenbau. Alle vier Sim-Jobs bestehen ihre Prüfungen.",
-    "Die fertigen weiblichen Spielerfiguren aus 0.145 sind enthalten. Alle Mitspieler auf 0.146 aktualisieren: Direktprotokoll 42; Online-Vermittlung weiterhin Protokoll 2. Vorhandene Spielstände werden weiter geladen."
+    "E an der sichtbaren Haustür: das eigene Zuhause betreten oder beim Mitspieler klingeln. Türen haben Vorrang vor einem daneben geparkten Auto. Ein kleiner Hinweis zeigt die passende Aktion in Türnähe.",
+    "Hausbesuche im Koop: Der Besitzer erhält eine Klingelkarte und kann per Klick oder J hereinlassen; N lehnt ab. Gäste direkt vor der Tür treten nach der Zusage ein. Wer inzwischen weggegangen ist, kehrt zurück und drückt E. Unter Mein Leben > Kontakte sind offene Klingelanfragen erreichbar.",
+    "Gemeinsam im Haus: zugelassene Besucher und Besitzer sehen sich im selben Innenraum. Änderungen an der Einrichtung erscheinen auch beim Gast. Gäste dürfen sich umsehen und gehen, können aber keine Möbel kaufen, verschieben oder verkaufen und keine Familienaktionen des Besitzers verwenden.",
+    "Besuche bleiben vorübergehend: Anfragen verfallen, und beim Verlassen, Hausverkauf oder Abmelden des Besitzers wird der Zugang beendet. Gäste kehren nach draußen zurück. Private Einrichtung wird ausschließlich an zugelassene Teilnehmer gesendet; Raumpositionen überschreiben nicht die gespeicherte Außenposition.",
+    "Mein Leben aufgeräumt: feste Bereiche Übersicht, Unterwegs, Zuhause, Bank und Kontakte. Die Übersicht zeigt vier klare Einstiegskarten. Fahrzeuge, Jobs und Flugplatz sind unter Unterwegs; Haus, Garten und Einrichtung unter Zuhause. Der Fahrzeugkauf ist zusätzlich nach Fahrzeuggruppen sortiert. Laufende Bankeingaben bleiben erhalten.",
+    "Schneller unterwegs: normales Gehen auf 3,8 m/s draußen und 3,2 m/s drinnen erhöht. Mit Shift sind draußen 7,5 m/s und drinnen 6 m/s möglich. Vorhandene Hindernisprüfung bleibt aktiv.",
+    "Kirmes-NPC-Gegner erleichtert: weniger aggressive Autoscooter-Bots, spätere Reaktionen, weniger häufige und ungenauere Schüsse beim Schießstand und Karussell. Neue Lobbys starten auf Leicht; Leicht, Normal und Schwer bleiben auswählbar. Alien-Wellen sind in diesem Patch unverändert.",
+    "Performance: Hausbesuche verwenden den bestehenden Bewegungsversand und vorhandene Spielerfiguren. Es entsteht keine zusätzliche Stadt-NPC-Simulation. Die Hausliste wird bei Änderungen aktualisiert und der Türhinweis nur fünfmal pro Sekunde geprüft. Die Versandbegrenzung aus 0.146 bleibt erhalten.",
+    "Geprüft mit getrennten lokalen Direkt-Koop-Instanzen und dem unveränderten Online-Relay: Klingeln, Zustimmung, gemeinsame Raumansicht und gleichzeitiger Straßenbau. Zusätzlich Berechtigungen, Ablauf und Abmeldung, echte Menüs und Haustür-Eingaben, alte Spielstände, Jobs, Überweisungen und Fahrbelastung mit drei Gästen geprüft. Alle Mitspieler auf 0.147 aktualisieren (Direktprotokoll 43; Online-Vermittlung weiterhin Protokoll 2)."
   ],
-  "installerSize": 2323968
+  "installerSize": 2323968,
+  "downloadSize": 129118163,
+  "title": "Civic Hijack · Hausbesuche & Mein Leben",
+  "version": "0.147.20261027"
 }
