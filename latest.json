@@ -1,16 +1,14 @@
 {
-  "title": "Civic Hijack · Die Mauszeiger deiner Freunde über der Stadt",
-  "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 124567804,
-  "version": "0.138.20261026",
   "notes": [
-    "Große Koop-Mauszeiger: Die Maus deiner Mitspieler schwebt als farbiger 3D-Pfeil hoch über der Stadt und wirft einen Schatten. Auch beim freien Fahren aus dem Cockpit oder der Verfolgerkamera und beim Spaziergang kannst du deinen Freunden beim Bauen zuschauen.",
-    "Die kleinen Bodenzeiger mit Spielernamen markieren weiterhin die genaue Position. Namen werden bei nahen Zeigern auseinandergerückt; auf Hügelkarten stimmen die Bodenpositionen. Fahrende und laufende Spieler senden keinen falschen Bauzeiger aus ihrer Bildschirmmitte.",
-    "Sparsame Darstellung: maximal fünf gemeinsame Pfeilmodelle mit zusammen 265 zusätzlichen Dreiecken einschließlich einfacher Schatten. Vorhandene Mauspositionsdaten werden wiederverwendet. Keine neuen Netzwerkpakete, Physikobjekte oder zusätzlichen Lichtquellen.",
-    "Die Zeiger bleiben über nahegelegenen Dächern. Dachhöhen werden über den vorhandenen räumlichen Gebäudeindex zwischengespeichert. In einer Prüfung mit 10.000 Grundstücken wurden für fünf Zeiger nur 405 nahe Kandidaten betrachtet; ruhende Zeiger prüften sie nicht erneut.",
-    "Einstellungen > Grafik > Große Koop-Mauszeiger: Die großen Pfeile lassen sich lokal ausschalten. Die normalen Bodenzeiger bleiben sichtbar. Niedrige Grafik und große Entfernung nutzen einen einfachen Schatten; Materialien werden hinter dem Ladebildschirm vorbereitet.",
-    "Mauspositionen am Rand der neuen großen Karten werden jetzt ebenfalls akzeptiert. Im Haus, in Minigames, auf Fotos und nach dem Verlassen des Koop verschwinden die Zeiger sauber.",
-    "Geprüft mit drei lokalen Spielprozessen, gleichzeitigen Straßenänderungen und laufendem Verkehr sowie über eine isolierte Kopie des Online-Vermittlers. Spielstände und Online-Server bleiben kompatibel; alle Spieler sollten für die neue Darstellung aktualisieren."
+    "Hauseingänge korrigiert: Tür und Fenster überlappen sich bei den fünf privaten Hausgrößen nicht mehr. Das Starterhaus erhält einen seitlichen Eingang und ein separates Fenster daneben. Größere Häuser lassen eine freie Eingangszone zwischen den Erdgeschossfenstern.",
+    "Türgriff und Stufe folgen dem korrigierten Eingang. Die oberen Fensterreihen und die Hausgrößen bleiben erhalten. Bestehende Häuser übernehmen die Korrektur ohne Abriss und Neubau.",
+    "Auch bei gewöhnlichen Wohnhausvarianten in niedriger Grafik stehen die Frontfenster neben der Tür. Die vorhandene Fensteranzahl bleibt dort erhalten.",
+    "Alle 330 betroffenen Hausvorlagen einschließlich ihrer entfernten Detailstufen wurden vorab neu erstellt. Keine zusätzliche laufende Simulation, Physik oder neuen Gebäude-Nodes. Alle fünf privaten Ausbaustufen und zehn Wohnhausdesigns wurden in drei Detailstufen dargestellt und geprüft.",
+    "Die großen Koop-Mauszeiger und die bisherigen Verbesserungen der Hügelkarten sind enthalten. Spielstände, Koop-Protokoll und Online-Server bleiben unverändert."
   ],
+  "title": "Civic Hijack · Saubere Hauseingänge",
+  "version": "0.139.20261026",
+  "downloadSize": 128754478,
+  "platform": "Windows 10 / 11, 64 Bit",
   "installerSize": 2323968
 }
