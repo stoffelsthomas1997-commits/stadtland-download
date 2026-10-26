@@ -1,16 +1,16 @@
 {
-  "title": "Civic Hijack · Bodenhaftung auf der Hügelkarte",
+  "title": "Civic Hijack · Die Mauszeiger deiner Freunde über der Stadt",
   "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 124558542,
-  "version": "0.137.20261026",
+  "downloadSize": 124567804,
+  "version": "0.138.20261026",
   "notes": [
-    "Bodenkontakt korrigiert: Bei Autos, Radfahrern und Passanten wurde die Geländeaufschüttung teilweise doppelt auf die Bewegungsdaten gerechnet. Nahansicht und Fernansicht addieren die lokale Bodenhöhe jetzt genau einmal; auch Haltestellen-Warteschlangen und längere Fahrspuren bleiben auf ihrer Fahrbahn.",
-    "Bewegungsdaten enthalten die relative Straßenhöhe. Dadurch folgen bereits vorbereitete Bewegungen dem aktuellen Hügelprofil, ohne die gesamte Route nach jeder Geländeänderung neu zu berechnen. Brücken- und Tunnelhöhen bleiben erhalten.",
-    "Gebäude, Natur, Dekorationen, Haltestellen, Ampeln und betroffene Gleise übernehmen lokale Geländeänderungen. Gebäudeteile verwenden einen gemeinsamen Höhenbezug; kleine zusammengefasste Sockelflächen schließen Lücken unter ebenen Grundstücken.",
-    "Die Höhenkorrekturen werden räumlich eingegrenzt und auf kleine Arbeitsschritte verteilt. Unveränderte Häuser werden nicht ständig neu erstellt. Sockelflächen teilen sich Stadtabschnitt-Meshes und benötigen keine eigenen Physikobjekte. Straßen erscheinen weiterhin sofort nach bestätigtem Bau.",
-    "Alte Spielstände bleiben ladbar. Gespeicherte ältere Verkehrsbewegungen werden beim Laden in die neuen relativen Höhen umgerechnet; laufende Fahrten und Reservierungen bleiben erhalten.",
-    "Koop: Bitte alle Spieler auf 0.137 aktualisieren. Direktes Spielprotokoll 38 und kompakte Verkehrsdaten Version 2. Der bestehende Online-Vermittlungsdienst muss dafür nicht aktualisiert werden. Geprüft mit drei getrennten Spielprozessen, aktivem Verkehr und gleichzeitigen Straßenänderungen.",
-    "Geprüft auf flachen und hügeligen Karten, in Nah- und Fernansicht sowie mit älteren Verkehrsspielständen. Die Bauanzeige bleibt auch in der lokalen Teststadt mit rund 34.500 Einwohnern im nächsten dargestellten Bild sichtbar."
+    "Große Koop-Mauszeiger: Die Maus deiner Mitspieler schwebt als farbiger 3D-Pfeil hoch über der Stadt und wirft einen Schatten. Auch beim freien Fahren aus dem Cockpit oder der Verfolgerkamera und beim Spaziergang kannst du deinen Freunden beim Bauen zuschauen.",
+    "Die kleinen Bodenzeiger mit Spielernamen markieren weiterhin die genaue Position. Namen werden bei nahen Zeigern auseinandergerückt; auf Hügelkarten stimmen die Bodenpositionen. Fahrende und laufende Spieler senden keinen falschen Bauzeiger aus ihrer Bildschirmmitte.",
+    "Sparsame Darstellung: maximal fünf gemeinsame Pfeilmodelle mit zusammen 265 zusätzlichen Dreiecken einschließlich einfacher Schatten. Vorhandene Mauspositionsdaten werden wiederverwendet. Keine neuen Netzwerkpakete, Physikobjekte oder zusätzlichen Lichtquellen.",
+    "Die Zeiger bleiben über nahegelegenen Dächern. Dachhöhen werden über den vorhandenen räumlichen Gebäudeindex zwischengespeichert. In einer Prüfung mit 10.000 Grundstücken wurden für fünf Zeiger nur 405 nahe Kandidaten betrachtet; ruhende Zeiger prüften sie nicht erneut.",
+    "Einstellungen > Grafik > Große Koop-Mauszeiger: Die großen Pfeile lassen sich lokal ausschalten. Die normalen Bodenzeiger bleiben sichtbar. Niedrige Grafik und große Entfernung nutzen einen einfachen Schatten; Materialien werden hinter dem Ladebildschirm vorbereitet.",
+    "Mauspositionen am Rand der neuen großen Karten werden jetzt ebenfalls akzeptiert. Im Haus, in Minigames, auf Fotos und nach dem Verlassen des Koop verschwinden die Zeiger sauber.",
+    "Geprüft mit drei lokalen Spielprozessen, gleichzeitigen Straßenänderungen und laufendem Verkehr sowie über eine isolierte Kopie des Online-Vermittlers. Spielstände und Online-Server bleiben kompatibel; alle Spieler sollten für die neue Darstellung aktualisieren."
   ],
   "installerSize": 2323968
 }
