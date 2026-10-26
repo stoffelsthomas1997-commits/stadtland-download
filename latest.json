@@ -1,18 +1,16 @@
 {
-  "notes": [
-    "Neue spielbare Sim-Jobs unter Mein Leben > Jobs: Taxi fahren, Pakete ausliefern, Stadtbus fahren und Abschleppdienst. Der Arbeitgeber stellt ein geliehenes Dienstfahrzeug; ein eigenes Haus oder Auto ist dafür nicht nötig. Die normale Stadt und der Städtebau laufen weiter.",
-    "Taxi: Fahrgast an einer vorhandenen Adresse abholen und an einer anderen Adresse absetzen. Paketdienst: am Depot laden, mit dem Transporter zu Wohnhäusern fahren und zu Fuß bis zur Tür liefern. Nach jeder Lieferung ein neues Paket am Transporter holen. Stadtbus: vorhandene Haltestellen oder die erste gebaute Buslinie abfahren. Abschleppdienst: Pannenwagen aufnehmen und zum Industriebetrieb oder Autohändler bringen.",
-    "F am goldenen Ziel gedrückt halten und stehen bleiben, um Fahrgäste, Pakete oder den Pannenwagen zu übernehmen. E steigt aus dem Dienstfahrzeug aus; in seiner Nähe steigt E wieder ein oder nimmt das nächste Paket. C wechselt die vorhandene Cockpit-/Außenkamera. Esc öffnet das Jobs-Menü mit Pause und Abbruch. Zum Städtebau wechseln pausiert die Schicht.",
-    "Kompakte Zielkarte mit Entfernung, Fortschritt, Lohn und Ladung. Begrenzte Fahrgastdarstellung beim Ein-/Aussteigen, sichtbares Paket zu Fuß und transportierter Pannenwagen. Die vorhandenen Fahrzeugmodelle, Cockpits, Fahrphysik und Motorgeräusche werden wiederverwendet.",
-    "Erledigte Schichten zahlen persönliches Geld; Stadt-Credits und Pokalpunkte bleiben getrennt. Lohn berücksichtigt Strecke und Aufgaben, amtierende Bürgermeister erhalten 25 Prozent Bonus. Arbeitserfolg und insgesamt verdienter Lohn werden gespeichert. Die Auszahlung erfolgt einmalig am letzten Ziel; Abbruch, zu große Entfernung und Fahren während der Zielaktion zahlen nicht.",
-    "Koop: Der Host legt Ziele fest, prüft Aktionen und zahlt den Lohn. Die vorhandene Spielerauto-Synchronisation zeigt gefahrene Dienstfahrzeuge. Ein anderer Spieler kann währenddessen bauen. Bei Verbindungsabbruch, Laden oder Wechsel in ein Minispiel wird die Schicht pausiert; gespeicherte Aufträge lassen sich fortsetzen.",
-    "Sparsame Zusatzlogik: nur aktive Spieleraufträge, fünf Hostprüfungen pro Sekunde und kleine Fortschrittsnachrichten bei Änderungen. Keine neue Wegsuche für die gesamte Bevölkerung und keine zusätzliche Fahrzeugphysik für wartende Fahrgäste oder den abgeschleppten Wagen. Beendete Jobobjekte werden entfernt; ohne aktive Aufträge ruht die Jobdarstellung.",
-    "Geprüft: alle vier Jobs in der echten Spielszene, Fußlieferungen, Kameras, Esc, Pause/Fortsetzen, Speichern, einmaliger Lohn und Aufräumen. Drei getrennte lokale Koop-Prozesse erledigten zwei Schichten bei gleichzeitigem Straßenbau mit übereinstimmenden Guthaben. Online-Vermittlung lokal mit Paketdienst, Abbruch und Wiederbeitritt geprüft. Die zusätzliche Jobprüfung benötigte in einer isolierten Probe mit 8.192 Grundstücken und sechs Aufträgen rund 0,04 ms pro Durchlauf; dies ist keine allgemeine FPS-Zusage.",
-    "Monatswechsel mit 34.508 Einwohnern: parallel verdientes Jobgeld und Statistik bleiben erhalten. Bisherige Straßen-, Wetter- und Solo-Geldprüfungen bestehen weiterhin. Alle Mitspieler auf 0.143 aktualisieren: Direktprotokoll 41, Online-Vermittler unverändert."
-  ],
-  "downloadSize": 129059482,
-  "platform": "Windows 10 / 11, 64 Bit",
-  "version": "0.143.20261026",
+  "downloadSize": 129082360,
   "installerSize": 2323968,
-  "title": "Civic Hijack · Dein Arbeitstag in der Stadt"
+  "version": "0.144.20261026",
+  "platform": "Windows 10 / 11, 64 Bit",
+  "title": "Civic Hijack · Dein neues Charakterstudio",
+  "notes": [
+    "Neue Spielerfigur im kantigen Civic-Hijack-Stil: klareres Gesicht mit Augen, Brauen, Nase und Lächeln, geformte Hände und Schuhe sowie sechs überarbeitete Outfits mit Kragen, Revers, Taschen, Nähten und Accessoires.",
+    "Haare, Bärte und Kopfbedeckungen verwenden eine gemeinsame Kopfform und passen sich den fünf Gesichtsformen an. Unter Hüten wird die Frisur gekürzt; lange Haare und Dutt bleiben erhalten. Die bisherigen gespeicherten Auswahlwerte und Farben werden übernommen.",
+    "Charakterstudio im Hauptmenü: sechs abgestimmte Looks, Farbpaletten plus freie Farbauswahl und getrennte Bereiche für Look, Gesicht sowie Haare und Hüte. Vorschau ziehen oder Pfeile drücken zum Drehen; Gesicht/Ganzkörper per Knopf oder Mausrad. Zurücksetzen stellt den zuletzt gespeicherten Look wieder her. Änderungen werden erst beim Speichern übernommen.",
+    "Die neue Figur erscheint beim Erkunden zu Fuß, bei anderen Koop-Spielern, im eigenen Haus, als eigener Charakter beim Date, bei der Bürgermeisterwahl und als Spieler im Alien-Event. Stadt-NPCs, Date-Partner und Angehörige behalten ihre bisherigen Modelle.",
+    "Performance: nur 26 gemeinsam verwendete Modellteile für alle Kombinationen, ein Material je Spieler, keine eigene Figur-Physiksimulation. Die Studio-Vorschau zeichnet nur bei Änderungen. Im isolierten Vergleich mit sechs nahen Spielern wurden 26 statt 31 Zeichenaufrufe gemessen; daraus folgt keine allgemeine Stadt-FPS-Zusage.",
+    "Geprüft: 5.400 Kombinationen mit gültigen Geometriedaten, Speichern und erneutes Laden, Fehler beim Speichern, kleine Bildschirmauflösung, Stillstand der Vorschau und Entfernen getrennt verbundener Spieler. Die exportierte Windows-Version startet ohne Konsole und ohne Fehler im Test.",
+    "Drei getrennte lokale Koop-Instanzen zeigen identische individuelle Charakterdaten und Modelle, während zwei Spieler arbeiten und ein dritter Straßen baut. Alle vier Sim-Jobs einschließlich Fußlieferung, Kameras, Esc und Entlohnung bestehen ihre Spielszene-Prüfung. Erscheinungsdaten und Netzwerkprotokoll bleiben kompatibel; für dieselbe neue Darstellung alle auf 0.144 aktualisieren."
+  ]
 }
