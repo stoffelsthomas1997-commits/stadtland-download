@@ -1,17 +1,14 @@
 {
-  "title": "Civic Hijack · Civic Air: Dein Flugplatz",
+  "title": "Civic Hijack · Koop-Mauszeiger passend zur Ansicht",
   "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 128942245,
-  "installerSize": 2323968,
-  "version": "0.140.20261026",
+  "downloadSize": 128939231,
   "notes": [
-    "Neuer baubarer Flugplatz unter Verkehr: Drei Hangars, Vorfeld, Tower, markierte Startbahn, Windsack und Beleuchtung. Das 204 × 70 Meter große Grundstück wird am Straßenrand platziert und passt sich mit den vorhandenen Gelände- und Bausystemen in flache und hügelige Karten ein. Preis: 12.000 Stadt-Credits, Wartung: 24 pro Monat außerhalb des Baumodus.",
-    "Flugplatz anklicken und eigene Flugzeuge kaufen: Lerche 140, Wirbelwind S und Falke J2. Drei verschiedene Flugcharaktere und sechs Lackierungen. Kauf aus dem persönlichen Guthaben, bis zu sechs eigene Flugzeuge; ein Haus ist nicht erforderlich. Verkäufe erstatten 60 % des tatsächlichen Kaufpreises. Die bestehende Kreativ-Option für kostenlose Fahrzeuge gilt auch für Flugzeuge.",
-    "Frei über deine Stadt fliegen: W/S Schub, Pfeil hoch/runter steigen und sinken, A/D Kurven, Q/E Seitenruder. Abheben ab dem angezeigten Starttempo, am Boden mit Leertaste bremsen. C wechselt zwischen Cockpit mit bewegten Instrumenten und Verfolgerkamera; G bedient das Fahrwerk. Rechte Maus zum Umsehen, H für Hilfe, R für die Startbahn und Esc zum sicheren Beenden.",
-    "Eigene geformte Flugzeugmodelle, bewegte Propeller mit dezenter Unschärfe, Fahrwerk und Navigationslichter. Motor- und Windklang reagieren auf den Flug. Gelände und Gebäude werden geprüft; harte Landungen führen zu einem kleinen lokalen Effekt und einer sicheren Rückkehr auf die Startbahn. Die Stadt nimmt dabei keinen Schaden.",
-    "Koop-Spieler sehen die Flugzeuge der anderen. Die Stadt und bauende Freunde laufen weiter. Flugbewegungen nutzen einen eigenen kleinen Kanal; Käufe bestätigt ausschließlich der Host. Besitz, Lackierungen und Guthaben bleiben beim Speichern und Wiederbeitritt erhalten. Beim Laden und bei Abbrüchen gehen aktive Flugzeuge sicher in den Hangar zurück.",
-    "Performance: Keine zusätzliche globale Verkehrsphysik und keine Hintergrund-Flugsimulation leerer Flugplätze. Geteilte Modelle, maximal fünf geglättete entfernte Flugzeuge und Gebäudeprüfungen über den vorhandenen räumlichen Index. Materialien werden hinter dem Ladebildschirm vorbereitet. Der neue Flugkanal schläft ohne aktive Piloten.",
-    "Geprüft: Start, Cockpit, Fahrwerk, Kollision, automatische Wiederherstellung und wiederholtes Ein-/Aussteigen; alte und neue Spielstände sowie Kauf- und Wiederholschutz. Drei lokale Spielprozesse flogen mit sichtbaren Gegenübern während acht Straßenänderungen. Kauf, Flugzustände, Abbruch und Wiederbeitritt wurden zusätzlich über einen isolierten Online-Testvermittler geprüft.",
-    "Alle Koop-Spieler bitte auf 0.140 aktualisieren: direktes Spielprotokoll 39. Der bestehende Online-Vermittler bleibt unverändert. Diese Version ergänzt private steuerbare Flugzeuge; automatischer Linienflug- und Flugpassagierbetrieb ist nicht enthalten."
-  ]
+    "Koop-Mauszeiger korrigiert: Im Baumodus und beim Platzieren von Fahrzeugen oder Grundstücken werden nur die normalen kleinen Mauszeiger mit Spielernamen angezeigt. Die großen schwebenden Zeiger bleiben dabei ausgeblendet.",
+    "Zu Fuß, beim Fahren und Fliegen sieht man ausschließlich die großen schwebenden Mauszeiger. Die zusätzlichen kleinen Pfeile und Namensschilder sind in diesen Ansichten vollständig ausgeblendet. Der Wechsel zwischen Bauen und Erkunden erfolgt automatisch.",
+    "Weniger unnötige Arbeit: In der Straßenansicht entfallen Bildschirmprojektion und Namensdarstellung der kleinen Zeiger. Im Baumodus werden die großen Zeiger und ihre Dachhöhen nicht aktualisiert. Ohne Mitspieler-Zeiger bleibt die Anzeige inaktiv.",
+    "Die bestehende Grafikoption für große Zeiger bleibt erhalten. Ist sie ausgeschaltet, erscheinen beim Erkunden auch keine kleinen Ersatzzeiger. Menüs, Innenräume und separate Minispiele blenden die Stadtzeiger weiter aus.",
+    "Auf einer Hügelkarte mit tatsächlicher Bau-, Cockpit-, Außen- und Fußgängeransicht sowie wiederholten Wechseln geprüft. Kein zusätzliches Netzwerkfeld und kein Serverupdate; direktes Koop-Protokoll bleibt 39."
+  ],
+  "version": "0.141.20261026",
+  "installerSize": 2323968
 }
