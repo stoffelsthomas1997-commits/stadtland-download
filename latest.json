@@ -1,12 +1,13 @@
 {
-  "title": "Civic Hijack · Neue Charaktere beim Date und zu Hause",
   "installerSize": 2323968,
-  "downloadSize": 129114426,
+  "downloadSize": 129128432,
+  "title": "Civic Hijack · Mehr Leben im eigenen Haus",
   "platform": "Windows 10 / 11, 64 Bit",
-  "version": "0.150.20261027",
+  "version": "0.152.20261027",
   "notes": [
-    "Die Figuren bei Bar- und Park-Dates nutzen jetzt dieselben neuen Charaktermodelle wie die Spielfigur.",
-    "Auch Ehepartner im Haus werden mit dem neuen Modell angezeigt. Gespeicherte Haar-, Bart-, Hut-, Kleidungs- und Hautfarben bleiben erhalten.",
-    "Die Date- und Hausdarstellung wurde im laufenden Godot-Spiel getestet; bestehende Spielstände und das Koop-Protokoll bleiben kompatibel."
+    "Ehepartner bewegen sich im geöffneten Haus zwischen Herd, Esstisch und Sofa. Sie kochen, essen und schauen fern, wenn die passenden Möbel vorhanden sind.",
+    "Auf dem Fernseher läuft ein kurzer Spielclip. Die Videowiedergabe startet nur beim Zuschauen und stoppt beim Verlassen, Schlafen oder Einrichten des Hauses.",
+    "Neue Häuser enthalten jetzt auch Esstisch, Stuhl und Fernseher. In bestehenden Spielständen lassen sich diese Möbel wie bisher kaufen und platzieren.",
+    "Die Aktivität läuft ausschließlich im geöffneten Haus. Stadt, Spielstände und Koop-Protokoll bleiben kompatibel; zusätzlich enthalten sind die menschlichen Charakterverbesserungen aus der lokalen Vorversion 0.151."
   ]
 }
