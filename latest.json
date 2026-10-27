@@ -1,18 +1,14 @@
 {
+  "downloadSize": 129116253,
+  "title": "Civic Hijack · Fahrzeugoptik & Verkehrsleistung",
+  "installerSize": 2323968,
+  "version": "0.148.20261027",
   "platform": "Windows 10 / 11, 64 Bit",
   "notes": [
-    "E an der sichtbaren Haustür: das eigene Zuhause betreten oder beim Mitspieler klingeln. Türen haben Vorrang vor einem daneben geparkten Auto. Ein kleiner Hinweis zeigt die passende Aktion in Türnähe.",
-    "Hausbesuche im Koop: Der Besitzer erhält eine Klingelkarte und kann per Klick oder J hereinlassen; N lehnt ab. Gäste direkt vor der Tür treten nach der Zusage ein. Wer inzwischen weggegangen ist, kehrt zurück und drückt E. Unter Mein Leben > Kontakte sind offene Klingelanfragen erreichbar.",
-    "Gemeinsam im Haus: zugelassene Besucher und Besitzer sehen sich im selben Innenraum. Änderungen an der Einrichtung erscheinen auch beim Gast. Gäste dürfen sich umsehen und gehen, können aber keine Möbel kaufen, verschieben oder verkaufen und keine Familienaktionen des Besitzers verwenden.",
-    "Besuche bleiben vorübergehend: Anfragen verfallen, und beim Verlassen, Hausverkauf oder Abmelden des Besitzers wird der Zugang beendet. Gäste kehren nach draußen zurück. Private Einrichtung wird ausschließlich an zugelassene Teilnehmer gesendet; Raumpositionen überschreiben nicht die gespeicherte Außenposition.",
-    "Mein Leben aufgeräumt: feste Bereiche Übersicht, Unterwegs, Zuhause, Bank und Kontakte. Die Übersicht zeigt vier klare Einstiegskarten. Fahrzeuge, Jobs und Flugplatz sind unter Unterwegs; Haus, Garten und Einrichtung unter Zuhause. Der Fahrzeugkauf ist zusätzlich nach Fahrzeuggruppen sortiert. Laufende Bankeingaben bleiben erhalten.",
-    "Schneller unterwegs: normales Gehen auf 3,8 m/s draußen und 3,2 m/s drinnen erhöht. Mit Shift sind draußen 7,5 m/s und drinnen 6 m/s möglich. Vorhandene Hindernisprüfung bleibt aktiv.",
-    "Kirmes-NPC-Gegner erleichtert: weniger aggressive Autoscooter-Bots, spätere Reaktionen, weniger häufige und ungenauere Schüsse beim Schießstand und Karussell. Neue Lobbys starten auf Leicht; Leicht, Normal und Schwer bleiben auswählbar. Alien-Wellen sind in diesem Patch unverändert.",
-    "Performance: Hausbesuche verwenden den bestehenden Bewegungsversand und vorhandene Spielerfiguren. Es entsteht keine zusätzliche Stadt-NPC-Simulation. Die Hausliste wird bei Änderungen aktualisiert und der Türhinweis nur fünfmal pro Sekunde geprüft. Die Versandbegrenzung aus 0.146 bleibt erhalten.",
-    "Geprüft mit getrennten lokalen Direkt-Koop-Instanzen und dem unveränderten Online-Relay: Klingeln, Zustimmung, gemeinsame Raumansicht und gleichzeitiger Straßenbau. Zusätzlich Berechtigungen, Ablauf und Abmeldung, echte Menüs und Haustür-Eingaben, alte Spielstände, Jobs, Überweisungen und Fahrbelastung mit drei Gästen geprüft. Alle Mitspieler auf 0.147 aktualisieren (Direktprotokoll 43; Online-Vermittlung weiterhin Protokoll 2)."
-  ],
-  "installerSize": 2323968,
-  "downloadSize": 129118163,
-  "title": "Civic Hijack · Hausbesuche & Mein Leben",
-  "version": "0.147.20261027"
+    "Fahrzeuge behalten nach einem Zusammenstoß ihr ursprüngliches Modell, ihre Lackierung und ihre Details. Die 23 vorhandenen Fahrzeugtypen verwenden dafür dieselben zwischengespeicherten 3D-Modelle wie im normalen Verkehr.",
+    "In Kameranähe werden sichtbare Fahrzeuge nach Entfernung priorisiert. Bis ihr Detailmodell bereitsteht, bleiben sie in der sparsamen Ferndarstellung sichtbar.",
+    "Bei Minispielen ohne aktive Stadtansicht entfällt die unnötige wiederholte Positionsberechnung nur für die Detailauswahl. Fahrten, Ankünfte, Bevölkerung und Stadtwirtschaft laufen weiter. In einer Messung mit 8000 Reisenden sank die Zeit dieses Auswahl-Durchlaufs von rund 91 auf 9 Millisekunden; das ist kein Versprechen für die gesamte Bildrate.",
+    "Die herausgezoomte Stadt aktualisiert Fahrzeugpositionen weiterhin für die Sichtbarkeit. Neu installierte Straßensperren übernehmen die tatsächlichen Fahrzeugpositionen auf betroffenen Straßen, statt Autos zurückzusetzen.",
+    "Geprüft wurden Fahrzeugmodelle und Farben, sichtbarer Nahverkehr, Straßensperren, eine große Teststadt mit Autoscooter, alte Spielstände, Bank, Jobs, Hausbesuche und Koop mit drei Spielern samt gleichzeitigem Straßenbau. Direktprotokoll 43 und Online-Vermittlung 2 bleiben unverändert. Alle Mitspieler sollten auf 0.148 aktualisieren."
+  ]
 }
