@@ -1,14 +1,12 @@
 {
-  "downloadSize": 129116253,
-  "title": "Civic Hijack · Fahrzeugoptik & Verkehrsleistung",
+  "title": "Civic Hijack · Rathaus-Bauszene am Boden",
+  "version": "0.149.20261027",
   "installerSize": 2323968,
-  "version": "0.148.20261027",
-  "platform": "Windows 10 / 11, 64 Bit",
   "notes": [
-    "Fahrzeuge behalten nach einem Zusammenstoß ihr ursprüngliches Modell, ihre Lackierung und ihre Details. Die 23 vorhandenen Fahrzeugtypen verwenden dafür dieselben zwischengespeicherten 3D-Modelle wie im normalen Verkehr.",
-    "In Kameranähe werden sichtbare Fahrzeuge nach Entfernung priorisiert. Bis ihr Detailmodell bereitsteht, bleiben sie in der sparsamen Ferndarstellung sichtbar.",
-    "Bei Minispielen ohne aktive Stadtansicht entfällt die unnötige wiederholte Positionsberechnung nur für die Detailauswahl. Fahrten, Ankünfte, Bevölkerung und Stadtwirtschaft laufen weiter. In einer Messung mit 8000 Reisenden sank die Zeit dieses Auswahl-Durchlaufs von rund 91 auf 9 Millisekunden; das ist kein Versprechen für die gesamte Bildrate.",
-    "Die herausgezoomte Stadt aktualisiert Fahrzeugpositionen weiterhin für die Sichtbarkeit. Neu installierte Straßensperren übernehmen die tatsächlichen Fahrzeugpositionen auf betroffenen Straßen, statt Autos zurückzusetzen.",
-    "Geprüft wurden Fahrzeugmodelle und Farben, sichtbarer Nahverkehr, Straßensperren, eine große Teststadt mit Autoscooter, alte Spielstände, Bank, Jobs, Hausbesuche und Koop mit drei Spielern samt gleichzeitigem Straßenbau. Direktprotokoll 43 und Online-Vermittlung 2 bleiben unverändert. Alle Mitspieler sollten auf 0.148 aktualisieren."
-  ]
+    "Die Rathaus-Bauszene setzt Bürgermeister und Lego-Bauarbeiter auf die tatsächliche Bodenhöhe. Auf der Hügelkarte wird die Gelände-Höhe nicht mehr doppelt addiert.",
+    "Das wartende Bauauto und die Filmkamera verwenden dieselbe korrekte Höhenbasis. Die Füße der Figuren stehen jetzt nah am Boden, auch auf der flachen Karte.",
+    "Die fünf Bauphasen und ihre synchronisierten Koop-Schnappschüsse wurden geprüft; das echte 3D-Modell und die gepackte Spielversion wurden nativ getestet. Spielstände und Koop-Protokolle bleiben unverändert."
+  ],
+  "platform": "Windows 10 / 11, 64 Bit",
+  "downloadSize": 129114715
 }
