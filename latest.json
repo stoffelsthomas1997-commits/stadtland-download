@@ -1,13 +1,10 @@
 {
+  "title": "Civic Hijack 0.153.20261027",
+  "downloadSize": 129128340,
   "installerSize": 2323968,
-  "downloadSize": 129128432,
-  "title": "Civic Hijack · Mehr Leben im eigenen Haus",
   "platform": "Windows 10 / 11, 64 Bit",
-  "version": "0.152.20261027",
   "notes": [
-    "Ehepartner bewegen sich im geöffneten Haus zwischen Herd, Esstisch und Sofa. Sie kochen, essen und schauen fern, wenn die passenden Möbel vorhanden sind.",
-    "Auf dem Fernseher läuft ein kurzer Spielclip. Die Videowiedergabe startet nur beim Zuschauen und stoppt beim Verlassen, Schlafen oder Einrichten des Hauses.",
-    "Neue Häuser enthalten jetzt auch Esstisch, Stuhl und Fernseher. In bestehenden Spielständen lassen sich diese Möbel wie bisher kaufen und platzieren.",
-    "Die Aktivität läuft ausschließlich im geöffneten Haus. Stadt, Spielstände und Koop-Protokoll bleiben kompatibel; zusätzlich enthalten sind die menschlichen Charakterverbesserungen aus der lokalen Vorversion 0.151."
-  ]
+    "Verbesserungen und Fehlerbehebungen."
+  ],
+  "version": "0.153.20261027"
 }
