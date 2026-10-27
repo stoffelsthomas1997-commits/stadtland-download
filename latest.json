@@ -1,12 +1,12 @@
 {
-  "title": "Civic Hijack · Rathaus-Bauszene am Boden",
-  "version": "0.149.20261027",
+  "title": "Civic Hijack · Neue Charaktere beim Date und zu Hause",
   "installerSize": 2323968,
-  "notes": [
-    "Die Rathaus-Bauszene setzt Bürgermeister und Lego-Bauarbeiter auf die tatsächliche Bodenhöhe. Auf der Hügelkarte wird die Gelände-Höhe nicht mehr doppelt addiert.",
-    "Das wartende Bauauto und die Filmkamera verwenden dieselbe korrekte Höhenbasis. Die Füße der Figuren stehen jetzt nah am Boden, auch auf der flachen Karte.",
-    "Die fünf Bauphasen und ihre synchronisierten Koop-Schnappschüsse wurden geprüft; das echte 3D-Modell und die gepackte Spielversion wurden nativ getestet. Spielstände und Koop-Protokolle bleiben unverändert."
-  ],
+  "downloadSize": 129114426,
   "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 129114715
+  "version": "0.150.20261027",
+  "notes": [
+    "Die Figuren bei Bar- und Park-Dates nutzen jetzt dieselben neuen Charaktermodelle wie die Spielfigur.",
+    "Auch Ehepartner im Haus werden mit dem neuen Modell angezeigt. Gespeicherte Haar-, Bart-, Hut-, Kleidungs- und Hautfarben bleiben erhalten.",
+    "Die Date- und Hausdarstellung wurde im laufenden Godot-Spiel getestet; bestehende Spielstände und das Koop-Protokoll bleiben kompatibel."
+  ]
 }
