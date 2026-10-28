@@ -1,10 +1,13 @@
 {
-  "title": "Civic Hijack 0.153.20261027",
-  "downloadSize": 129128340,
+  "notes": [
+    "Acht neue Wohnhäuser und acht neue Hochhäuser belegen zwei benachbarte Grundstücke. Verschiedene Baukörper, Terrassen, Höfe und Gartenaufteilungen sorgen für mehr Abwechslung.",
+    "Vorgärten, Rückgärten, Garagen und seitliche Wege mit Zäunen sind passend zur Grundstücksbreite gestaltet. Zufahrten und Eingänge folgen derselben Planung wie der Verkehr.",
+    "Die automatische Modellauswahl versucht gelegentlich ein Doppelgrundstück und verwendet bei Platzmangel ein schmales Modell. Breite Gebäude lassen sich auch gezielt auswählen.",
+    "Doppelte Grundstücke bieten die doppelte Kapazität und kosten entsprechend mehr. Gemeinsame vorbereitete Modelle und native Detailstufen halten die Darstellung effizient. Bestehende Häuser behalten ihre Maße."
+  ],
   "installerSize": 2323968,
   "platform": "Windows 10 / 11, 64 Bit",
-  "notes": [
-    "Verbesserungen und Fehlerbehebungen."
-  ],
-  "version": "0.153.20261027"
+  "version": "0.155.20261028",
+  "title": "Civic Hijack · Breite Häuser & Gartengrundstücke",
+  "downloadSize": 140671242
 }
