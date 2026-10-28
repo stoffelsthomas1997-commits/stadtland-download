@@ -1,13 +1,16 @@
 {
+  "title": "Civic Hijack · Café, Raumgestaltung & ruhiger Banküberfall",
+  "platform": "Windows 10 / 11, 64 Bit",
   "notes": [
-    "Passanten weichen vorausschauend aus, behalten beim Vorbeilaufen ihre gewählte Seite und überholen bei freiem Platz. Bei Gegenverkehr bleiben Gruppen ruhiger hintereinander.",
-    "Sanftere Richtungswechsel und eine zum Tempo passende Schrittbewegung lassen die Einwohner natürlicher wirken. Ausweichschritte werden mit dem laufenden Verkehr gespeichert.",
-    "Parks erhalten schönere gepflasterte Eingänge mit Bänken, Beeten und saisonalen Bäumen. Unterschiedliche Spazierwege bringen Abwechslung mit den vorhandenen Einwohnern.",
-    "Die Ausweichplanung verwendet die vorhandene lokale Nachbarsuche. 39 vorbereitete gemeinsame Parkmodelle mit nativen Detailstufen vermeiden neuen Geometrieaufbau beim Platzieren."
+    "Café & Beruf ist jetzt enthalten: Bestellungen aufnehmen, Espresso und Cappuccino zubereiten, Kuchen servieren, abräumen und Geld verdienen. Eigenes Café bauen, einrichten, erweitern und Personal einstellen oder mit Freunden arbeiten.",
+    "Der Transporter und die verfolgenden Polizeiautos beim Banküberfall bremsen mit korrektem Tempo und stehen vor der Straßensperre ruhig. Die bisherige ruckelnde Vorhersage im Stillstand wurde behoben.",
+    "Automatische Banküberfälle frühestens nach 30 Minuten; nach einem Überfall folgen 45 bis 60 Minuten Pause. Der Timer wird mit der Stadt gespeichert und bleibt beim Laden sowie bei Pause erhalten. Manuelles Starten durch den Host bleibt möglich.",
+    "Im Spielerhaus lassen sich unter Einrichten > Raumstil Tapeten und Böden für jeden Raum einzeln auswählen. Je acht Stile, auch im Obergeschoss. Die Gestaltung bleibt beim Hausausbau erhalten und ist für eingelassene Freunde sichtbar.",
+    "Drei neue Deckenleuchten: LED-Leuchte, Pendelleuchte und Dreier-Spotschiene. Sie lassen sich über vorhandenen Möbeln platzieren und blockieren die Bewohner darunter nicht.",
+    "Gemeinsame Raumgeometrie und Materialien sowie sparsam leuchtende Lampen ohne zusätzliche Schattenlichter schonen die Performance. Raumgestaltung löst keinen Neuaufbau der Stadt aus.",
+    "Die Haustreppe steht weiter von der Wand entfernt und hat einen größeren unteren Absatz. Treppe, Laufweg und Deckenausschnitt passen zusammen; die Kamera bleibt beim Aufstieg im freien Schacht. Möbel, die in alten Häusern den neuen Laufweg blockieren, bleiben sicher im Lager."
   ],
-  "version": "0.156.20261028",
-  "downloadSize": 145751167,
-  "title": "Civic Hijack · Natürlichere Bewegung & lebendige Parks",
-  "installerSize": 2323968,
-  "platform": "Windows 10 / 11, 64 Bit"
+  "version": "0.158.20261029",
+  "downloadSize": 150755307,
+  "installerSize": 2323968
 }
