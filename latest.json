@@ -1,13 +1,13 @@
 {
   "notes": [
-    "Acht neue Wohnhäuser und acht neue Hochhäuser belegen zwei benachbarte Grundstücke. Verschiedene Baukörper, Terrassen, Höfe und Gartenaufteilungen sorgen für mehr Abwechslung.",
-    "Vorgärten, Rückgärten, Garagen und seitliche Wege mit Zäunen sind passend zur Grundstücksbreite gestaltet. Zufahrten und Eingänge folgen derselben Planung wie der Verkehr.",
-    "Die automatische Modellauswahl versucht gelegentlich ein Doppelgrundstück und verwendet bei Platzmangel ein schmales Modell. Breite Gebäude lassen sich auch gezielt auswählen.",
-    "Doppelte Grundstücke bieten die doppelte Kapazität und kosten entsprechend mehr. Gemeinsame vorbereitete Modelle und native Detailstufen halten die Darstellung effizient. Bestehende Häuser behalten ihre Maße."
+    "Passanten weichen vorausschauend aus, behalten beim Vorbeilaufen ihre gewählte Seite und überholen bei freiem Platz. Bei Gegenverkehr bleiben Gruppen ruhiger hintereinander.",
+    "Sanftere Richtungswechsel und eine zum Tempo passende Schrittbewegung lassen die Einwohner natürlicher wirken. Ausweichschritte werden mit dem laufenden Verkehr gespeichert.",
+    "Parks erhalten schönere gepflasterte Eingänge mit Bänken, Beeten und saisonalen Bäumen. Unterschiedliche Spazierwege bringen Abwechslung mit den vorhandenen Einwohnern.",
+    "Die Ausweichplanung verwendet die vorhandene lokale Nachbarsuche. 39 vorbereitete gemeinsame Parkmodelle mit nativen Detailstufen vermeiden neuen Geometrieaufbau beim Platzieren."
   ],
+  "version": "0.156.20261028",
+  "downloadSize": 145751167,
+  "title": "Civic Hijack · Natürlichere Bewegung & lebendige Parks",
   "installerSize": 2323968,
-  "platform": "Windows 10 / 11, 64 Bit",
-  "version": "0.155.20261028",
-  "title": "Civic Hijack · Breite Häuser & Gartengrundstücke",
-  "downloadSize": 140671242
+  "platform": "Windows 10 / 11, 64 Bit"
 }
