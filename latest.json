@@ -1,14 +1,14 @@
 {
-  "downloadSize": 154217669,
   "notes": [
-    "Freizeitbesucher aus demselben Haus verteilen sich auf bis zu vier nahe Geschäfte, statt gemeinsam nur ein Geschäft anzusteuern. Im gezielten Test verteilen sich 120 Bewohner auf 31, 31, 30 und 28 Besucher.",
-    "Die Auswahl bleibt pro Bewohner stabil. Arbeitsplätze, Schulen, Parks und unveränderte laufende Wege bleiben erhalten. Entfernte Geschäfte werden nicht allein für mehr Abwechslung bevorzugt.",
-    "Die räumliche Suche erfolgt einmal pro Haushalt beim Neuaufbau der Besucherzuordnung. Keine neue Arbeit pro Bild, keine zusätzlichen Netzwerkpakete und keine neuen Speicherfelder.",
-    "Der Baustellen- und Monatswechsel-Hotfix 0.171 sowie Möbelhaus und Tutorial bleiben enthalten.",
-    "Gezielte Besucher- und Geometrietests sowie die Funktionsregressionen bestanden. Drei bestehende absolute Zeitbudgets für Grundstücke und Haltestellen werden auf diesem Rechner weiterhin überschritten; dieselben Überschreitungen zeigt der alte Build. Keine pauschale FPS-Zusage."
+    "Wiederholte Grundstücksformen werden beim Aufbau der Bauprüfung effizienter berechnet. Native Transformationen und lokal gebündelte Katalogentscheidungen sparen viele kleine Skriptaufrufe.",
+    "Im gepaarten Test des exportierten Builds mit 28.000 Grundstücken sank die mittlere Aufbauzeit von rund246auf191Millisekunden, etwa22Prozent. Grundstücksgrenzen, Reihenfolge und Suchraster stimmen exakt mit der vorherigen Version überein. Dies ist ein gezielter Aufbauvergleich und keine allgemeine FPS-Zusage.",
+    "Private Grundstücke, breite Gebäude und ältere Sonderwerte bleiben berücksichtigt. Die Grafik und die bestehenden Speicher- und Koop-Formate bleiben erhalten.",
+    "Die Ladenverteilung172 sowie der Baustellen- und Monatswechsel-Fix171 sind enthalten. Weitere verbleibende Zeitspitzen beim Bearbeiten großer Städte werden getrennt weiter untersucht.",
+    "62 von63 Prüfprogrammen bestanden, einschließlich exakter Baugeometrie, Speichern, Möbelhaus, Familien und laufender Fahrten. Lokaler Drei-Spieler-Koop mit gleichzeitigem Straßenbau und Windowsstart geprüft. Das bereits bekannte Zeitbudget für Einzeländerungen bei28.000Grundstücken bleibt offen."
   ],
-  "version": "0.172.20261029",
-  "platform": "Windows 10 / 11, 64 Bit",
+  "downloadSize": 154218515,
   "installerSize": 2323968,
-  "title": "Civic Hijack · Bewohner entdecken mehr Geschäfte"
+  "title": "Civic Hijack · Schnellere Grundstücksprüfung",
+  "version": "0.173.20261029",
+  "platform": "Windows 10 / 11, 64 Bit"
 }
