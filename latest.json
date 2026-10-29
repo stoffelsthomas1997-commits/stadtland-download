@@ -1,10 +1,14 @@
 {
-  "version": "0.171.20261029",
+  "downloadSize": 154217669,
+  "notes": [
+    "Freizeitbesucher aus demselben Haus verteilen sich auf bis zu vier nahe Geschäfte, statt gemeinsam nur ein Geschäft anzusteuern. Im gezielten Test verteilen sich 120 Bewohner auf 31, 31, 30 und 28 Besucher.",
+    "Die Auswahl bleibt pro Bewohner stabil. Arbeitsplätze, Schulen, Parks und unveränderte laufende Wege bleiben erhalten. Entfernte Geschäfte werden nicht allein für mehr Abwechslung bevorzugt.",
+    "Die räumliche Suche erfolgt einmal pro Haushalt beim Neuaufbau der Besucherzuordnung. Keine neue Arbeit pro Bild, keine zusätzlichen Netzwerkpakete und keine neuen Speicherfelder.",
+    "Der Baustellen- und Monatswechsel-Hotfix 0.171 sowie Möbelhaus und Tutorial bleiben enthalten.",
+    "Gezielte Besucher- und Geometrietests sowie die Funktionsregressionen bestanden. Drei bestehende absolute Zeitbudgets für Grundstücke und Haltestellen werden auf diesem Rechner weiterhin überschritten; dieselben Überschreitungen zeigt der alte Build. Keine pauschale FPS-Zusage."
+  ],
+  "version": "0.172.20261029",
   "platform": "Windows 10 / 11, 64 Bit",
   "installerSize": 2323968,
-  "title": "Civic Hijack 0.171.20261029",
-  "notes": [
-    "Verbesserungen und Fehlerbehebungen."
-  ],
-  "downloadSize": 154214149
+  "title": "Civic Hijack · Bewohner entdecken mehr Geschäfte"
 }
