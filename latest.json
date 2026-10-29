@@ -1,14 +1,13 @@
 {
-  "notes": [
-    "Identische Gebäudegrundformen werden beim ersten Grundstücksindex nicht mehr tausendfach über alle Kataloge neu berechnet. Ein kleiner begrenzter Formcache leitet die Maße weiterhin aus der bisherigen exakten Geometriefunktion ab.",
-    "Im lokalen Vergleich mit28.000Gebäuden sank der mittlere kalte Indexaufbau von rund248ms auf167ms. Damit ist auch der einmalige Mehrbedarf des vorherigen Wiederverwendungscaches ausgeglichen.",
-    "Bau- und Abrissprüfungen bleiben im Vergleich bei etwa88ms für die geprüfte große Stadt; schnelle unveränderte Abfragen bleiben erhalten. Weitere lineare Arbeit ist vorhanden – keine allgemeine Ruckelfrei-Garantie.",
-    "Maximal64lokaleFormen, bei vollem Cache oder unerwartetem Schlüsselkonflikt sicherer Original-Fallback. Positionen, Winkel, private Hausstufen, breite Gebäude und besondere Einrichtungen behalten dieselben Grundstücksgrenzen.",
-    "Alle Haltestellen-, Beleuchtungs-, Verkehrs-, Haus-, Café- und Gebäudeupdates sind enthalten. Keine geänderten Speicher- oder Netzwerkformate."
-  ],
-  "title": "Civic Hijack · Schnellerer erster Grundstücksaufbau",
-  "downloadSize": 154170468,
   "installerSize": 2323968,
-  "version": "0.165.20261029",
-  "platform": "Windows 10 / 11, 64 Bit"
+  "title": "Civic Hijack · Weichere Scheinwerferkegel",
+  "version": "0.166.20261029",
+  "platform": "Windows 10 / 11, 64 Bit",
+  "downloadSize": 154170107,
+  "notes": [
+    "Die vorhandenen Bodenprojektionen der nahen Autos werden gerichteter und kegelförmiger: ein wärmerer heller Kern und weichere Ränder statt eines gleich breiten Lichtstreifens.",
+    "Der vorhandene gemeinsame Shader blendet die Projektion zwischen80und140Metern sanft aus. Es kommen keine zusätzlichen Lichtquellen, Modelle, Materialien, Timer oder Netzwerkpakete hinzu.",
+    "Alle23Fahrzeugmodelle behalten dieselbe Objekt- und Materialanzahl. In der niedrigsten Detailstufe bleiben die Bodenprojektionen ausgeschaltet. Nachtaktivierung und Fahrlogik bleiben unverändert.",
+    "Alle bisherigen Performance-, Haltestellen-, Verkehrs-, Gebäude-, Haus- und Caféupdates sind enthalten.43Prüfprogramme einschließlich echtem Grafikprofil sowie Windowsstart bestanden."
+  ]
 }
