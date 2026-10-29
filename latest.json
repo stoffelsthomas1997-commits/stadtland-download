@@ -1,13 +1,12 @@
 {
   "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 154207636,
+  "version": "0.169.20261029",
   "installerSize": 2323968,
-  "title": "Civic Hijack · Möbelhaus, Transporter und neue Möbelkarten",
+  "title": "Civic Hijack · Dein abschaltbarer Stadtbegleiter",
+  "downloadSize": 154215776,
   "notes": [
-    "Neues baubares Möbelhaus Civic Wohnen: mit eigenem oder gemeinsamem Transporter hinfahren, aussteigen und E am Eingang. 42 Möbelarten in einer begehbaren Ausstellung, Farbauswahl, Warenkorb und Kasse. Gekaufte Möbel zu Hause unter Einrichten > Lager platzieren.",
-    "Unter Mein Leben > Unterwegs lassen sich Transporter kaufen oder mieten: 250 € Miete plus 750 € rückzahlbare Kaution. Pro Einkauf passen 16 Möbelstücke in den Wagen. Miete, Kaution und bezahltes Hausinventar bleiben gespeichert.",
-    "Koop-Besucher sehen sich im Laden und bezahlen mit ihrem eigenen Konto. Andere Spieler bauen weiter. Stadt, Kamera und Steuerung kehren nach ESC oder dem Laden eines Spielstands sauber zurück.",
-    "Neue Möbelkarten zeigen kleine echte Modellvorschauen im Warenkorb und Haus-HUD. Ein gemeinsamer Renderer erzeugt sie bei Bedarf und schläft danach; die Ausstellung läuft nur beim Besuch. Alle bisherigen öffentlichen166Updates enthalten. 50 Prüfprogramme, realer Drei-Spieler-Koop und Windowsstart bestanden."
-  ],
-  "version": "0.168.20261029"
+    "Der Bürgermeister vom Launcher führt mit seinem bekannten Porträt durch zehn kurze Schritte: Kamera, Rathaus, Straßen, Versorgung, Wachstum, Missionen und XP, Mein Leben, Möbelhaus sowie Koop und Minispiele.",
+    "Mit X blendest du das Tutorial aus. Unter Einstellungen > Spiel kannst du es wieder einschalten oder neu starten. Dein Fortschritt wird auf deinem Gerät gespeichert und gilt unabhängig von deinen Mitspielern.",
+    "Die kompakte helle Karte bleibt in der Stadtansicht und macht Platz für Menüs, Lobbys und Innenräume. Ausgeschaltet oder abgeschlossen schläft die Verarbeitung; es entstehen keine neuen Netzwerkpakete oder NPC-Berechnungen. Alle Möbelhaus- und bisherigen168-Updates enthalten.52Prüfprogramme, lokaler Drei-Spieler-Koop und Windowsstart bestanden."
+  ]
 }
