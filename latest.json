@@ -1,13 +1,10 @@
 {
-  "downloadSize": 154215854,
-  "version": "0.170.20261029",
+  "version": "0.171.20261029",
+  "platform": "Windows 10 / 11, 64 Bit",
   "installerSize": 2323968,
-  "title": "Civic Hijack · Effizienteres Straßenraster",
+  "title": "Civic Hijack 0.171.20261029",
   "notes": [
-    "Beim Aufbau des Straßenrasters werden nahe Straßenteile und benachbarte Bauzellen pro Zelle nur einmal geprüft. Das spart doppelte Geometriearbeit beim Straßenbau.",
-    "Im gepaarten Messfall mit16Straßen und4320Bauzellen sank die mittlere Rasterzeit von95,8auf80,1Millisekunden, rund16Prozent. Das ist ein gezielter Rastervergleich und keine allgemeine FPS-Zusage.",
-    "Positionen, Reihenfolge, Kurvenabschnitte, Brücken/Tunnel und die bestehende Bauvorschau bleiben im Vergleich identisch. Die von anderen Systemen verwendeten Straßenkandidaten behalten ihr bisheriges Format.",
-    "Möbelhaus, Miettransporter, Tutorial und alle bisherigen169Updates enthalten.55Prüfprogramme, lokaler Drei-Spieler-Koop mit gleichzeitigem Straßenbau und Windowsstart bestanden."
+    "Verbesserungen und Fehlerbehebungen."
   ],
-  "platform": "Windows 10 / 11, 64 Bit"
+  "downloadSize": 154214149
 }
