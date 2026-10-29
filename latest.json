@@ -1,13 +1,13 @@
 {
-  "installerSize": 2323968,
-  "title": "Civic Hijack · Weichere Scheinwerferkegel",
-  "version": "0.166.20261029",
   "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 154170107,
+  "downloadSize": 154207636,
+  "installerSize": 2323968,
+  "title": "Civic Hijack · Möbelhaus, Transporter und neue Möbelkarten",
   "notes": [
-    "Die vorhandenen Bodenprojektionen der nahen Autos werden gerichteter und kegelförmiger: ein wärmerer heller Kern und weichere Ränder statt eines gleich breiten Lichtstreifens.",
-    "Der vorhandene gemeinsame Shader blendet die Projektion zwischen80und140Metern sanft aus. Es kommen keine zusätzlichen Lichtquellen, Modelle, Materialien, Timer oder Netzwerkpakete hinzu.",
-    "Alle23Fahrzeugmodelle behalten dieselbe Objekt- und Materialanzahl. In der niedrigsten Detailstufe bleiben die Bodenprojektionen ausgeschaltet. Nachtaktivierung und Fahrlogik bleiben unverändert.",
-    "Alle bisherigen Performance-, Haltestellen-, Verkehrs-, Gebäude-, Haus- und Caféupdates sind enthalten.43Prüfprogramme einschließlich echtem Grafikprofil sowie Windowsstart bestanden."
-  ]
+    "Neues baubares Möbelhaus Civic Wohnen: mit eigenem oder gemeinsamem Transporter hinfahren, aussteigen und E am Eingang. 42 Möbelarten in einer begehbaren Ausstellung, Farbauswahl, Warenkorb und Kasse. Gekaufte Möbel zu Hause unter Einrichten > Lager platzieren.",
+    "Unter Mein Leben > Unterwegs lassen sich Transporter kaufen oder mieten: 250 € Miete plus 750 € rückzahlbare Kaution. Pro Einkauf passen 16 Möbelstücke in den Wagen. Miete, Kaution und bezahltes Hausinventar bleiben gespeichert.",
+    "Koop-Besucher sehen sich im Laden und bezahlen mit ihrem eigenen Konto. Andere Spieler bauen weiter. Stadt, Kamera und Steuerung kehren nach ESC oder dem Laden eines Spielstands sauber zurück.",
+    "Neue Möbelkarten zeigen kleine echte Modellvorschauen im Warenkorb und Haus-HUD. Ein gemeinsamer Renderer erzeugt sie bei Bedarf und schläft danach; die Ausstellung läuft nur beim Besuch. Alle bisherigen öffentlichen166Updates enthalten. 50 Prüfprogramme, realer Drei-Spieler-Koop und Windowsstart bestanden."
+  ],
+  "version": "0.168.20261029"
 }
