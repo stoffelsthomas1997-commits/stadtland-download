@@ -1,14 +1,13 @@
 {
-  "version": "0.163.20261029",
-  "downloadSize": 154167386,
-  "platform": "Windows 10 / 11, 64 Bit",
   "notes": [
-    "Unveränderte Grundstücksformen und ihre Suchbereiche werden nach Neubau und Abriss wiederverwendet. Die exakten Grenzen und die Zuordnung zum richtigen Gebäude bleiben erhalten.",
-    "Im lokalen Test mit28.000Gebäuden sank dieser Teil der Änderungskosten von rund216ms auf etwa89–97ms. Es bleibt linearer Abgleichsaufwand; dies ist keine Garantie für eine vollständig ruckelfreie Großstadt.",
-    "Der einmalige kalte Indexaufbau benötigt durch die zusätzlichen Wiederverwendungsdaten im Vergleich etwa13–19%mehr Zeit. Weitere Optimierung dieser verbleibenden Kosten ist vorgesehen.",
-    "2386Geometrieprüfungen,35Packed-Prüfprogramme und ein unabhängiger Review bestanden. Zwei echte lokale Koop-Prozesse bauen, reißen ab und laden denselben korrekten Gebäudestand.",
-    "Alle Beleuchtungs-, Verkehrs-, Haus-, Café- und Gebäudeupdates sind enthalten. Keine geänderten Speicher- oder Netzwerkformate und keine vereinfachte Grafik."
+    "Neue Wartehäuschen mit hellem Dach, schlanken Rahmen, Holzbank und kleinem Aushang. H-Schild und Haltestellennummer bleiben sichtbar; Buslinien und Wartepositionen bleiben erhalten.",
+    "Die Häuschen teilen ein instanziertes Modell und ein gemeinsames Nummernobjekt:100Stops ergeben zwei statt acht Grafikobjekte. Der gemessene Neuaufbau von100Stops bleibt ungefähr auf dem vorherigen Niveau (rund231gegen234ms im lokalen Vergleich).",
+    "Niedrige Detailstufen vereinfachen das Modell. Schnee und nächtliche Himmelsreflexion bleiben erhalten; die Scheiben verwenden keinen Wohnraum-Leuchteffekt. Keine zusätzlichen Lichtquellen, NPCs oder Physikobjekte.",
+    "1008Freiraumprüfungen mit24bestehendenWarteplätzen und12Modellvergleiche mit Drehungen und wechselndenGeländehöhen bestanden. Alle bisherigen Performance-, Verkehrs-, Haus- und Caféupdates sind enthalten."
   ],
+  "version": "0.164.20261029",
+  "platform": "Windows 10 / 11, 64 Bit",
   "installerSize": 2323968,
-  "title": "Civic Hijack · Weniger Neuberechnungen beim Bauen und Abreißen"
+  "title": "Civic Hijack · Schönere Bushaltestellen",
+  "downloadSize": 154169848
 }
