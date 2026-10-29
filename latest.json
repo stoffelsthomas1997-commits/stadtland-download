@@ -1,13 +1,14 @@
 {
-  "downloadSize": 154166203,
+  "downloadSize": 154166575,
+  "version": "0.162.20261029",
   "notes": [
-    "Unveränderte Grundstücksabfragen prüfen nicht mehr jedes Mal die komplette Gebäudeliste. Der vorhandene exakte Belegungsindex wird direkt wiederverwendet; Aussehen und Grundstücksgrenzen bleiben gleich.",
-    "Im lokalen Vergleich mit 28.000 Gebäuden sank die vollständige wiederholte Platzierungsprüfung von rund 3,9 ms auf 0,06 ms. Das beschleunigt diesen Teil der Bauprüfung; der erstmalige vollständige Indexaufbau bleibt unverändert.",
-    "Revision, Listenwechsel, Grundstücksanzahl und die bestehende Invalidierung sichern Neubau, Abriss, Hausausbau sowie Save- und Koop-Laden ab. Persönliche Haus- und Cafébefehle invalidieren die Belegung auch vor der nächsten Sitzungsrevision.",
-    "Keine neuen Netzwerk- oder Spielstandsdaten, keine vereinfachten Kollisionsflächen und keine Grafikverluste. Alle Verkehrs-, Hupen-, Gewerbe-, Café- und Hausupdates aus 0.160 sind enthalten."
+    "Straßenlaternen blenden bei Dämmerung sanft ein und werfen weichere warme Lichtflächen auf Straßen und Gehwege. Entfernte Bodenlichter werden auf der Grafikkarte ausgeblendet.",
+    "Die Beleuchtung bleibt bei zwei Sammelobjekten und höchstens acht schattenlosen echten Lichtern (drei bei niedriger Qualität). Es entstehen keine einzelnen Lichtobjekte für jede Laterne.",
+    "Beim Wechsel von niedriger auf normale Grafik erhalten auch die zusätzlich aktivierten Lichter sofort die richtige Position. Straßenumbauten verwenden dieselben Lichtmaterialien weiter.",
+    "NPCs hupen erst nach einigen Sekunden tatsächlicher Blockierung hinter einem anderen Fahrzeug. Vorheriges Warten auf freier Straße zählt nicht mehr mit.",
+    "Alle bisherigen Performance-, Gebäude-, Verkehrs-, Haus- und Caféupdates sind enthalten. Koop und alte Spielstände behalten ihr Format."
   ],
-  "version": "0.161.20261029",
   "platform": "Windows 10 / 11, 64 Bit",
-  "title": "Civic Hijack · Schnellere Bauabfragen in großen Städten",
+  "title": "Civic Hijack · Wärmeres Licht für die Stadt",
   "installerSize": 2323968
 }
