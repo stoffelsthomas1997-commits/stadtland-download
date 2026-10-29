@@ -1,14 +1,14 @@
 {
-  "downloadSize": 154166575,
-  "version": "0.162.20261029",
-  "notes": [
-    "Straßenlaternen blenden bei Dämmerung sanft ein und werfen weichere warme Lichtflächen auf Straßen und Gehwege. Entfernte Bodenlichter werden auf der Grafikkarte ausgeblendet.",
-    "Die Beleuchtung bleibt bei zwei Sammelobjekten und höchstens acht schattenlosen echten Lichtern (drei bei niedriger Qualität). Es entstehen keine einzelnen Lichtobjekte für jede Laterne.",
-    "Beim Wechsel von niedriger auf normale Grafik erhalten auch die zusätzlich aktivierten Lichter sofort die richtige Position. Straßenumbauten verwenden dieselben Lichtmaterialien weiter.",
-    "NPCs hupen erst nach einigen Sekunden tatsächlicher Blockierung hinter einem anderen Fahrzeug. Vorheriges Warten auf freier Straße zählt nicht mehr mit.",
-    "Alle bisherigen Performance-, Gebäude-, Verkehrs-, Haus- und Caféupdates sind enthalten. Koop und alte Spielstände behalten ihr Format."
-  ],
+  "version": "0.163.20261029",
+  "downloadSize": 154167386,
   "platform": "Windows 10 / 11, 64 Bit",
-  "title": "Civic Hijack · Wärmeres Licht für die Stadt",
-  "installerSize": 2323968
+  "notes": [
+    "Unveränderte Grundstücksformen und ihre Suchbereiche werden nach Neubau und Abriss wiederverwendet. Die exakten Grenzen und die Zuordnung zum richtigen Gebäude bleiben erhalten.",
+    "Im lokalen Test mit28.000Gebäuden sank dieser Teil der Änderungskosten von rund216ms auf etwa89–97ms. Es bleibt linearer Abgleichsaufwand; dies ist keine Garantie für eine vollständig ruckelfreie Großstadt.",
+    "Der einmalige kalte Indexaufbau benötigt durch die zusätzlichen Wiederverwendungsdaten im Vergleich etwa13–19%mehr Zeit. Weitere Optimierung dieser verbleibenden Kosten ist vorgesehen.",
+    "2386Geometrieprüfungen,35Packed-Prüfprogramme und ein unabhängiger Review bestanden. Zwei echte lokale Koop-Prozesse bauen, reißen ab und laden denselben korrekten Gebäudestand.",
+    "Alle Beleuchtungs-, Verkehrs-, Haus-, Café- und Gebäudeupdates sind enthalten. Keine geänderten Speicher- oder Netzwerkformate und keine vereinfachte Grafik."
+  ],
+  "installerSize": 2323968,
+  "title": "Civic Hijack · Weniger Neuberechnungen beim Bauen und Abreißen"
 }
