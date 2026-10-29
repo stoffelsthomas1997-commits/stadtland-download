@@ -1,16 +1,14 @@
 {
-  "title": "Civic Hijack · Café, Raumgestaltung & ruhiger Banküberfall",
+  "downloadSize": 154146574,
+  "title": "Civic Hijack · Größere Arbeitsstätten & neue Architektur",
+  "installerSize": 2323968,
   "platform": "Windows 10 / 11, 64 Bit",
+  "version": "0.159.20261029",
   "notes": [
-    "Café & Beruf ist jetzt enthalten: Bestellungen aufnehmen, Espresso und Cappuccino zubereiten, Kuchen servieren, abräumen und Geld verdienen. Eigenes Café bauen, einrichten, erweitern und Personal einstellen oder mit Freunden arbeiten.",
-    "Der Transporter und die verfolgenden Polizeiautos beim Banküberfall bremsen mit korrektem Tempo und stehen vor der Straßensperre ruhig. Die bisherige ruckelnde Vorhersage im Stillstand wurde behoben.",
-    "Automatische Banküberfälle frühestens nach 30 Minuten; nach einem Überfall folgen 45 bis 60 Minuten Pause. Der Timer wird mit der Stadt gespeichert und bleibt beim Laden sowie bei Pause erhalten. Manuelles Starten durch den Host bleibt möglich.",
-    "Im Spielerhaus lassen sich unter Einrichten > Raumstil Tapeten und Böden für jeden Raum einzeln auswählen. Je acht Stile, auch im Obergeschoss. Die Gestaltung bleibt beim Hausausbau erhalten und ist für eingelassene Freunde sichtbar.",
-    "Drei neue Deckenleuchten: LED-Leuchte, Pendelleuchte und Dreier-Spotschiene. Sie lassen sich über vorhandenen Möbeln platzieren und blockieren die Bewohner darunter nicht.",
-    "Gemeinsame Raumgeometrie und Materialien sowie sparsam leuchtende Lampen ohne zusätzliche Schattenlichter schonen die Performance. Raumgestaltung löst keinen Neuaufbau der Stadt aus.",
-    "Die Haustreppe steht weiter von der Wand entfernt und hat einen größeren unteren Absatz. Treppe, Laufweg und Deckenausschnitt passen zusammen; die Kamera bleibt beim Aufstieg im freien Schacht. Möbel, die in alten Häusern den neuen Laufweg blockieren, bleiben sicher im Lager."
-  ],
-  "version": "0.158.20261029",
-  "downloadSize": 150755307,
-  "installerSize": 2323968
+    "Je acht neue Gewerbe- und Industriegebäude auf Doppelgrundstücken: Markthalle, Bäckereihaus, Ladenzeile, Gartencenter, Möbelgalerie, Bürohof, Autosalon und Stadtkaufhaus sowie Shedwerk, Logistikhalle, Lebensmittelwerk, Holzmanufaktur, Druckerei, Metallwerk, Wertstoffhof und Silowerk.",
+    "Automatisches Mischen nutzt gelegentlich zwei freie benachbarte Felder. Ist nur ein Feld frei, wird ein schmales Modell gewählt. Alte Gebäude behalten ihre Größe; ein Modellwechsel bleibt innerhalb derselben Grundstücksbreite.",
+    "Breite Arbeitsstätten kosten zwei Zonen und bieten 50 Gewerbe- bzw.100 Industriearbeitsplätze. Eingänge, Kundenparkplätze und Lieferbucht sind auf die Gebäude abgestimmt.",
+    "48 vorgebackene Detailvarianten mit 348 nativen Fernstufen, geteilten Materialien und höchstens zwei Meshinstanzen je Arbeitsstätte vermeiden teure Modellberechnung beim Platzieren. Der vorhandene Winterschnee wird unterstützt.",
+    "Das komplette Café-, Raumgestaltungs-, Deckenlampen-, Treppen- und Banküberfallupdate aus0.158 ist enthalten. Für Koop sollten alle Spieler auf dieselbe Version aktualisieren."
+  ]
 }
