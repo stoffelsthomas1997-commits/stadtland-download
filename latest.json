@@ -1,12 +1,13 @@
 {
-  "platform": "Windows 10 / 11, 64 Bit",
-  "version": "0.169.20261029",
+  "downloadSize": 154215854,
+  "version": "0.170.20261029",
   "installerSize": 2323968,
-  "title": "Civic Hijack · Dein abschaltbarer Stadtbegleiter",
-  "downloadSize": 154215776,
+  "title": "Civic Hijack · Effizienteres Straßenraster",
   "notes": [
-    "Der Bürgermeister vom Launcher führt mit seinem bekannten Porträt durch zehn kurze Schritte: Kamera, Rathaus, Straßen, Versorgung, Wachstum, Missionen und XP, Mein Leben, Möbelhaus sowie Koop und Minispiele.",
-    "Mit X blendest du das Tutorial aus. Unter Einstellungen > Spiel kannst du es wieder einschalten oder neu starten. Dein Fortschritt wird auf deinem Gerät gespeichert und gilt unabhängig von deinen Mitspielern.",
-    "Die kompakte helle Karte bleibt in der Stadtansicht und macht Platz für Menüs, Lobbys und Innenräume. Ausgeschaltet oder abgeschlossen schläft die Verarbeitung; es entstehen keine neuen Netzwerkpakete oder NPC-Berechnungen. Alle Möbelhaus- und bisherigen168-Updates enthalten.52Prüfprogramme, lokaler Drei-Spieler-Koop und Windowsstart bestanden."
-  ]
+    "Beim Aufbau des Straßenrasters werden nahe Straßenteile und benachbarte Bauzellen pro Zelle nur einmal geprüft. Das spart doppelte Geometriearbeit beim Straßenbau.",
+    "Im gepaarten Messfall mit16Straßen und4320Bauzellen sank die mittlere Rasterzeit von95,8auf80,1Millisekunden, rund16Prozent. Das ist ein gezielter Rastervergleich und keine allgemeine FPS-Zusage.",
+    "Positionen, Reihenfolge, Kurvenabschnitte, Brücken/Tunnel und die bestehende Bauvorschau bleiben im Vergleich identisch. Die von anderen Systemen verwendeten Straßenkandidaten behalten ihr bisheriges Format.",
+    "Möbelhaus, Miettransporter, Tutorial und alle bisherigen169Updates enthalten.55Prüfprogramme, lokaler Drei-Spieler-Koop mit gleichzeitigem Straßenbau und Windowsstart bestanden."
+  ],
+  "platform": "Windows 10 / 11, 64 Bit"
 }
