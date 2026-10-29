@@ -1,13 +1,14 @@
 {
   "notes": [
-    "Neue Wartehäuschen mit hellem Dach, schlanken Rahmen, Holzbank und kleinem Aushang. H-Schild und Haltestellennummer bleiben sichtbar; Buslinien und Wartepositionen bleiben erhalten.",
-    "Die Häuschen teilen ein instanziertes Modell und ein gemeinsames Nummernobjekt:100Stops ergeben zwei statt acht Grafikobjekte. Der gemessene Neuaufbau von100Stops bleibt ungefähr auf dem vorherigen Niveau (rund231gegen234ms im lokalen Vergleich).",
-    "Niedrige Detailstufen vereinfachen das Modell. Schnee und nächtliche Himmelsreflexion bleiben erhalten; die Scheiben verwenden keinen Wohnraum-Leuchteffekt. Keine zusätzlichen Lichtquellen, NPCs oder Physikobjekte.",
-    "1008Freiraumprüfungen mit24bestehendenWarteplätzen und12Modellvergleiche mit Drehungen und wechselndenGeländehöhen bestanden. Alle bisherigen Performance-, Verkehrs-, Haus- und Caféupdates sind enthalten."
+    "Identische Gebäudegrundformen werden beim ersten Grundstücksindex nicht mehr tausendfach über alle Kataloge neu berechnet. Ein kleiner begrenzter Formcache leitet die Maße weiterhin aus der bisherigen exakten Geometriefunktion ab.",
+    "Im lokalen Vergleich mit28.000Gebäuden sank der mittlere kalte Indexaufbau von rund248ms auf167ms. Damit ist auch der einmalige Mehrbedarf des vorherigen Wiederverwendungscaches ausgeglichen.",
+    "Bau- und Abrissprüfungen bleiben im Vergleich bei etwa88ms für die geprüfte große Stadt; schnelle unveränderte Abfragen bleiben erhalten. Weitere lineare Arbeit ist vorhanden – keine allgemeine Ruckelfrei-Garantie.",
+    "Maximal64lokaleFormen, bei vollem Cache oder unerwartetem Schlüsselkonflikt sicherer Original-Fallback. Positionen, Winkel, private Hausstufen, breite Gebäude und besondere Einrichtungen behalten dieselben Grundstücksgrenzen.",
+    "Alle Haltestellen-, Beleuchtungs-, Verkehrs-, Haus-, Café- und Gebäudeupdates sind enthalten. Keine geänderten Speicher- oder Netzwerkformate."
   ],
-  "version": "0.164.20261029",
-  "platform": "Windows 10 / 11, 64 Bit",
+  "title": "Civic Hijack · Schnellerer erster Grundstücksaufbau",
+  "downloadSize": 154170468,
   "installerSize": 2323968,
-  "title": "Civic Hijack · Schönere Bushaltestellen",
-  "downloadSize": 154169848
+  "version": "0.165.20261029",
+  "platform": "Windows 10 / 11, 64 Bit"
 }
