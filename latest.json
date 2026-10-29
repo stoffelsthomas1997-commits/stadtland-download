@@ -1,14 +1,14 @@
 {
-  "downloadSize": 154146574,
-  "title": "Civic Hijack · Größere Arbeitsstätten & neue Architektur",
+  "notes": [
+    "NPC-Autos bremsen vor dem Spielerauto und halten Abstand. Nach dem Aussteigen oder Verlassen der Sitzung fahren sie wieder weiter. Das funktioniert auch mit synchronisierten Mitspielerfahrzeugen; die Stadt kann dabei weitergebaut werden.",
+    "Fahrzeugmaße, schräg stehende Autos und freie Nachbarspuren werden berücksichtigt. Auf verbundenen Autobahnrampen wird rechtzeitig gebremst; unterschiedliche Brücken- und Tunnelebenen bleiben getrennt. Autos aus der Hintergrundsimulation können nicht mehr sichtbar im Spielerauto auftauchen.",
+    "Wartende Fahrzeuge hupen gelegentlich kurz, wenn sie vorher gefahren sind und ein stehendes Fahrzeug vor ihnen steht. Zwei originale kurze Klänge, örtlich begrenzt und passend zu Zoom, Effektlautstärke und Pause.",
+    "Keine neuen NPCs, Physikobjekte oder Netzwerkpakettypen. Fahrerfahrzeuge werden als höchstens zwölf kleine Nahbereichshindernisse verwendet. Die präzise Verkehrssimulation bleibt bei ihrem vorhandenen Budget; nahe Autos erhalten beim Fahren Vorrang.",
+    "Nur sechs bereits ausgewählte Motorquellen werden fürs Hupen beobachtet; zwei wiederverwendete Klangspieler und feste Pausen verhindern Klang- und Speicherfluten. Das bestehende aktive Rammen sowie alle Gewerbe-, Café- und Hausupdates bleiben enthalten."
+  ],
   "installerSize": 2323968,
   "platform": "Windows 10 / 11, 64 Bit",
-  "version": "0.159.20261029",
-  "notes": [
-    "Je acht neue Gewerbe- und Industriegebäude auf Doppelgrundstücken: Markthalle, Bäckereihaus, Ladenzeile, Gartencenter, Möbelgalerie, Bürohof, Autosalon und Stadtkaufhaus sowie Shedwerk, Logistikhalle, Lebensmittelwerk, Holzmanufaktur, Druckerei, Metallwerk, Wertstoffhof und Silowerk.",
-    "Automatisches Mischen nutzt gelegentlich zwei freie benachbarte Felder. Ist nur ein Feld frei, wird ein schmales Modell gewählt. Alte Gebäude behalten ihre Größe; ein Modellwechsel bleibt innerhalb derselben Grundstücksbreite.",
-    "Breite Arbeitsstätten kosten zwei Zonen und bieten 50 Gewerbe- bzw.100 Industriearbeitsplätze. Eingänge, Kundenparkplätze und Lieferbucht sind auf die Gebäude abgestimmt.",
-    "48 vorgebackene Detailvarianten mit 348 nativen Fernstufen, geteilten Materialien und höchstens zwei Meshinstanzen je Arbeitsstätte vermeiden teure Modellberechnung beim Platzieren. Der vorhandene Winterschnee wird unterstützt.",
-    "Das komplette Café-, Raumgestaltungs-, Deckenlampen-, Treppen- und Banküberfallupdate aus0.158 ist enthalten. Für Koop sollten alle Spieler auf dieselbe Version aktualisieren."
-  ]
+  "downloadSize": 154166839,
+  "title": "Civic Hijack · Rücksicht im Verkehr & kurze Huper",
+  "version": "0.160.20261029"
 }
