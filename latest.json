@@ -1,14 +1,13 @@
 {
+  "downloadSize": 154166203,
   "notes": [
-    "NPC-Autos bremsen vor dem Spielerauto und halten Abstand. Nach dem Aussteigen oder Verlassen der Sitzung fahren sie wieder weiter. Das funktioniert auch mit synchronisierten Mitspielerfahrzeugen; die Stadt kann dabei weitergebaut werden.",
-    "Fahrzeugmaße, schräg stehende Autos und freie Nachbarspuren werden berücksichtigt. Auf verbundenen Autobahnrampen wird rechtzeitig gebremst; unterschiedliche Brücken- und Tunnelebenen bleiben getrennt. Autos aus der Hintergrundsimulation können nicht mehr sichtbar im Spielerauto auftauchen.",
-    "Wartende Fahrzeuge hupen gelegentlich kurz, wenn sie vorher gefahren sind und ein stehendes Fahrzeug vor ihnen steht. Zwei originale kurze Klänge, örtlich begrenzt und passend zu Zoom, Effektlautstärke und Pause.",
-    "Keine neuen NPCs, Physikobjekte oder Netzwerkpakettypen. Fahrerfahrzeuge werden als höchstens zwölf kleine Nahbereichshindernisse verwendet. Die präzise Verkehrssimulation bleibt bei ihrem vorhandenen Budget; nahe Autos erhalten beim Fahren Vorrang.",
-    "Nur sechs bereits ausgewählte Motorquellen werden fürs Hupen beobachtet; zwei wiederverwendete Klangspieler und feste Pausen verhindern Klang- und Speicherfluten. Das bestehende aktive Rammen sowie alle Gewerbe-, Café- und Hausupdates bleiben enthalten."
+    "Unveränderte Grundstücksabfragen prüfen nicht mehr jedes Mal die komplette Gebäudeliste. Der vorhandene exakte Belegungsindex wird direkt wiederverwendet; Aussehen und Grundstücksgrenzen bleiben gleich.",
+    "Im lokalen Vergleich mit 28.000 Gebäuden sank die vollständige wiederholte Platzierungsprüfung von rund 3,9 ms auf 0,06 ms. Das beschleunigt diesen Teil der Bauprüfung; der erstmalige vollständige Indexaufbau bleibt unverändert.",
+    "Revision, Listenwechsel, Grundstücksanzahl und die bestehende Invalidierung sichern Neubau, Abriss, Hausausbau sowie Save- und Koop-Laden ab. Persönliche Haus- und Cafébefehle invalidieren die Belegung auch vor der nächsten Sitzungsrevision.",
+    "Keine neuen Netzwerk- oder Spielstandsdaten, keine vereinfachten Kollisionsflächen und keine Grafikverluste. Alle Verkehrs-, Hupen-, Gewerbe-, Café- und Hausupdates aus 0.160 sind enthalten."
   ],
-  "installerSize": 2323968,
+  "version": "0.161.20261029",
   "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 154166839,
-  "title": "Civic Hijack · Rücksicht im Verkehr & kurze Huper",
-  "version": "0.160.20261029"
+  "title": "Civic Hijack · Schnellere Bauabfragen in großen Städten",
+  "installerSize": 2323968
 }
