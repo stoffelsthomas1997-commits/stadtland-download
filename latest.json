@@ -1,15 +1,14 @@
 {
-  "title": "Civic Hijack · Einfacher spielen und gemeinsam bauen",
-  "version": "0.175.20261104",
-  "installerSize": 2323968,
   "notes": [
-    "Spielen führt direkt zu Solo, Koop hosten oder Koop beitreten. Solo zeigt gespeicherte Städte sofort; Gastgeber öffnen direkt ihre Lobby und können Freunde einladen oder eine Stadt gemeinsam laden.",
-    "Sechsstellige Einladungscodes und automatisch sichtbare Lobbys gegenseitig eingetragener Freunde. Der vorhandene Server wurde passend erweitert und live geprüft. Vollständige ältere Codes funktionieren weiter.",
-    "Heller Ladebildschirm im aktuellen Civic-Hijack-Stil mit Spielfigur und echtem Ladefortschritt.",
-    "Alle sechs Minispiele zahlen bei gültigen Leistungen persönliche Prämien auch an mehrere menschliche Teilnehmer. Bots, inaktive Teilnehmer und nicht beendete Rennen erhalten keine solche Prämie; erneute Auswertung zahlt nicht doppelt.",
-    "Neu platzierte eigene Häuser zeigen ein 3×2-Bauraster und reservieren21×14Meter für den späteren Ausbau bisStufe5. Bestehende Häuser bleiben erhalten und werden nicht über benachbarte Grundstücke vergrößert.",
-    "Der dringende Café-Koop-Hotfix174 ist enthalten.70Prüfprogramme, Windowsstart und lokaler Drei-Spieler-Koop mit Café und parallelem Straßenbau bestanden. Zusätzliche echte Netzwerkprüfungen für Geldprämien und Live-Freundeslobbys bestanden."
+    "Gemeinsame Café-Besuche bleiben bei vollständigen Stadtupdates erhalten. Veraltete Bewegungspakete werden zusammengefasst, Interaktionen zuverlässig versendet; die Café-Kamera verdeckt an engen Wänden nicht mehr die Sicht mit dem eigenen Körper.",
+    "Jobs erhalten eine zeitgewichtete Straßenroute mit Einbahnregeln und Neuberechnung bei Abweichung. Im Cockpit steht ein echtes Navi; mit C erscheint es unten seitlich in der Außenansicht. Lieferungen führen zunächst zum Straßenhaltepunkt und erklären die anschließende Gehstrecke.",
+    "Das Navi verwendet das im Hintergrund vorbereitete Straßennetz und erzwingt beim Bauen keine zusätzlichen synchronen Graph-Neuaufbauten. Routenberechnung wird zeitlich aufgeteilt, der kleine Bildschirm nur bei geänderten Navigationsdaten aktualisiert.",
+    "Wasserpinsel auf Hügeln: Wasser und Gelände verwenden passende Dreiecke und Höhen. Wasser-Tiles werden bei lokalen Bodenänderungen erneuert; entfernte Flächen und alte Spielstände bleiben erhalten.",
+    "Geprüft mit echten lokalen Drei-Spieler-Sitzungen über LAN und WebSocket: drei Café-Besucher sichtbar bei parallelem Straßenbau, vollständigem Stadtupdate und Monatswechsel. Zusätzlich echte Taxi-Fahrt mit Fahrgastwechsel, Kameras und kleinen Auflösungen sowie Wasser-Vorher/Nachherprüfung. Alle78Paket-Prüfprogramme sowie nativer Windowsstart und sauberes Beenden bestanden."
   ],
-  "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 154226983
+  "installerSize": 2323968,
+  "version": "0.176.20261104",
+  "title": "Civic Hijack · Café-Koop und Fahrzeug-Navi",
+  "downloadSize": 154241988,
+  "platform": "Windows 10 / 11, 64 Bit"
 }
