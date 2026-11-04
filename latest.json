@@ -1,12 +1,15 @@
 {
-  "downloadSize": 154217421,
-  "version": "0.174.20261104",
-  "title": "Civic Hijack · Dringender Café-Koop-Hotfix",
+  "title": "Civic Hijack · Einfacher spielen und gemeinsam bauen",
+  "version": "0.175.20261104",
+  "installerSize": 2323968,
   "notes": [
-    "Eigene Cafés verhindern nicht mehr das Laden und Aktualisieren der Stadt bei beigetretenen Spielern. Öffentliche Stadtübertragungen werden mit den dafür vorgesehenen Café-Zusammenfassungen korrekt geprüft.",
-    "Private Möbel müssen dafür nicht an alle Mitspieler übertragen werden. Vollständige Spielstände behalten ihre strenge Möbel- und Gebäudeprüfung. Bestehende Host-Spielstände bleiben erhalten.",
-    "Geprüft:64Testprogramme, Windowsstart sowie lokaler Drei-Spieler-Koop mit eigenem Café und anschließend sechs neu gebauten Straßen. Weitere Verbesserungen an Spieleinstieg, Ladebildschirm, Minispiel-Prämien und Hausplatzierung folgen getrennt."
+    "Spielen führt direkt zu Solo, Koop hosten oder Koop beitreten. Solo zeigt gespeicherte Städte sofort; Gastgeber öffnen direkt ihre Lobby und können Freunde einladen oder eine Stadt gemeinsam laden.",
+    "Sechsstellige Einladungscodes und automatisch sichtbare Lobbys gegenseitig eingetragener Freunde. Der vorhandene Server wurde passend erweitert und live geprüft. Vollständige ältere Codes funktionieren weiter.",
+    "Heller Ladebildschirm im aktuellen Civic-Hijack-Stil mit Spielfigur und echtem Ladefortschritt.",
+    "Alle sechs Minispiele zahlen bei gültigen Leistungen persönliche Prämien auch an mehrere menschliche Teilnehmer. Bots, inaktive Teilnehmer und nicht beendete Rennen erhalten keine solche Prämie; erneute Auswertung zahlt nicht doppelt.",
+    "Neu platzierte eigene Häuser zeigen ein 3×2-Bauraster und reservieren21×14Meter für den späteren Ausbau bisStufe5. Bestehende Häuser bleiben erhalten und werden nicht über benachbarte Grundstücke vergrößert.",
+    "Der dringende Café-Koop-Hotfix174 ist enthalten.70Prüfprogramme, Windowsstart und lokaler Drei-Spieler-Koop mit Café und parallelem Straßenbau bestanden. Zusätzliche echte Netzwerkprüfungen für Geldprämien und Live-Freundeslobbys bestanden."
   ],
   "platform": "Windows 10 / 11, 64 Bit",
-  "installerSize": 2323968
+  "downloadSize": 154226983
 }
