@@ -1,14 +1,14 @@
 {
-  "notes": [
-    "Gemeinsame Café-Besuche bleiben bei vollständigen Stadtupdates erhalten. Veraltete Bewegungspakete werden zusammengefasst, Interaktionen zuverlässig versendet; die Café-Kamera verdeckt an engen Wänden nicht mehr die Sicht mit dem eigenen Körper.",
-    "Jobs erhalten eine zeitgewichtete Straßenroute mit Einbahnregeln und Neuberechnung bei Abweichung. Im Cockpit steht ein echtes Navi; mit C erscheint es unten seitlich in der Außenansicht. Lieferungen führen zunächst zum Straßenhaltepunkt und erklären die anschließende Gehstrecke.",
-    "Das Navi verwendet das im Hintergrund vorbereitete Straßennetz und erzwingt beim Bauen keine zusätzlichen synchronen Graph-Neuaufbauten. Routenberechnung wird zeitlich aufgeteilt, der kleine Bildschirm nur bei geänderten Navigationsdaten aktualisiert.",
-    "Wasserpinsel auf Hügeln: Wasser und Gelände verwenden passende Dreiecke und Höhen. Wasser-Tiles werden bei lokalen Bodenänderungen erneuert; entfernte Flächen und alte Spielstände bleiben erhalten.",
-    "Geprüft mit echten lokalen Drei-Spieler-Sitzungen über LAN und WebSocket: drei Café-Besucher sichtbar bei parallelem Straßenbau, vollständigem Stadtupdate und Monatswechsel. Zusätzlich echte Taxi-Fahrt mit Fahrgastwechsel, Kameras und kleinen Auflösungen sowie Wasser-Vorher/Nachherprüfung. Alle78Paket-Prüfprogramme sowie nativer Windowsstart und sauberes Beenden bestanden."
-  ],
+  "title": "Civic Hijack · Klare Menüs und Versorgungsgebäude",
+  "version": "0.177.20261104",
+  "downloadSize": 154246942,
   "installerSize": 2323968,
-  "version": "0.176.20261104",
-  "title": "Civic Hijack · Café-Koop und Fahrzeug-Navi",
-  "downloadSize": 154241988,
+  "notes": [
+    "Hauptmenü, Pause und Spielerbereich sind übersichtlicher: Weiterspielen, Zu Fuß laufen und Auto fahren sind direkt erreichbar. Zuhause und Autos, Arbeit und Geld sowie Kontakte und Freizeit haben eigene Bereiche.",
+    "Ruhige helle Gestaltung mit klaren Beschriftungen und festen Zurück-Schaltflächen. Haupt- und Pausenmenü passen auch bei 960 × 540 ohne Scrollen. Cheats bleiben unter Einstellungen > Spiel erreichbar.",
+    "Beim Zurückkehren aus Einstellungen, Freunden und Speichern bleiben Laufansicht, Fahrzeug und Kamera erhalten. Dienstfahrten werden durch diese Menüs nicht beendet; der Wechsel zu Fuß löst die Pause korrekt. Vor einem Minispiel weist das Menü auf das Pausieren der laufenden Schicht hin.",
+    "Große Strom- und Wasserwerke rasten am Rand geeigneter Stadtstraßen ein und richten sich zur Straße aus. Vorschau und tatsächlicher Bau verwenden denselben Plan; die Auswahl berücksichtigt Drehung, Kurven und Straßenseite. Bestehende Anlagen und Leitungen bleiben erhalten.",
+    "Platzierungsprüfungen nutzen nahe Straßenabschnitte und den bestehenden Vorschaucache. Keine neuen Netz- oder Spielstandformate. Geprüft mit 83 Paket-Prüfprogrammen, nativen Menü- und Fahrjobtests, drei lokalen Koop-Prozessen sowie Windowsstart und sauberem Beenden."
+  ],
   "platform": "Windows 10 / 11, 64 Bit"
 }
