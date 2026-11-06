@@ -1,14 +1,14 @@
 {
-  "title": "Civic Hijack · Klare Menüs und Versorgungsgebäude",
-  "version": "0.177.20261104",
-  "downloadSize": 154246942,
-  "installerSize": 2323968,
+  "downloadSize": 154288989,
+  "title": "Civic Hijack · Gemütliche Wohnungen und neues Bistro",
   "notes": [
-    "Hauptmenü, Pause und Spielerbereich sind übersichtlicher: Weiterspielen, Zu Fuß laufen und Auto fahren sind direkt erreichbar. Zuhause und Autos, Arbeit und Geld sowie Kontakte und Freizeit haben eigene Bereiche.",
-    "Ruhige helle Gestaltung mit klaren Beschriftungen und festen Zurück-Schaltflächen. Haupt- und Pausenmenü passen auch bei 960 × 540 ohne Scrollen. Cheats bleiben unter Einstellungen > Spiel erreichbar.",
-    "Beim Zurückkehren aus Einstellungen, Freunden und Speichern bleiben Laufansicht, Fahrzeug und Kamera erhalten. Dienstfahrten werden durch diese Menüs nicht beendet; der Wechsel zu Fuß löst die Pause korrekt. Vor einem Minispiel weist das Menü auf das Pausieren der laufenden Schicht hin.",
-    "Große Strom- und Wasserwerke rasten am Rand geeigneter Stadtstraßen ein und richten sich zur Straße aus. Vorschau und tatsächlicher Bau verwenden denselben Plan; die Auswahl berücksichtigt Drehung, Kurven und Straßenseite. Bestehende Anlagen und Leitungen bleiben erhalten.",
-    "Platzierungsprüfungen nutzen nahe Straßenabschnitte und den bestehenden Vorschaucache. Keine neuen Netz- oder Spielstandformate. Geprüft mit 83 Paket-Prüfprogrammen, nativen Menü- und Fahrjobtests, drei lokalen Koop-Prozessen sowie Windowsstart und sauberem Beenden."
+    "Wohnungen erhalten neue gepolsterte Sofas und Sessel, Betten mit Kissen und Decken, gestaltete Küchenfronten, Küchengeräte, Esstische und Pflanzen. Holz, Stoff und Keramik bekommen dezente Oberflächen.",
+    "Das Café bekommt Bistrostühle, gedeckte Tische, einen begrünten Innenraum, eine neue Espressomaschine, Kuchenvitrine, Wandbilder und warme Pendelleuchten. Die Arbeitsstationen sind gut erkennbar.",
+    "Beim Planen einer Buslinie zeigen Umrandungen alle Haltestellen sowie die gewählten Stopps und den Startpunkt.",
+    "Café-Gäste und Mitspieler sitzen, trinken, tragen und servieren mit überarbeiteten Bewegungen. Tassen und Tabletts passen besser zu den Händen.",
+    "Die Einrichtung nutzt gemeinsam gespeicherte Modelle und Materialien. In den geprüften Wohnraum- und Café-Ansichten bleibt die Zahl der Zeichenaufrufe bei 16 und 9. Bestehende Einrichtungsplätze und Interaktionen werden unterstützt."
   ],
-  "platform": "Windows 10 / 11, 64 Bit"
+  "platform": "Windows 10 / 11, 64 Bit",
+  "version": "0.179.20261105",
+  "installerSize": 2323968
 }
