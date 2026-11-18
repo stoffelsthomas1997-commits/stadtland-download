@@ -1,14 +1,14 @@
 {
-  "downloadSize": 154288989,
-  "title": "Civic Hijack · Gemütliche Wohnungen und neues Bistro",
-  "notes": [
-    "Wohnungen erhalten neue gepolsterte Sofas und Sessel, Betten mit Kissen und Decken, gestaltete Küchenfronten, Küchengeräte, Esstische und Pflanzen. Holz, Stoff und Keramik bekommen dezente Oberflächen.",
-    "Das Café bekommt Bistrostühle, gedeckte Tische, einen begrünten Innenraum, eine neue Espressomaschine, Kuchenvitrine, Wandbilder und warme Pendelleuchten. Die Arbeitsstationen sind gut erkennbar.",
-    "Beim Planen einer Buslinie zeigen Umrandungen alle Haltestellen sowie die gewählten Stopps und den Startpunkt.",
-    "Café-Gäste und Mitspieler sitzen, trinken, tragen und servieren mit überarbeiteten Bewegungen. Tassen und Tabletts passen besser zu den Händen.",
-    "Die Einrichtung nutzt gemeinsam gespeicherte Modelle und Materialien. In den geprüften Wohnraum- und Café-Ansichten bleibt die Zahl der Zeichenaufrufe bei 16 und 9. Bestehende Einrichtungsplätze und Interaktionen werden unterstützt."
-  ],
+  "version": "0.181.20261118",
   "platform": "Windows 10 / 11, 64 Bit",
-  "version": "0.179.20261105",
-  "installerSize": 2323968
+  "title": "Civic Hijack · Neue Figuren im Launcher-Stil",
+  "downloadSize": 154331201,
+  "installerSize": 2323968,
+  "notes": [
+    "Spieler, Bürgermeister, Dates und Partner im Haus erscheinen jetzt im Stil des Launchers: weich gerundete Formen, ein großer ausdrucksstarker Kopf und kräftige Farben.",
+    "Die Augen bewegen sich natürlich. Sie blinzeln in unregelmäßigen Abständen, manchmal doppelt, und schauen kurz umher. Jede Figur hat ihren eigenen Rhythmus.",
+    "Alle fünf Frisuren, vier Bärte und fünf Hüte sind neu gestaltet. Unter Hüten liegen die Haare enger an; lange Haare und der Dutt bleiben sichtbar.",
+    "Die sechs Outfits haben neue Details: Anzug mit Revers und Krawatte, T-Shirt, Pullover, V-Shirt, Jacke mit Reißverschluss und Top. Die fünf Gesichtsformen haben eigene Mundformen und Brauen.",
+    "Gespeicherte Figuren behalten ihre Auswahl und Farben. Zwei Figuren nebeneinander brauchen weiterhin sechs Zeichenaufrufe. Namensschilder und die Editor-Kamera sind an die neue Größe angepasst."
+  ]
 }
