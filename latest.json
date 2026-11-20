@@ -1,14 +1,14 @@
 {
-  "version": "0.181.20261118",
-  "platform": "Windows 10 / 11, 64 Bit",
-  "title": "Civic Hijack · Neue Figuren im Launcher-Stil",
-  "downloadSize": 154331201,
-  "installerSize": 2323968,
+  "title": "Civic Hijack · Stadtbewohner im Launcher-Stil",
+  "downloadSize": 154341195,
   "notes": [
-    "Spieler, Bürgermeister, Dates und Partner im Haus erscheinen jetzt im Stil des Launchers: weich gerundete Formen, ein großer ausdrucksstarker Kopf und kräftige Farben.",
-    "Die Augen bewegen sich natürlich. Sie blinzeln in unregelmäßigen Abständen, manchmal doppelt, und schauen kurz umher. Jede Figur hat ihren eigenen Rhythmus.",
-    "Alle fünf Frisuren, vier Bärte und fünf Hüte sind neu gestaltet. Unter Hüten liegen die Haare enger an; lange Haare und der Dutt bleiben sichtbar.",
-    "Die sechs Outfits haben neue Details: Anzug mit Revers und Krawatte, T-Shirt, Pullover, V-Shirt, Jacke mit Reißverschluss und Top. Die fünf Gesichtsformen haben eigene Mundformen und Brauen.",
-    "Gespeicherte Figuren behalten ihre Auswahl und Farben. Zwei Figuren nebeneinander brauchen weiterhin sechs Zeichenaufrufe. Namensschilder und die Editor-Kamera sind an die neue Größe angepasst."
-  ]
+    "Die Bewohner der Stadt sehen jetzt aus wie die Spielerfiguren: weich gerundete Formen, ein großer Kopf mit ausdrucksstarken Augen, Brauen und Mund.",
+    "Acht neue Bewohner mit eigenen Frisuren, Bärten und Kleidung: Anzug, Pullover, T-Shirt, Hemd, Bluse, Jacke mit Reißverschluss und Kleid. Die Farben wechseln wie bisher zwischen 72 Outfits.",
+    "Gehen, Radfahren, Kinder, Gespräche und Regenschirme sind an die neuen Figuren angepasst. Im Café sitzen die Gäste auf der richtigen Höhe und trinken aus der Tasse.",
+    "Wintermützen passen auf die größeren Köpfe, lange Haare schauen darunter hervor. Die Feuerwehrhelme sitzen richtig, und der Regenschirm liegt in der Hand.",
+    "Die Stadt bleibt so schnell wie vorher: 400 Bewohner brauchen weiterhin 9 Zeichenaufrufe. Spielstände und Koop bleiben unverändert, der Download ist etwas kleiner."
+  ],
+  "installerSize": 2323968,
+  "version": "0.182.20261120",
+  "platform": "Windows 10 / 11, 64 Bit"
 }
