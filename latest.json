@@ -1,14 +1,13 @@
 {
-  "title": "Civic Hijack · Stadtbewohner im Launcher-Stil",
-  "downloadSize": 154341195,
-  "notes": [
-    "Die Bewohner der Stadt sehen jetzt aus wie die Spielerfiguren: weich gerundete Formen, ein großer Kopf mit ausdrucksstarken Augen, Brauen und Mund.",
-    "Acht neue Bewohner mit eigenen Frisuren, Bärten und Kleidung: Anzug, Pullover, T-Shirt, Hemd, Bluse, Jacke mit Reißverschluss und Kleid. Die Farben wechseln wie bisher zwischen 72 Outfits.",
-    "Gehen, Radfahren, Kinder, Gespräche und Regenschirme sind an die neuen Figuren angepasst. Im Café sitzen die Gäste auf der richtigen Höhe und trinken aus der Tasse.",
-    "Wintermützen passen auf die größeren Köpfe, lange Haare schauen darunter hervor. Die Feuerwehrhelme sitzen richtig, und der Regenschirm liegt in der Hand.",
-    "Die Stadt bleibt so schnell wie vorher: 400 Bewohner brauchen weiterhin 9 Zeichenaufrufe. Spielstände und Koop bleiben unverändert, der Download ist etwas kleiner."
-  ],
+  "version": "0.183.20261121",
+  "title": "Civic Hijack · Leistungsupdate",
   "installerSize": 2323968,
-  "version": "0.182.20261120",
-  "platform": "Windows 10 / 11, 64 Bit"
+  "platform": "Windows 10 / 11, 64 Bit",
+  "notes": [
+    "Häuser, Läden, Straßen, Gleise und Ampeln werden jetzt gebündelt gezeichnet. In unserer Teststadt sinken die Zeichenaufrufe in der Übersicht von etwa 250 auf rund 60.",
+    "Je größer die Stadt, desto mehr spart das, weil die Einsparung mit jedem Straßenstück, jeder Kreuzung und jedem Haus wächst.",
+    "Statusleiste, Werkzeugregal und Zugbewegung brauchen weniger Rechenzeit pro Bild.",
+    "Die Stadt sieht genauso aus wie vorher. Spielstände, Koop und die Spielfiguren bleiben unverändert."
+  ],
+  "downloadSize": 154352295
 }
