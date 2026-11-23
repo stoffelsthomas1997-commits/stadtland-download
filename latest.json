@@ -1,13 +1,14 @@
 {
-  "version": "0.183.20261121",
-  "title": "Civic Hijack · Leistungsupdate",
+  "notes": [
+    "Neuer Spielstart: Nach dem Godot-Logo erscheinen wichtige Hinweise, danach ein 15 Sekunden langer Introfilm.",
+    "Im Film schwebt das Rathaus samt Grundstück aus der Stadt, eine riesige Hand im Anzugärmel fegt durch die Häuser und schnappt es sich – dann schlägt das Civic-Hijack-Logo ein. Mit eigener, passend vertonter Musik.",
+    "Hinweise und Film lassen sich mit gehaltener ESC-Taste (oder B/Start am Gamepad) überspringen.",
+    "Logo und Schriftzug werden in voller Bildschirmauflösung gezeichnet, das Video wird beim Verkleinern geglättet und beim Vergrößern leicht nachgeschärft.",
+    "Die Stadt rechnet die Bewegungen aller Figuren etwas schneller vor. Spielstände, Koop und Figuren bleiben unverändert."
+  ],
+  "version": "0.184.20261123",
+  "downloadSize": 184845828,
   "installerSize": 2323968,
   "platform": "Windows 10 / 11, 64 Bit",
-  "notes": [
-    "Häuser, Läden, Straßen, Gleise und Ampeln werden jetzt gebündelt gezeichnet. In unserer Teststadt sinken die Zeichenaufrufe in der Übersicht von etwa 250 auf rund 60.",
-    "Je größer die Stadt, desto mehr spart das, weil die Einsparung mit jedem Straßenstück, jeder Kreuzung und jedem Haus wächst.",
-    "Statusleiste, Werkzeugregal und Zugbewegung brauchen weniger Rechenzeit pro Bild.",
-    "Die Stadt sieht genauso aus wie vorher. Spielstände, Koop und die Spielfiguren bleiben unverändert."
-  ],
-  "downloadSize": 154352295
+  "title": "Civic Hijack · Neuer Spielstart mit Introfilm"
 }
