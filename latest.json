@@ -1,14 +1,14 @@
 {
-  "notes": [
-    "Neuer Spielstart: Nach dem Godot-Logo erscheinen wichtige Hinweise, danach ein 15 Sekunden langer Introfilm.",
-    "Im Film schwebt das Rathaus samt Grundstück aus der Stadt, eine riesige Hand im Anzugärmel fegt durch die Häuser und schnappt es sich – dann schlägt das Civic-Hijack-Logo ein. Mit eigener, passend vertonter Musik.",
-    "Hinweise und Film lassen sich mit gehaltener ESC-Taste (oder B/Start am Gamepad) überspringen.",
-    "Logo und Schriftzug werden in voller Bildschirmauflösung gezeichnet, das Video wird beim Verkleinern geglättet und beim Vergrößern leicht nachgeschärft.",
-    "Die Stadt rechnet die Bewegungen aller Figuren etwas schneller vor. Spielstände, Koop und Figuren bleiben unverändert."
-  ],
-  "version": "0.184.20261123",
-  "downloadSize": 184845828,
-  "installerSize": 2323968,
+  "downloadSize": 184860478,
+  "title": "Civic Hijack · Neue Charaktererstellung",
   "platform": "Windows 10 / 11, 64 Bit",
-  "title": "Civic Hijack · Neuer Spielstart mit Introfilm"
+  "version": "0.185.20261123",
+  "installerSize": 2323968,
+  "notes": [
+    "Die Charaktererstellung ist neu aufgebaut: Reiter für Vorlagen, Outfit, Gesicht, Haare sowie Kopf & Brille, 10 fertige Vorlagen, ein Zufall-Knopf und eine Zeile, die deinen Look zusammenfasst.",
+    "Mehr Auswahl: 10 Frisuren (neu: Locken, Pferdeschwanz, Bob, Irokese), neue Hüte (Krone, Barett, Cowboyhut), neue Bärte (Dreitagebart, Spitzbart), Brillen und Gaunermaske sowie 8 zusätzliche Augenfarben.",
+    "Neue Outfits: Gala mit Amtskette, Sommerkleid und Hoodie – dazu Stoffmuster für jedes Outfit (Streifen, Karo, Punkte, Tarnmuster, Hawaii).",
+    "Behoben: Bei einigen Frisuren schaute die Kopfhaut durch die Haare.",
+    "Gespeicherte Figuren sehen unverändert aus. Für Koop brauchen alle Spieler Version 0.185."
+  ]
 }
