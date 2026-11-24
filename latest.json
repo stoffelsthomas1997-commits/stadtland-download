@@ -1,16 +1,14 @@
 {
-  "title": "Civic Hijack · Kirmes-Minispiele aufgewertet",
-  "version": "0.188.20261124",
+  "title": "Civic Hijack · Flüssiger Start von Minispielen und Events",
   "installerSize": 2323968,
+  "platform": "Windows 10 / 11, 64 Bit",
+  "version": "0.189.20261124",
+  "downloadSize": 186004278,
   "notes": [
-    "Genauere Treffer in allen Kirmes-Minispielen: Die Trefferzonen passen jetzt zu dem, was man sieht. Bei der Abrissbirne zählen Birne, Kranwagen und Kistenstapel in ihrer echten Größe – und jeder getroffene Stapel wird flacher. Im Autoscooter stoßen die Wagen erst zusammen, wenn sich ihre Gummiringe berühren. Am Schießstand zählt nur die Scheibe mit der Ente, nicht mehr die Luft daneben.",
-    "Neu: Mit der Taste H lassen sich in jedem Minispiel die Trefferzonen einblenden.",
-    "Punkte zum Mitfiebern: Eigene Treffer zeigen ihre Punkte direkt im Spiel an – von „+20“ bis „MEGA CRASH!“, „EINSTURZ!“ und „AUS DEM SITZ!“.",
-    "Schießstand: kleineres Gewehr am Bildrand, warmes Licht, ein kurzes Zucken beim Schuss und freie Sicht auf die Zielwand.",
-    "Chaos-Karussell mit echter Kirmes-Kulisse: Abendhimmel, bunte Buden mit Lichterketten, Wiese und ein Riesenrad am Horizont.",
-    "Autoscooter: farbiges Neonlicht in der Halle.",
-    "Spielstände bleiben erhalten. Für Koop brauchen alle Spieler Version 0.188."
-  ],
-  "downloadSize": 186001022,
-  "platform": "Windows 10 / 11, 64 Bit"
+    "Kein Ruckeln mehr beim ersten Start eines Kirmes-Minispiels: Autoscooter, Schießstand, Abrissbirne und Chaos-Karussell werden schon während des Ladebildschirms vorbereitet. Der erste Start stockte vorher bis zu einer Viertelsekunde.",
+    "Alien-Event „Operation Kürbisnacht“ startet deutlich flüssiger: Raumschiff, Schutzschild, Aliens, Waffen, Effekte und Geräusche sind beim Start schon bereit, auch die erste Angriffswelle ruckelt nicht mehr.",
+    "Die erste Nacht in der Stadt stockt nicht mehr, wenn die Straßenbeleuchtung angeht.",
+    "Das Laden einer Stadt dauert dafür etwas länger (meist unter einer halben Sekunde).",
+    "Spielstände bleiben erhalten. Koop mit Spielern auf Version 0.188 funktioniert weiterhin."
+  ]
 }
