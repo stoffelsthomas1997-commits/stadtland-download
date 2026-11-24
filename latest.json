@@ -1,17 +1,16 @@
 {
-  "notes": [
-    "Neues Menü-Design: ein belebter Stadt-Hintergrund mit ziehenden Wolken und leuchtender Skyline, helle Karten, goldene Hauptknöpfe mit Symbolen und kurze Hinweise, was hinter jedem Knopf steckt.",
-    "Übersichtlicher: Das Pausemenü ist in „Unterwegs“, „Spielstand“ und „Mehr“ gegliedert. Das Spieler-Menü zeigt seine Bereiche als Karten mit Beschreibung, die Einstellungen haben Symbole an den Reitern und Zwischenüberschriften.",
-    "Animationen: Menüs, Fenster, Werkzeugregale und Meldungen öffnen sich mit kurzen, weichen Übergängen.",
-    "Neue Stadt-Anzeige oben: Stadtkasse, Einwohner, Datum und Uhrzeit auf einen Blick – ein Klick öffnet die Stadtdetails. Die Symbolleiste unten ist jetzt beschriftet.",
-    "Frischere Grafik: hellere, abwechslungsreichere Wiesen, ein blauerer Himmel, klarere Fernsicht und lebendigere Farben. Auch der Ladebildschirm ist neu.",
-    "Die Fernbahn aus dem Tunnel ist jetzt ein Standard-Doppelgleis. Noch nicht angeschlossene Tunnelstrecken in bestehenden Städten werden beim Laden einmal umgebaut.",
-    "Behoben: Im Reiter „Spiel“ ragten die Einstellungen über den Bildschirmrand, Meldungen verdeckten Werkzeugfenster, und beim Schließen während des Intros blieb ein Geräusch hängen.",
-    "Spielstände bleiben erhalten. Für Koop brauchen alle Spieler Version 0.187."
-  ],
-  "platform": "Windows 10 / 11, 64 Bit",
-  "version": "0.187.20261124",
+  "title": "Civic Hijack · Kirmes-Minispiele aufgewertet",
+  "version": "0.188.20261124",
   "installerSize": 2323968,
-  "title": "Civic Hijack · Neues Menü & frischer Look",
-  "downloadSize": 185984529
+  "notes": [
+    "Genauere Treffer in allen Kirmes-Minispielen: Die Trefferzonen passen jetzt zu dem, was man sieht. Bei der Abrissbirne zählen Birne, Kranwagen und Kistenstapel in ihrer echten Größe – und jeder getroffene Stapel wird flacher. Im Autoscooter stoßen die Wagen erst zusammen, wenn sich ihre Gummiringe berühren. Am Schießstand zählt nur die Scheibe mit der Ente, nicht mehr die Luft daneben.",
+    "Neu: Mit der Taste H lassen sich in jedem Minispiel die Trefferzonen einblenden.",
+    "Punkte zum Mitfiebern: Eigene Treffer zeigen ihre Punkte direkt im Spiel an – von „+20“ bis „MEGA CRASH!“, „EINSTURZ!“ und „AUS DEM SITZ!“.",
+    "Schießstand: kleineres Gewehr am Bildrand, warmes Licht, ein kurzes Zucken beim Schuss und freie Sicht auf die Zielwand.",
+    "Chaos-Karussell mit echter Kirmes-Kulisse: Abendhimmel, bunte Buden mit Lichterketten, Wiese und ein Riesenrad am Horizont.",
+    "Autoscooter: farbiges Neonlicht in der Halle.",
+    "Spielstände bleiben erhalten. Für Koop brauchen alle Spieler Version 0.188."
+  ],
+  "downloadSize": 186001022,
+  "platform": "Windows 10 / 11, 64 Bit"
 }
