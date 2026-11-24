@@ -1,14 +1,22 @@
 {
-  "downloadSize": 184860478,
-  "title": "Civic Hijack · Neue Charaktererstellung",
-  "platform": "Windows 10 / 11, 64 Bit",
-  "version": "0.185.20261123",
+  "downloadSize": 185964888,
   "installerSize": 2323968,
+  "platform": "Windows 10 / 11, 64 Bit",
+  "version": "0.186.20261124",
   "notes": [
-    "Die Charaktererstellung ist neu aufgebaut: Reiter für Vorlagen, Outfit, Gesicht, Haare sowie Kopf & Brille, 10 fertige Vorlagen, ein Zufall-Knopf und eine Zeile, die deinen Look zusammenfasst.",
-    "Mehr Auswahl: 10 Frisuren (neu: Locken, Pferdeschwanz, Bob, Irokese), neue Hüte (Krone, Barett, Cowboyhut), neue Bärte (Dreitagebart, Spitzbart), Brillen und Gaunermaske sowie 8 zusätzliche Augenfarben.",
-    "Neue Outfits: Gala mit Amtskette, Sommerkleid und Hoodie – dazu Stoffmuster für jedes Outfit (Streifen, Karo, Punkte, Tarnmuster, Hawaii).",
-    "Behoben: Bei einigen Frisuren schaute die Kopfhaut durch die Haare.",
-    "Gespeicherte Figuren sehen unverändert aus. Für Koop brauchen alle Spieler Version 0.185."
-  ]
+    "NEU IN 0.186 – Alien-Invasion „Operation Kürbisnacht“ überarbeitet.",
+    "Behoben: Die Aliens greifen nur noch das Rathaus an. Vorher wurden auch Schule, Klinik, Polizei oder Hochschule angegriffen.",
+    "Das Event ist neu inszeniert: Ein kurzer Film eröffnet die Invasion, die Stadt versinkt in der Nacht und ein riesiges Mutterschiff mit Lichtring und Suchscheinwerfern schwebt über den Dächern. Die Aliens landen in Lichtstrahlen, ein Schutzschild um das Rathaus zeigt jeden Treffer. Am Ende gibt es Feuerwerk – oder der Schild zerbricht.",
+    "Neue Anzeige mit Schildbalken, Bossbalken, Wellen, Leben und Munition, dazu große Einblendungen und 24 neue Soundeffekte, darunter Alarmsirene und Schiffsbrummen.",
+    "Aliens mit leuchtenden Adern, Randlicht, flackernden Gesichtern und weißem Trefferblitz. Sie holen aus, weichen bei Treffern zurück, materialisieren sich beim Landen und zerfallen grün glühend.",
+    "Waffen mit neuem Glanz, Mündungsfeuer mit Lichtschein, fliegenden Hülsen, Rotpunkt-Visier und Rückstoß. Treffer sprühen Funken oder grünen Schleim, Raketen ziehen Flamme und Rauchspur hinter sich her.",
+    "RÜCKBLICK – das Wichtigste aus den letzten Updates:",
+    "0.185 · Neue Charaktererstellung: Editor mit Reitern, 10 Vorlagen und Zufall-Knopf. 10 Frisuren, neue Hüte, Bärte und Brillen, 8 zusätzliche Augenfarben, 3 neue Outfits und 6 Stoffmuster.",
+    "0.184 · Neuer Spielstart: Hinweise und ein 15 Sekunden langer Introfilm mit eigener Musik, in dem eine riesige Hand das Rathaus aus der Stadt stiehlt. Mit gehaltener ESC-Taste überspringbar.",
+    "0.183 · Leistungsupdate: Häuser, Läden, Straßen, Gleise und Ampeln werden gebündelt gezeichnet. In der Teststadt sinken die Zeichenaufrufe in der Übersicht von etwa 250 auf rund 60.",
+    "0.182 · Stadtbewohner im neuen Stil: weich gerundete Figuren mit großem Kopf, acht neue Bewohner und angepasste Bewegungen beim Gehen, Radfahren und im Café.",
+    "0.181 · Spielerfiguren im Launcher-Stil: ausdrucksstarke Köpfe mit natürlichem Blinzeln, neu gestaltete Frisuren, Bärte, Hüte und Outfits.",
+    "Spielstände und Figuren bleiben erhalten. Im Koop sollten alle Spieler Version 0.186 nutzen."
+  ],
+  "title": "Civic Hijack · Operation Kürbisnacht neu"
 }
