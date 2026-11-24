@@ -1,14 +1,14 @@
 {
-  "title": "Civic Hijack · Flüssiger Start von Minispielen und Events",
   "installerSize": 2323968,
   "platform": "Windows 10 / 11, 64 Bit",
-  "version": "0.189.20261124",
-  "downloadSize": 186004278,
+  "downloadSize": 186008726,
+  "version": "0.190.20261124",
   "notes": [
-    "Kein Ruckeln mehr beim ersten Start eines Kirmes-Minispiels: Autoscooter, Schießstand, Abrissbirne und Chaos-Karussell werden schon während des Ladebildschirms vorbereitet. Der erste Start stockte vorher bis zu einer Viertelsekunde.",
-    "Alien-Event „Operation Kürbisnacht“ startet deutlich flüssiger: Raumschiff, Schutzschild, Aliens, Waffen, Effekte und Geräusche sind beim Start schon bereit, auch die erste Angriffswelle ruckelt nicht mehr.",
-    "Die erste Nacht in der Stadt stockt nicht mehr, wenn die Straßenbeleuchtung angeht.",
-    "Das Laden einer Stadt dauert dafür etwas länger (meist unter einer halben Sekunde).",
-    "Spielstände bleiben erhalten. Koop mit Spielern auf Version 0.188 funktioniert weiterhin."
-  ]
+    "Keine Ruckler mehr, wenn Gebäude fertig werden oder ein neuer Monat beginnt: Arbeitsplätze, Familien und Verkehr werden in großen Städten jetzt im Hintergrund neu berechnet.",
+    "Neue und ausgebaute Häuser werden im Hintergrund zusammengesetzt. Vorher stockte das Bild danach oft mehrere Bilder lang.",
+    "Minispiele und Events laufen flüssig, während die Stadt im Hintergrund normal weiterwächst.",
+    "Die Spielzeit großer Städte läuft jetzt genau so schnell wie eingestellt (vorher gingen beim Monatswechsel einige Tage verloren). Minispiel-Rekorde vom Monatsende gehen nicht mehr verloren.",
+    "Spielstände bleiben erhalten. Koop mit Spielern auf Version 0.189 funktioniert weiterhin."
+  ],
+  "title": "Civic Hijack · Flüssige Stadt, auch beim Wachsen"
 }
