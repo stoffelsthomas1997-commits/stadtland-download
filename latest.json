@@ -1,22 +1,17 @@
 {
-  "downloadSize": 185964888,
-  "installerSize": 2323968,
-  "platform": "Windows 10 / 11, 64 Bit",
-  "version": "0.186.20261124",
   "notes": [
-    "NEU IN 0.186 – Alien-Invasion „Operation Kürbisnacht“ überarbeitet.",
-    "Behoben: Die Aliens greifen nur noch das Rathaus an. Vorher wurden auch Schule, Klinik, Polizei oder Hochschule angegriffen.",
-    "Das Event ist neu inszeniert: Ein kurzer Film eröffnet die Invasion, die Stadt versinkt in der Nacht und ein riesiges Mutterschiff mit Lichtring und Suchscheinwerfern schwebt über den Dächern. Die Aliens landen in Lichtstrahlen, ein Schutzschild um das Rathaus zeigt jeden Treffer. Am Ende gibt es Feuerwerk – oder der Schild zerbricht.",
-    "Neue Anzeige mit Schildbalken, Bossbalken, Wellen, Leben und Munition, dazu große Einblendungen und 24 neue Soundeffekte, darunter Alarmsirene und Schiffsbrummen.",
-    "Aliens mit leuchtenden Adern, Randlicht, flackernden Gesichtern und weißem Trefferblitz. Sie holen aus, weichen bei Treffern zurück, materialisieren sich beim Landen und zerfallen grün glühend.",
-    "Waffen mit neuem Glanz, Mündungsfeuer mit Lichtschein, fliegenden Hülsen, Rotpunkt-Visier und Rückstoß. Treffer sprühen Funken oder grünen Schleim, Raketen ziehen Flamme und Rauchspur hinter sich her.",
-    "RÜCKBLICK – das Wichtigste aus den letzten Updates:",
-    "0.185 · Neue Charaktererstellung: Editor mit Reitern, 10 Vorlagen und Zufall-Knopf. 10 Frisuren, neue Hüte, Bärte und Brillen, 8 zusätzliche Augenfarben, 3 neue Outfits und 6 Stoffmuster.",
-    "0.184 · Neuer Spielstart: Hinweise und ein 15 Sekunden langer Introfilm mit eigener Musik, in dem eine riesige Hand das Rathaus aus der Stadt stiehlt. Mit gehaltener ESC-Taste überspringbar.",
-    "0.183 · Leistungsupdate: Häuser, Läden, Straßen, Gleise und Ampeln werden gebündelt gezeichnet. In der Teststadt sinken die Zeichenaufrufe in der Übersicht von etwa 250 auf rund 60.",
-    "0.182 · Stadtbewohner im neuen Stil: weich gerundete Figuren mit großem Kopf, acht neue Bewohner und angepasste Bewegungen beim Gehen, Radfahren und im Café.",
-    "0.181 · Spielerfiguren im Launcher-Stil: ausdrucksstarke Köpfe mit natürlichem Blinzeln, neu gestaltete Frisuren, Bärte, Hüte und Outfits.",
-    "Spielstände und Figuren bleiben erhalten. Im Koop sollten alle Spieler Version 0.186 nutzen."
+    "Neues Menü-Design: ein belebter Stadt-Hintergrund mit ziehenden Wolken und leuchtender Skyline, helle Karten, goldene Hauptknöpfe mit Symbolen und kurze Hinweise, was hinter jedem Knopf steckt.",
+    "Übersichtlicher: Das Pausemenü ist in „Unterwegs“, „Spielstand“ und „Mehr“ gegliedert. Das Spieler-Menü zeigt seine Bereiche als Karten mit Beschreibung, die Einstellungen haben Symbole an den Reitern und Zwischenüberschriften.",
+    "Animationen: Menüs, Fenster, Werkzeugregale und Meldungen öffnen sich mit kurzen, weichen Übergängen.",
+    "Neue Stadt-Anzeige oben: Stadtkasse, Einwohner, Datum und Uhrzeit auf einen Blick – ein Klick öffnet die Stadtdetails. Die Symbolleiste unten ist jetzt beschriftet.",
+    "Frischere Grafik: hellere, abwechslungsreichere Wiesen, ein blauerer Himmel, klarere Fernsicht und lebendigere Farben. Auch der Ladebildschirm ist neu.",
+    "Die Fernbahn aus dem Tunnel ist jetzt ein Standard-Doppelgleis. Noch nicht angeschlossene Tunnelstrecken in bestehenden Städten werden beim Laden einmal umgebaut.",
+    "Behoben: Im Reiter „Spiel“ ragten die Einstellungen über den Bildschirmrand, Meldungen verdeckten Werkzeugfenster, und beim Schließen während des Intros blieb ein Geräusch hängen.",
+    "Spielstände bleiben erhalten. Für Koop brauchen alle Spieler Version 0.187."
   ],
-  "title": "Civic Hijack · Operation Kürbisnacht neu"
+  "platform": "Windows 10 / 11, 64 Bit",
+  "version": "0.187.20261124",
+  "installerSize": 2323968,
+  "title": "Civic Hijack · Neues Menü & frischer Look",
+  "downloadSize": 185984529
 }
