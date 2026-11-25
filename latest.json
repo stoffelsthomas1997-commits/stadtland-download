@@ -1,14 +1,15 @@
 {
-  "title": "Civic Hijack · Schönere Fahrzeuge und Cockpits",
-  "installerSize": 2323968,
+  "downloadSize": 186064794,
   "platform": "Windows 10 / 11, 64 Bit",
-  "version": "0.191.20261124",
-  "downloadSize": 186032408,
+  "title": "Civic Hijack · Flusstal und Gebiete kaufen",
+  "version": "0.192.20261125",
   "notes": [
-    "Alle Fahrzeuge sehen schöner aus: abgerundete Karosserien, spiegelnde Scheiben, Kühlergrill, Scheinwerfer, Außenspiegel und neue Felgen. Bus, Lkw, Eiswagen und Motorräder sind neu gestaltet.",
-    "Fahrräder haben jetzt Speichenräder, die sich beim Fahren drehen, einen echten Rahmen, Pedale, Schutzbleche und Licht. Manche haben einen Korb.",
-    "Neues Cockpit in der Ich-Perspektive: Motorhaube in Wagenfarbe, Scheibenwischer, Boden mit Pedalen und eine eigene Ausstattung je Fahrzeugtyp. Im Taxi gibt es ein Taxameter, im Bus einen Ticketdrucker. Unter dem Armaturenbrett sieht man nicht mehr die Straße.",
-    "Einsteigen ins Auto geht jetzt ohne Ruckler, und viele Autos auf einmal werden schneller aufgebaut.",
-    "Spielstände bleiben erhalten. Koop mit Spielern auf Version 0.190 funktioniert weiterhin."
-  ]
+    "Neue Standardkarte Flusstal: ein breiter Fluss mit Brücken, hügelige Wälder und Land bis zum Horizont.",
+    "Gebiete kaufen: Du startest mit 1 km² und kaufst neue Gebiete dazu, wenn deine Stadt wächst (Extras → Gebiete kaufen).",
+    "Neues Flachland: derselbe Fluss und dasselbe weite Land, aber die ganze Baufläche ist eben.",
+    "Bei jeder neuen Welt wählst du jetzt die Spielweise: Leicht, Mittel, Schwer oder Baumodus.",
+    "Spielstände bleiben erhalten. Die Hügelkarte ist für neue Welten pausiert. Für Koop brauchen alle Version 0.192.",
+    "Bugfixes: keine Erde mehr in Grundstücken am Hang, breite Gebäude werden ganz geebnet, Bahntunnel sitzen sauber im Hang."
+  ],
+  "installerSize": 2323968
 }
