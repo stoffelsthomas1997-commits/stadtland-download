@@ -1,15 +1,15 @@
 {
-  "downloadSize": 186064794,
-  "platform": "Windows 10 / 11, 64 Bit",
-  "title": "Civic Hijack · Flusstal und Gebiete kaufen",
-  "version": "0.192.20261125",
+  "installerSize": 2323968,
+  "downloadSize": 186064970,
   "notes": [
-    "Neue Standardkarte Flusstal: ein breiter Fluss mit Brücken, hügelige Wälder und Land bis zum Horizont.",
-    "Gebiete kaufen: Du startest mit 1 km² und kaufst neue Gebiete dazu, wenn deine Stadt wächst (Extras → Gebiete kaufen).",
-    "Neues Flachland: derselbe Fluss und dasselbe weite Land, aber die ganze Baufläche ist eben.",
-    "Bei jeder neuen Welt wählst du jetzt die Spielweise: Leicht, Mittel, Schwer oder Baumodus.",
-    "Spielstände bleiben erhalten. Die Hügelkarte ist für neue Welten pausiert. Für Koop brauchen alle Version 0.192.",
-    "Bugfixes: keine Erde mehr in Grundstücken am Hang, breite Gebäude werden ganz geebnet, Bahntunnel sitzen sauber im Hang."
+    "Übersichtlichere Leiste unten: Gebiete, Straßen, Transport, Netze, Bildung, Sicherheit, Freizeit, Bauen und Abriss.",
+    "Transport bündelt Bus, Flugplatz und Bahn, mit Buslinien- und Bahnlinienverwaltung.",
+    "Freizeit bündelt Parks und Kirmes. Bauen enthält jetzt auch Deko und Pinsel, mit kleinen Überschriften.",
+    "Gebiete kaufst du direkt über den Knopf ganz links. Die Stadtübersicht sitzt rechts bei den Infos.",
+    "Spielstände bleiben erhalten. Koop mit Spielern auf Version 0.192 funktioniert weiterhin.",
+    "Bugfixes: Der Hinweis beim Bauen auf fremdem Land zeigt jetzt den richtigen Weg zum Gebietskauf."
   ],
-  "installerSize": 2323968
+  "platform": "Windows 10 / 11, 64 Bit",
+  "title": "Civic Hijack · Übersichtlichere Leiste",
+  "version": "0.193.20261125"
 }
