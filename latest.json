@@ -1,14 +1,14 @@
 {
+  "title": "Civic Hijack · Schönere Fahrzeuge und Cockpits",
   "installerSize": 2323968,
   "platform": "Windows 10 / 11, 64 Bit",
-  "downloadSize": 186008726,
-  "version": "0.190.20261124",
+  "version": "0.191.20261124",
+  "downloadSize": 186032408,
   "notes": [
-    "Keine Ruckler mehr, wenn Gebäude fertig werden oder ein neuer Monat beginnt: Arbeitsplätze, Familien und Verkehr werden in großen Städten jetzt im Hintergrund neu berechnet.",
-    "Neue und ausgebaute Häuser werden im Hintergrund zusammengesetzt. Vorher stockte das Bild danach oft mehrere Bilder lang.",
-    "Minispiele und Events laufen flüssig, während die Stadt im Hintergrund normal weiterwächst.",
-    "Die Spielzeit großer Städte läuft jetzt genau so schnell wie eingestellt (vorher gingen beim Monatswechsel einige Tage verloren). Minispiel-Rekorde vom Monatsende gehen nicht mehr verloren.",
-    "Spielstände bleiben erhalten. Koop mit Spielern auf Version 0.189 funktioniert weiterhin."
-  ],
-  "title": "Civic Hijack · Flüssige Stadt, auch beim Wachsen"
+    "Alle Fahrzeuge sehen schöner aus: abgerundete Karosserien, spiegelnde Scheiben, Kühlergrill, Scheinwerfer, Außenspiegel und neue Felgen. Bus, Lkw, Eiswagen und Motorräder sind neu gestaltet.",
+    "Fahrräder haben jetzt Speichenräder, die sich beim Fahren drehen, einen echten Rahmen, Pedale, Schutzbleche und Licht. Manche haben einen Korb.",
+    "Neues Cockpit in der Ich-Perspektive: Motorhaube in Wagenfarbe, Scheibenwischer, Boden mit Pedalen und eine eigene Ausstattung je Fahrzeugtyp. Im Taxi gibt es ein Taxameter, im Bus einen Ticketdrucker. Unter dem Armaturenbrett sieht man nicht mehr die Straße.",
+    "Einsteigen ins Auto geht jetzt ohne Ruckler, und viele Autos auf einmal werden schneller aufgebaut.",
+    "Spielstände bleiben erhalten. Koop mit Spielern auf Version 0.190 funktioniert weiterhin."
+  ]
 }
