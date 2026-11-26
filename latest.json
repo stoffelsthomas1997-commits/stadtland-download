@@ -1,15 +1,10 @@
 {
   "installerSize": 2323968,
-  "downloadSize": 186064970,
+  "title": "Civic Hijack 0.194.20261125",
+  "version": "0.194.20261125",
   "notes": [
-    "Übersichtlichere Leiste unten: Gebiete, Straßen, Transport, Netze, Bildung, Sicherheit, Freizeit, Bauen und Abriss.",
-    "Transport bündelt Bus, Flugplatz und Bahn, mit Buslinien- und Bahnlinienverwaltung.",
-    "Freizeit bündelt Parks und Kirmes. Bauen enthält jetzt auch Deko und Pinsel, mit kleinen Überschriften.",
-    "Gebiete kaufst du direkt über den Knopf ganz links. Die Stadtübersicht sitzt rechts bei den Infos.",
-    "Spielstände bleiben erhalten. Koop mit Spielern auf Version 0.192 funktioniert weiterhin.",
-    "Bugfixes: Der Hinweis beim Bauen auf fremdem Land zeigt jetzt den richtigen Weg zum Gebietskauf."
+    "Verbesserungen und Fehlerbehebungen."
   ],
   "platform": "Windows 10 / 11, 64 Bit",
-  "title": "Civic Hijack · Übersichtlichere Leiste",
-  "version": "0.193.20261125"
+  "downloadSize": 186083626
 }
